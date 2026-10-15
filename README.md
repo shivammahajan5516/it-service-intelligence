@@ -1,5 +1,7 @@
 # IT Service Intelligence Platform
 
+**Live demo:** https://it-service-intelligence.vercel.app · **API docs:** https://YOUR-API.onrender.com/docs
+
 **SLA monitoring, incident root-cause analysis and operational performance, built end to end:**
 business analysis → synthetic data → PostgreSQL → SQL and Python analytics → FastAPI → React
 dashboard → Power BI.
@@ -140,5 +142,4 @@ and future improvements are in [`docs/09_career_portfolio.md`](docs/09_career_po
 
 ---
 
-*Author: [Your name](https://www.linkedin.com/in/your-profile) · MSc Software Engineering ·
-Portfolio project for Data Analyst / Business Analyst roles.*
+*Author: [Shubham Mahajan](https://www.linkedin.com/in/shubhammahajanz/)
