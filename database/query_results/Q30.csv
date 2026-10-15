@@ -1,0 +1,20 @@
+category,subcategory,breaches,breach_rate_pct,pct_of_breaches,cumulative_pct
+Network,VPN Connectivity,361,32.0,9.4,9.4
+Network,LAN / Switching,262,52.0,6.8,16.1
+Cloud Services,Azure Resource Issue,258,43.7,6.7,22.8
+Business Applications,ERP Issue,254,34.6,6.6,29.4
+Hardware,Laptop / Desktop Fault,245,26.0,6.3,35.8
+Network,Wi-Fi,186,27.0,4.8,40.6
+Network,DNS / DHCP,179,51.6,4.6,45.2
+Business Applications,Integration / API Failure,170,34.1,4.4,49.6
+Infrastructure,Server Outage,169,39.9,4.4,54.0
+Network,Firewall Rule Change,129,25.5,3.3,57.3
+Software,Performance Degradation,128,26.2,3.3,60.7
+Hardware,Mobile Device,122,27.1,3.2,63.8
+Infrastructure,Virtualisation,122,36.5,3.2,67.0
+Cloud Services,AWS Resource Issue,110,39.1,2.9,69.8
+Infrastructure,Backup Failure,108,17.3,2.8,72.6
+Software,Application Crash,100,15.4,2.6,75.2
+Access & Identity,SSO Failure,95,26.2,2.5,77.7
+Email & Collaboration,SharePoint / OneDrive,84,10.7,2.2,79.9
+Access & Identity,MFA Issue,82,12.3,2.1,82.0

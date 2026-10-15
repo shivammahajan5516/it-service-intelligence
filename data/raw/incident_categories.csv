@@ -1,0 +1,40 @@
+subcategory_id,category_id,category,subcategory,default_team_id,complexity_tier,is_service_request
+SC01,CAT01,Access & Identity,Password Reset,T01,Low,true
+SC02,CAT01,Access & Identity,Account Lockout,T01,Low,false
+SC03,CAT01,Access & Identity,MFA Issue,T06,Medium,false
+SC04,CAT01,Access & Identity,Permission Request,T06,Low,true
+SC05,CAT01,Access & Identity,SSO Failure,T06,High,false
+SC06,CAT02,Hardware,Laptop / Desktop Fault,T02,Medium,false
+SC07,CAT02,Hardware,Printer Issue,T02,Low,false
+SC08,CAT02,Hardware,Peripheral Request,T02,Low,true
+SC09,CAT02,Hardware,Mobile Device,T02,Medium,false
+SC10,CAT03,Software,Software Installation,T02,Low,true
+SC11,CAT03,Software,Licensing,T02,Low,true
+SC12,CAT03,Software,Application Crash,T05,Medium,false
+SC13,CAT03,Software,Performance Degradation,T05,High,false
+SC14,CAT04,Email & Collaboration,Mailbox Issue,T01,Low,false
+SC15,CAT04,Email & Collaboration,Microsoft Teams,T01,Low,false
+SC16,CAT04,Email & Collaboration,SharePoint / OneDrive,T01,Medium,false
+SC17,CAT05,Network,VPN Connectivity,T03,Medium,false
+SC18,CAT05,Network,Wi-Fi,T03,Medium,false
+SC19,CAT05,Network,LAN / Switching,T03,High,false
+SC20,CAT05,Network,Firewall Rule Change,T03,Medium,true
+SC21,CAT05,Network,DNS / DHCP,T03,High,false
+SC22,CAT06,Infrastructure,Server Outage,T04,High,false
+SC23,CAT06,Infrastructure,Storage Capacity,T04,Medium,false
+SC24,CAT06,Infrastructure,Backup Failure,T04,Medium,false
+SC25,CAT06,Infrastructure,Virtualisation,T04,High,false
+SC26,CAT07,Cloud Services,Azure Resource Issue,T04,High,false
+SC27,CAT07,Cloud Services,AWS Resource Issue,T04,High,false
+SC28,CAT07,Cloud Services,Cloud Access Request,T04,Low,true
+SC29,CAT08,Business Applications,ERP Issue,T05,High,false
+SC30,CAT08,Business Applications,CRM Issue,T05,Medium,false
+SC31,CAT08,Business Applications,Integration / API Failure,T05,High,false
+SC32,CAT09,Security,Phishing Report,T07,Low,false
+SC33,CAT09,Security,Malware Detection,T07,High,false
+SC34,CAT09,Security,Suspicious Sign-in,T07,Medium,false
+SC35,CAT09,Security,Data Loss Prevention Alert,T07,Medium,false
+SC36,CAT10,Database,Query Performance,T08,High,false
+SC37,CAT10,Database,Database Connectivity,T08,Medium,false
+SC38,CAT10,Database,Backup / Restore Request,T08,Medium,true
+SC39,CAT10,Database,Data Correction Request,T08,Low,true

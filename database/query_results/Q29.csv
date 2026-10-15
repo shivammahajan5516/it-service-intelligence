@@ -1,0 +1,12 @@
+root_cause,incidents,pct,cumulative_pct,breach_pct,pareto_class
+Configuration Error,3135,19.4,19.4,18.0,A (first 50%)
+Change-Related,2859,17.7,37.2,26.8,A (first 50%)
+User Error,2131,13.2,50.4,6.6,A (first 50%)
+Hardware Failure,1476,9.2,59.5,26.5,B (to 80%)
+Third-Party / Vendor,1296,8.0,67.6,37.8,B (to 80%)
+Software Defect,1152,7.1,74.7,23.8,B (to 80%)
+Undetermined,1090,6.8,81.5,20.7,B (to 80%)
+Known Error,913,5.7,87.1,19.2,C (tail)
+Security Threat,855,5.3,92.4,5.5,C (tail)
+Capacity / Performance,779,4.8,97.3,25.2,C (tail)
+Network Connectivity,440,2.7,100.0,34.8,C (tail)

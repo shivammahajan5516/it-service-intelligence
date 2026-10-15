@@ -1,0 +1,23 @@
+# Business rules
+
+These rules govern how raw tickets become KPI populations. They are implemented in the `clean`
+schema and the `analytics` views, and are referenced by ID throughout the code.
+
+| ID | Rule | Rationale |
+|---|---|---|
+| BR-RULE-01 | **Duplicates.** Exact duplicate rows are collapsed to one. A *near-duplicate* is a ticket for the same customer, subcategory and priority created ≤ 15 minutes after another; it is flagged `possible_duplicate` and excluded from KPIs. The earliest ticket is kept. | Customers often raise the same issue twice (email + portal). Counting both inflates volume and breaches. |
+| BR-RULE-02 | **Priority matrix.** P1 = Critical (complete outage or security incident affecting many users); P2 = High (major degradation or a VIP blocked); P3 = Medium (single user or workaround available); P4 = Low (request or minor issue). | Standard ITIL-style impact × urgency matrix |
+| BR-RULE-03 | **SLA clock.** Resolution time = `resolved_at − created_at`, in elapsed calendar hours. There is no pause for Pending Customer, and no business-hours calendar. | Simple and consistent; recorded as assumption A-03 |
+| BR-RULE-04 | **SLA population.** Tickets with status Resolved or Closed, valid timestamps (BR-RULE-06) and a known SLA target. A ticket breaches if `resolution_time_hours > sla_target_hours`. Cancelled tickets are excluded. Open tickets are reported separately as backlog. | Breach is only known once a ticket resolves |
+| BR-RULE-05 | **Open statuses.** New, In Progress, Pending Customer and On Hold are open. Resolved and Closed are complete. Cancelled is neither. | |
+| BR-RULE-06 | **Timestamp validity.** A ticket is invalid for duration KPIs if `resolved_at < created_at`, `first_response_at < created_at`, `first_response_at > resolved_at`, or it is Resolved/Closed with no `resolved_at`. Invalid tickets stay in volume counts but are excluded from time and SLA KPIs, and are listed for investigation. | Avoids negative durations corrupting averages |
+| BR-RULE-07 | **CSAT validity.** Only integers 1–5 are valid. Other values (0, 6–10, −1) are treated as missing and flagged. Averages are shown with response count; customer-level averages need ≥ 5 responses. | Out-of-scale values suggest a 10-point survey import error |
+| BR-RULE-08 | **Resolution outliers.** Resolution > 30 days, or > 10 × the SLA target, is a *business-rule outlier*: probably a ticket not closed when the work finished. These count as breaches in the SLA rate (the customer did experience the delay as recorded) but are excluded from median and mean resolution time and listed for investigation. | Separates "how long work takes" from "tickets left open" |
+| BR-RULE-09 | **FCR definition.** FCR = resolved during the first interaction, with no escalation and no reopen. Records with FCR = true and either an escalation or a reopen are contradictory; they are excluded from the FCR KPI and flagged. | Keeps FCR consistent with its definition |
+| BR-RULE-10 | **Repeat incident.** An incident (not a service request) is a repeat if the same customer logged the same subcategory within the previous 30 days. | Standard proxy for unresolved underlying problems |
+| BR-RULE-11 | **Service requests vs incidents.** Subcategories marked `is_service_request = true` (e.g. Password Reset, Software Installation) carry root cause "Service Request" and are excluded from root-cause Pareto and repeat-incident KPIs. | A request is not a failure |
+| BR-RULE-12 | **Category standardisation.** Category labels are mapped to the controlled list in `incident_categories` (e.g. "Netwrk", "network" → "Network"). If a label cannot be mapped, the category is derived from the subcategory. | Prevents the same category splitting across labels |
+| BR-RULE-13 | **Orphan keys.** Tickets whose `customer_id` is not in `customers` are kept for volume, assigned to customer "Unknown", and excluded from customer-level analysis. Tickets whose agent is not in the resolver team are flagged for investigation but kept. | Do not silently drop real workload |
+| BR-RULE-14 | **At-risk customer.** In the last 90 days, a customer with ≥ 10 resolved tickets **and** at least two of: breach rate ≥ 1.5 × company average; repeat-incident rate ≥ 20%; average CSAT ≤ 3.5 (with ≥ 5 responses). | Transparent rule a CSM can explain to a customer |
+| BR-RULE-15 | **Missing SLA target.** If `sla_target_hours` is missing, derive it from `sla_targets` using the customer's `sla_level` and the ticket priority. | The target is deterministic from the contract |
+| BR-RULE-16 | **Workload.** Tickets per agent = valid tickets ÷ planned headcount ÷ number of months in range. | No rostering data available (assumption A-08) |

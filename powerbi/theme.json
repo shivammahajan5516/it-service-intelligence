@@ -1,0 +1,28 @@
+{
+  "name": "Service Intelligence",
+  "dataColors": ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4", "#008300", "#6250d6", "#e34948"],
+  "background": "#ffffff",
+  "foreground": "#14212b",
+  "tableAccent": "#0f5e6b",
+  "good": "#0ca30c",
+  "neutral": "#fab219",
+  "bad": "#d03b3b",
+  "maximum": "#184f95",
+  "center": "#6da7ec",
+  "minimum": "#eef4fc",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#14212b" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#46535c" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 26, "color": "#14212b" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#ffffff" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#dfe3e1" } }, "radius": 6 }],
+        "dropShadow": [{ "show": false }]
+      }
+    },
+    "page": { "*": { "background": [{ "color": { "solid": { "color": "#f6f7f5" } }, "transparency": 0 }] } }
+  }
+}

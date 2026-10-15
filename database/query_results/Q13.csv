@@ -1,0 +1,4 @@
+operating_model,n_in_hours,breach_pct_in_hours,n_out_of_hours,breach_pct_out_of_hours,relative_risk
+Business Hours,5036,11.7,1606,31.1,2.66
+Business Hours + On-call,2372,16.1,745,30.9,1.91
+24x7,5822,12.5,1838,12.8,1.02

@@ -1,0 +1,173 @@
+// =============================================================================
+// IT Service Intelligence Platform - DAX measures (synthetic data)
+//
+// Model: 'Fact Tickets' = analytics.pbi_fact_tickets (flags are 0/1, BLANK when
+// outside the population), plus the dimension tables listed in powerbi/README.md.
+// Create a display folder per section. Format strings are given after each measure.
+// Every measure mirrors a KPI in docs/04_kpi_catalogue.md and must reproduce the
+// SQL values in powerbi/README.md section 8 (acceptance test).
+// =============================================================================
+
+// ---------------------------------------------------------------- Volume
+Total Tickets =
+COUNTROWS ( 'Fact Tickets' )                                                   // format: #,0
+
+Open Tickets =
+CALCULATE ( [Total Tickets], 'Fact Tickets'[is_open] = 1 )                      // #,0
+
+Resolved Tickets =
+CALCULATE ( [Total Tickets], 'Fact Tickets'[is_resolved] = 1 )                  // #,0
+
+Open Past Target =
+CALCULATE ( [Total Tickets], 'Fact Tickets'[is_open_past_target] = 1 )          // #,0
+
+// ---------------------------------------------------------------- SLA (KPI-03, KPI-04, KPI-14)
+SLA Population =
+CALCULATE ( [Total Tickets], 'Fact Tickets'[in_sla_population] = 1 )            // #,0
+
+SLA Breaches =
+CALCULATE ( [Total Tickets], 'Fact Tickets'[sla_breached] = 1 )                 // #,0
+
+SLA Breach % =
+DIVIDE ( [SLA Breaches], [SLA Population] )                                     // 0.0%
+
+SLA Compliance % =
+IF ( NOT ISBLANK ( [SLA Breach %] ), 1 - [SLA Breach %] )                        // 0.0%
+
+SLA Target Gap (pts) =
+// positive = worse than the 15% breach objective (OBJ-01)
+VAR Target = 0.15
+RETURN IF ( NOT ISBLANK ( [SLA Breach %] ), ( [SLA Breach %] - Target ) * 100 )   // +0.0;-0.0
+
+Response SLA Met % =
+DIVIDE (
+    CALCULATE ( [Total Tickets], 'Fact Tickets'[response_sla_met] = 1 ),
+    CALCULATE ( [Total Tickets], 'Fact Tickets'[in_response_population] = 1 )
+)                                                                               // 0.0%
+
+Breach Status Colour =
+// for conditional formatting; status colours always paired with an icon/label
+SWITCH (
+    TRUE (),
+    ISBLANK ( [SLA Breach %] ), "#6b7780",
+    [SLA Breach %] <= 0.15, "#0ca30c",
+    [SLA Breach %] <= 0.25, "#fab219",
+    "#d03b3b"
+)
+
+// ---------------------------------------------------------------- Resolution time (KPI-05, KPI-06)
+Avg Resolution Hours =
+CALCULATE ( AVERAGE ( 'Fact Tickets'[resolution_time_hours] ),
+            'Fact Tickets'[in_duration_population] = 1 )                         // 0.0
+
+Median Resolution Hours =
+// MEDIAN interpolates exactly like PostgreSQL percentile_cont(0.5)
+CALCULATE ( MEDIAN ( 'Fact Tickets'[resolution_time_hours] ),
+            'Fact Tickets'[in_duration_population] = 1 )                         // 0.0
+
+P90 Resolution Hours =
+CALCULATE ( PERCENTILE.INC ( 'Fact Tickets'[resolution_time_hours], 0.9 ),
+            'Fact Tickets'[in_duration_population] = 1 )                         // 0.0
+
+// ---------------------------------------------------------------- Quality of resolution (KPI-07, 08, 09, 12)
+FCR % =
+DIVIDE (
+    CALCULATE ( [Total Tickets], 'Fact Tickets'[fcr_achieved] = 1 ),
+    CALCULATE ( [Total Tickets], 'Fact Tickets'[in_fcr_population] = 1 )
+)                                                                               // 0.0%
+
+Reopen % =
+DIVIDE ( CALCULATE ( [Resolved Tickets], 'Fact Tickets'[is_reopened] = 1 ), [Resolved Tickets] )  // 0.0%
+
+Escalation % =
+DIVIDE ( CALCULATE ( [Total Tickets], 'Fact Tickets'[is_escalated] = 1 ), [Total Tickets] )     // 0.0%
+
+Repeat Incident % =
+DIVIDE (
+    CALCULATE ( [Total Tickets], 'Fact Tickets'[is_repeat_incident] = 1 ),
+    CALCULATE ( [Total Tickets], NOT ISBLANK ( 'Fact Tickets'[is_repeat_incident] ) )
+)                                                                               // 0.0%
+
+KB Usage % =
+DIVIDE ( CALCULATE ( [Total Tickets], 'Fact Tickets'[kb_used] = 1 ),
+         CALCULATE ( [Total Tickets], NOT ISBLANK ( 'Fact Tickets'[kb_used] ) ) ) // 0.0%
+
+// ---------------------------------------------------------------- Customer satisfaction (KPI-10, KPI-11)
+Avg CSAT =
+AVERAGE ( 'Fact Tickets'[customer_satisfaction] )                               // 0.00
+
+CSAT Responses =
+COUNT ( 'Fact Tickets'[customer_satisfaction] )                                 // #,0
+
+CSAT Response % =
+DIVIDE ( [CSAT Responses], [Resolved Tickets] )                                 // 0.0%
+
+Avg CSAT (min 5 responses) =
+// suppress unreliable averages for small groups (BR-RULE-07)
+IF ( [CSAT Responses] >= 5, [Avg CSAT] )                                        // 0.00
+
+CSAT Breached vs Met (pts) =
+CALCULATE ( [Avg CSAT], 'Fact Tickets'[sla_breached] = 1 )
+    - CALCULATE ( [Avg CSAT], 'Fact Tickets'[sla_breached] = 0 )                 // +0.00;-0.00
+
+// ---------------------------------------------------------------- Team comparison (KPI-13)
+Months In Context =
+DISTINCTCOUNT ( 'Fact Tickets'[created_month] )                                 // 0
+
+Tickets per Agent per Month =
+DIVIDE ( [Total Tickets], SUM ( 'Dim Team'[planned_headcount] ) * [Months In Context] )  // 0.0
+
+Breach % vs Company (pts) =
+( [SLA Breach %] - CALCULATE ( [SLA Breach %], REMOVEFILTERS ( 'Dim Team' ) ) ) * 100     // +0.0;-0.0
+
+Team Breach Rank =
+// 1 = worst breach rate among teams in the current filter context
+IF ( HASONEVALUE ( 'Dim Team'[team_name] ),
+     RANKX ( ALLSELECTED ( 'Dim Team'[team_name] ), [SLA Breach %], , DESC, DENSE ) )
+
+Workload Spread (max/min) =
+// OBJ-05: ratio of highest to lowest tickets-per-agent across teams
+VAR PerTeam = ADDCOLUMNS ( VALUES ( 'Dim Team'[team_id] ), "@load", [Tickets per Agent per Month] )
+RETURN DIVIDE ( MAXX ( PerTeam, [@load] ), MINX ( PerTeam, [@load] ) )         // 0.0"x"
+
+// ---------------------------------------------------------------- Time intelligence ('Dim Date' marked as date table)
+Tickets PY =
+CALCULATE ( [Total Tickets], SAMEPERIODLASTYEAR ( 'Dim Date'[date] ) )          // #,0
+
+Tickets YoY % =
+DIVIDE ( [Total Tickets] - [Tickets PY], [Tickets PY] )                         // +0.0%;-0.0%
+
+Tickets YTD =
+TOTALYTD ( [Total Tickets], 'Dim Date'[date] )                                  // #,0
+
+SLA Breach % PM =
+CALCULATE ( [SLA Breach %], DATEADD ( 'Dim Date'[date], -1, MONTH ) )           // 0.0%
+
+SLA Breach % MoM (pts) =
+IF ( NOT ISBLANK ( [SLA Breach % PM] ), ( [SLA Breach %] - [SLA Breach % PM] ) * 100 )  // +0.0;-0.0
+
+SLA Breach % PY =
+CALCULATE ( [SLA Breach %], SAMEPERIODLASTYEAR ( 'Dim Date'[date] ) )           // 0.0%
+
+SLA Breach % Rolling 3M =
+CALCULATE ( [SLA Breach %],
+            DATESINPERIOD ( 'Dim Date'[date], MAX ( 'Dim Date'[date] ), -3, MONTH ) )  // 0.0%
+
+SLA Breach % Previous Period =
+// same-length window immediately before the selected dates (matches the web dashboard)
+VAR StartDate = MIN ( 'Dim Date'[date] )
+VAR EndDate   = MAX ( 'Dim Date'[date] )
+VAR Days      = INT ( EndDate - StartDate ) + 1
+RETURN CALCULATE ( [SLA Breach %],
+                   DATESBETWEEN ( 'Dim Date'[date], StartDate - Days, StartDate - 1 ) )  // 0.0%
+
+Tickets Resolved (by resolved date) =
+// uses the INACTIVE relationship Fact[resolved_date] -> Dim Date[date]
+CALCULATE ( [Resolved Tickets], USERELATIONSHIP ( 'Fact Tickets'[resolved_date], 'Dim Date'[date] ) )  // #,0
+
+// ---------------------------------------------------------------- Customers (KPI-16)
+At-Risk Customers =
+CALCULATE ( COUNTROWS ( 'Customer Risk' ), 'Customer Risk'[is_at_risk] = 1 )    // #,0
+
+Customers With Tickets =
+DISTINCTCOUNT ( 'Fact Tickets'[customer_id] )                                   // #,0

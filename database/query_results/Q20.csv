@@ -1,0 +1,5 @@
+volume_quartile,customers,min_tickets,max_tickets,total_tickets,pct_of_all_tickets,repeat_incident_pct,avg_customer_breach_pct
+1,125,1,16,1302,5.9,1.8,10.5
+2,125,16,28,2740,12.4,3.7,12.3
+3,125,28,55,5141,23.3,7.1,15.9
+4,124,55,295,12897,58.4,17.8,19.6

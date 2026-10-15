@@ -1,0 +1,16 @@
+ticket_id,priority,team_name,customer_name,sla_level,ticket_status,sla_target_hours,open_age_hours,times_over_target
+TKT-020287,P1,Security Operations,Kestrel Legal Group,Gold,In Progress,4.0,1375.3,343.8
+TKT-020756,P1,Identity & Access Management,Derwent Components Ltd,Platinum,Pending Customer,4.0,1069.5,267.4
+TKT-020889,P1,Application Support,Stanmore Labs Group,Platinum,Pending Customer,4.0,997.6,249.4
+TKT-020376,P2,Service Desk,Portland Outlets plc,Platinum,Pending Customer,8.0,1331.1,166.4
+TKT-020571,P2,Database Services,Granite Accountants Group,Platinum,Pending Customer,8.0,1192.2,149.0
+TKT-021463,P1,Infrastructure & Cloud,Tyne Authority,Gold,Pending Customer,4.0,575.1,143.8
+TKT-021632,P1,Identity & Access Management,Kestrel Outlets Ltd,Gold,Pending Customer,4.0,484.9,121.2
+TKT-020983,P2,Security Operations,Lomond Financial Ltd,Platinum,In Progress,8.0,949.3,118.7
+TKT-021001,P2,Service Desk,Oakridge Academy Trust,Platinum,In Progress,8.0,904.1,113.0
+TKT-020724,P2,Service Desk,Marlow Outlets Ltd,Gold,Pending Customer,12.0,1104.8,92.1
+TKT-021267,P2,Service Desk,Northgate Engineering plc,Platinum,In Progress,8.0,732.1,91.5
+TKT-020797,P2,Service Desk,Clifton Wealth Ltd,Gold,In Progress,12.0,1060.6,88.4
+TKT-021416,P2,Network Operations,Osprey Bank plc,Platinum,In Progress,8.0,636.4,79.6
+TKT-021422,P2,Identity & Access Management,Ironbridge Digital plc,Platinum,In Progress,8.0,634.4,79.3
+TKT-021853,P1,Identity & Access Management,Northgate Engineering plc,Platinum,In Progress,4.0,306.0,76.5

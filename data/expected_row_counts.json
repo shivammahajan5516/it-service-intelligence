@@ -1,0 +1,10 @@
+{
+  "_comment": "Acceptance ranges for the raw extract. Tickets vary slightly with the seed because daily volumes are Poisson draws; the default seed (42) is pinned in data/raw/manifest.json.",
+  "tickets.csv": {"min": 20000, "max": 25000},
+  "customers.csv": {"min": 500, "max": 500},
+  "agents.csv": {"min": 80, "max": 80},
+  "support_teams.csv": {"min": 8, "max": 8},
+  "sla_targets.csv": {"min": 16, "max": 16},
+  "calendar.csv": {"min": 731, "max": 731},
+  "incident_categories.csv": {"min": 39, "max": 39}
+}

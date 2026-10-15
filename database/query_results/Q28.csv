@@ -1,0 +1,5 @@
+priority,escalation_pct,median_h_not_escalated,median_h_escalated,breach_pct_not_escalated,breach_pct_escalated
+P1,56.3,1.5,6.7,15.0,65.3
+P2,38.8,4.3,13.7,13.9,46.4
+P3,20.2,13.3,32.7,15.3,37.8
+P4,11.6,19.7,58.1,6.5,25.9

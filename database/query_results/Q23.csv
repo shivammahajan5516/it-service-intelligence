@@ -1,0 +1,9 @@
+date,day_name,tickets,prior_28d_avg,ratio_to_normal,top_subcategories
+2025-09-23,Tuesday,129,42.9,3.01,"Azure Resource Issue (72), ERP Issue (5)"
+2025-03-11,Tuesday,124,41.4,3.0,"VPN Connectivity (85), Mailbox Issue (5)"
+2024-10-08,Tuesday,89,36.4,2.45,"Integration / API Failure (42), AWS Resource Issue (3)"
+2025-06-03,Tuesday,69,41.1,1.68,"Account Lockout (8), Data Correction Request (5)"
+2024-05-13,Monday,57,34.9,1.63,"Laptop / Desktop Fault (4), Phishing Report (4)"
+2024-09-03,Tuesday,48,30.3,1.58,"Mailbox Issue (4), VPN Connectivity (4)"
+2025-01-06,Monday,54,34.3,1.57,"Mailbox Issue (4), Microsoft Teams (4)"
+2024-07-30,Tuesday,54,34.9,1.55,"Software Installation (5), MFA Issue (4)"

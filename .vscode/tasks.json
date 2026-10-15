@@ -1,0 +1,108 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Setup: create venv + install + build data",
+      "type": "shell",
+      "command": "bash scripts/setup.sh",
+      "windows": {
+        "command": "powershell -ExecutionPolicy Bypass -File scripts/setup.ps1"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Data: regenerate, validate, check reproducibility",
+      "type": "shell",
+      "command": "bash scripts/regenerate_all.sh",
+      "windows": {
+        "command": "powershell -ExecutionPolicy Bypass -File scripts/regenerate_all.ps1"
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Data: validate only",
+      "type": "shell",
+      "command": "${command:python.interpreterPath} scripts/validate_dataset.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Database: build (load CSVs into PostgreSQL)",
+      "type": "shell",
+      "command": "bash database/build_database.sh",
+      "windows": {
+        "command": "powershell -ExecutionPolicy Bypass -File database/build_database.ps1"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Database: reconcile KPIs vs pandas",
+      "type": "shell",
+      "command": "${command:python.interpreterPath} scripts/reconcile_db.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "SQL: run all analysis queries",
+      "type": "shell",
+      "command": "${command:python.interpreterPath} scripts/run_sql_analysis.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Data: baseline KPIs",
+      "type": "shell",
+      "command": "${command:python.interpreterPath} scripts/baseline_kpis.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Tests: run all",
+      "type": "shell",
+      "command": "${command:python.interpreterPath} -m pytest tests -q",
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "API: start (FastAPI on :8000)",
+      "type": "shell",
+      "command": "bash scripts/start_api.sh",
+      "windows": {
+        "command": "powershell -ExecutionPolicy Bypass -File scripts/start_api.ps1"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Dashboard: start (React on :5173)",
+      "type": "shell",
+      "command": "bash scripts/start_dashboard.sh",
+      "windows": {
+        "command": "powershell -ExecutionPolicy Bypass -File scripts/start_dashboard.ps1"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "App: start API + dashboard",
+      "dependsOn": [
+        "API: start (FastAPI on :8000)",
+        "Dashboard: start (React on :5173)"
+      ],
+      "dependsOrder": "parallel",
+      "problemMatcher": []
+    },
+    {
+      "label": "Analysis: regenerate all outputs",
+      "type": "shell",
+      "command": "bash scripts/run_all_analysis.sh",
+      "windows": {
+        "command": "powershell -ExecutionPolicy Bypass -File scripts/run_all_analysis.ps1"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,3248 @@
+ticket_id,check_id,issue
+TKT-016169,D01,Exact duplicate row (double-loaded extract)
+TKT-017252,D01,Exact duplicate row (double-loaded extract)
+TKT-014239,D01,Exact duplicate row (double-loaded extract)
+TKT-011727,D01,Exact duplicate row (double-loaded extract)
+TKT-001846,D01,Exact duplicate row (double-loaded extract)
+TKT-002277,D01,Exact duplicate row (double-loaded extract)
+TKT-016363,D01,Exact duplicate row (double-loaded extract)
+TKT-005756,D01,Exact duplicate row (double-loaded extract)
+TKT-006809,D01,Exact duplicate row (double-loaded extract)
+TKT-002334,D01,Exact duplicate row (double-loaded extract)
+TKT-013584,D01,Exact duplicate row (double-loaded extract)
+TKT-014655,D01,Exact duplicate row (double-loaded extract)
+TKT-008487,D01,Exact duplicate row (double-loaded extract)
+TKT-003828,D01,Exact duplicate row (double-loaded extract)
+TKT-020221,D01,Exact duplicate row (double-loaded extract)
+TKT-021923,D01,Exact duplicate row (double-loaded extract)
+TKT-004407,D01,Exact duplicate row (double-loaded extract)
+TKT-006034,D01,Exact duplicate row (double-loaded extract)
+TKT-018389,D01,Exact duplicate row (double-loaded extract)
+TKT-006261,D01,Exact duplicate row (double-loaded extract)
+TKT-002500,D01,Exact duplicate row (double-loaded extract)
+TKT-001938,D01,Exact duplicate row (double-loaded extract)
+TKT-008252,D01,Exact duplicate row (double-loaded extract)
+TKT-009151,D01,Exact duplicate row (double-loaded extract)
+TKT-014247,D01,Exact duplicate row (double-loaded extract)
+TKT-000251,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-000682,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-000976,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-001028,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-001225,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-001246,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-001294,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-001483,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-001505,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-001607,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-001716,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-001911,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-002165,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-002174,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-003060,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-003098,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-003395,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-004033,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-004422,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-004428,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-004453,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-004563,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-004834,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-004870,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-005325,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-005573,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-005885,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-005961,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-006198,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-006422,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-006440,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-006477,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-006545,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-006710,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-006985,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-007028,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-007279,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-007348,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-007467,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-007656,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-008372,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-008392,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-008468,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-008624,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-008685,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-009023,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-009300,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-009566,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-009609,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-009656,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-010167,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-010202,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-010248,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-010576,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-010623,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-010695,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-010732,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-010769,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-010801,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-011196,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-011335,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-011359,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-011369,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-011483,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-011563,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-011663,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-012046,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-012119,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-012167,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-012226,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-012643,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-012812,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-012896,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-012933,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-013102,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-013260,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-013359,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-013408,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-013510,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-013665,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-013739,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-013923,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-014139,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-014272,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-014381,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-014720,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-014807,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-014994,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-015213,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-015379,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-015514,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-015655,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-015714,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-016102,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-016574,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-016716,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-016971,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017024,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017115,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017191,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017258,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017283,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017312,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017611,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017647,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017724,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017736,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017868,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-017967,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-018191,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-018391,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-018477,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-018783,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-019178,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-019230,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-019409,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-019780,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-020319,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-020335,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-020356,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-020698,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-020759,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-021202,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-021253,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-021662,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-021730,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-021769,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-021835,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-021971,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-021990,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-022014,D03,"Near-duplicate: same customer, subcategory and priority within 15 minutes"
+TKT-002148,R01,Orphan customer_id (not in customers)
+TKT-004269,R01,Orphan customer_id (not in customers)
+TKT-005237,R01,Orphan customer_id (not in customers)
+TKT-006490,R01,Orphan customer_id (not in customers)
+TKT-007826,R01,Orphan customer_id (not in customers)
+TKT-008689,R01,Orphan customer_id (not in customers)
+TKT-009048,R01,Orphan customer_id (not in customers)
+TKT-009225,R01,Orphan customer_id (not in customers)
+TKT-010064,R01,Orphan customer_id (not in customers)
+TKT-017015,R01,Orphan customer_id (not in customers)
+TKT-000282,R04,Agent does not belong to the ticket's resolver team
+TKT-000287,R04,Agent does not belong to the ticket's resolver team
+TKT-000330,R04,Agent does not belong to the ticket's resolver team
+TKT-000340,R04,Agent does not belong to the ticket's resolver team
+TKT-000495,R04,Agent does not belong to the ticket's resolver team
+TKT-000561,R04,Agent does not belong to the ticket's resolver team
+TKT-000653,R04,Agent does not belong to the ticket's resolver team
+TKT-000740,R04,Agent does not belong to the ticket's resolver team
+TKT-001975,R04,Agent does not belong to the ticket's resolver team
+TKT-002303,R04,Agent does not belong to the ticket's resolver team
+TKT-002851,R04,Agent does not belong to the ticket's resolver team
+TKT-003009,R04,Agent does not belong to the ticket's resolver team
+TKT-003062,R04,Agent does not belong to the ticket's resolver team
+TKT-003073,R04,Agent does not belong to the ticket's resolver team
+TKT-003248,R04,Agent does not belong to the ticket's resolver team
+TKT-003451,R04,Agent does not belong to the ticket's resolver team
+TKT-003630,R04,Agent does not belong to the ticket's resolver team
+TKT-003703,R04,Agent does not belong to the ticket's resolver team
+TKT-003966,R04,Agent does not belong to the ticket's resolver team
+TKT-004237,R04,Agent does not belong to the ticket's resolver team
+TKT-004272,R04,Agent does not belong to the ticket's resolver team
+TKT-004275,R04,Agent does not belong to the ticket's resolver team
+TKT-004279,R04,Agent does not belong to the ticket's resolver team
+TKT-004757,R04,Agent does not belong to the ticket's resolver team
+TKT-004909,R04,Agent does not belong to the ticket's resolver team
+TKT-005539,R04,Agent does not belong to the ticket's resolver team
+TKT-005686,R04,Agent does not belong to the ticket's resolver team
+TKT-005770,R04,Agent does not belong to the ticket's resolver team
+TKT-005892,R04,Agent does not belong to the ticket's resolver team
+TKT-006132,R04,Agent does not belong to the ticket's resolver team
+TKT-006152,R04,Agent does not belong to the ticket's resolver team
+TKT-006222,R04,Agent does not belong to the ticket's resolver team
+TKT-006236,R04,Agent does not belong to the ticket's resolver team
+TKT-006694,R04,Agent does not belong to the ticket's resolver team
+TKT-006812,R04,Agent does not belong to the ticket's resolver team
+TKT-007032,R04,Agent does not belong to the ticket's resolver team
+TKT-007118,R04,Agent does not belong to the ticket's resolver team
+TKT-007189,R04,Agent does not belong to the ticket's resolver team
+TKT-007580,R04,Agent does not belong to the ticket's resolver team
+TKT-007711,R04,Agent does not belong to the ticket's resolver team
+TKT-008000,R04,Agent does not belong to the ticket's resolver team
+TKT-008506,R04,Agent does not belong to the ticket's resolver team
+TKT-008508,R04,Agent does not belong to the ticket's resolver team
+TKT-008537,R04,Agent does not belong to the ticket's resolver team
+TKT-008551,R04,Agent does not belong to the ticket's resolver team
+TKT-008757,R04,Agent does not belong to the ticket's resolver team
+TKT-008855,R04,Agent does not belong to the ticket's resolver team
+TKT-009217,R04,Agent does not belong to the ticket's resolver team
+TKT-009311,R04,Agent does not belong to the ticket's resolver team
+TKT-009560,R04,Agent does not belong to the ticket's resolver team
+TKT-010369,R04,Agent does not belong to the ticket's resolver team
+TKT-010466,R04,Agent does not belong to the ticket's resolver team
+TKT-010712,R04,Agent does not belong to the ticket's resolver team
+TKT-011067,R04,Agent does not belong to the ticket's resolver team
+TKT-011072,R04,Agent does not belong to the ticket's resolver team
+TKT-011112,R04,Agent does not belong to the ticket's resolver team
+TKT-011409,R04,Agent does not belong to the ticket's resolver team
+TKT-011780,R04,Agent does not belong to the ticket's resolver team
+TKT-011828,R04,Agent does not belong to the ticket's resolver team
+TKT-011847,R04,Agent does not belong to the ticket's resolver team
+TKT-012137,R04,Agent does not belong to the ticket's resolver team
+TKT-012169,R04,Agent does not belong to the ticket's resolver team
+TKT-012904,R04,Agent does not belong to the ticket's resolver team
+TKT-012932,R04,Agent does not belong to the ticket's resolver team
+TKT-012951,R04,Agent does not belong to the ticket's resolver team
+TKT-012976,R04,Agent does not belong to the ticket's resolver team
+TKT-013511,R04,Agent does not belong to the ticket's resolver team
+TKT-013536,R04,Agent does not belong to the ticket's resolver team
+TKT-013608,R04,Agent does not belong to the ticket's resolver team
+TKT-014719,R04,Agent does not belong to the ticket's resolver team
+TKT-014720,R04,Agent does not belong to the ticket's resolver team
+TKT-014983,R04,Agent does not belong to the ticket's resolver team
+TKT-015439,R04,Agent does not belong to the ticket's resolver team
+TKT-016075,R04,Agent does not belong to the ticket's resolver team
+TKT-016217,R04,Agent does not belong to the ticket's resolver team
+TKT-016378,R04,Agent does not belong to the ticket's resolver team
+TKT-016395,R04,Agent does not belong to the ticket's resolver team
+TKT-016430,R04,Agent does not belong to the ticket's resolver team
+TKT-016731,R04,Agent does not belong to the ticket's resolver team
+TKT-016938,R04,Agent does not belong to the ticket's resolver team
+TKT-017321,R04,Agent does not belong to the ticket's resolver team
+TKT-017834,R04,Agent does not belong to the ticket's resolver team
+TKT-018096,R04,Agent does not belong to the ticket's resolver team
+TKT-018115,R04,Agent does not belong to the ticket's resolver team
+TKT-018210,R04,Agent does not belong to the ticket's resolver team
+TKT-018451,R04,Agent does not belong to the ticket's resolver team
+TKT-018771,R04,Agent does not belong to the ticket's resolver team
+TKT-018890,R04,Agent does not belong to the ticket's resolver team
+TKT-018961,R04,Agent does not belong to the ticket's resolver team
+TKT-018967,R04,Agent does not belong to the ticket's resolver team
+TKT-019036,R04,Agent does not belong to the ticket's resolver team
+TKT-019160,R04,Agent does not belong to the ticket's resolver team
+TKT-019222,R04,Agent does not belong to the ticket's resolver team
+TKT-019320,R04,Agent does not belong to the ticket's resolver team
+TKT-019565,R04,Agent does not belong to the ticket's resolver team
+TKT-019633,R04,Agent does not belong to the ticket's resolver team
+TKT-019676,R04,Agent does not belong to the ticket's resolver team
+TKT-019750,R04,Agent does not belong to the ticket's resolver team
+TKT-019894,R04,Agent does not belong to the ticket's resolver team
+TKT-020170,R04,Agent does not belong to the ticket's resolver team
+TKT-020446,R04,Agent does not belong to the ticket's resolver team
+TKT-020585,R04,Agent does not belong to the ticket's resolver team
+TKT-020615,R04,Agent does not belong to the ticket's resolver team
+TKT-020793,R04,Agent does not belong to the ticket's resolver team
+TKT-020840,R04,Agent does not belong to the ticket's resolver team
+TKT-021015,R04,Agent does not belong to the ticket's resolver team
+TKT-021019,R04,Agent does not belong to the ticket's resolver team
+TKT-021093,R04,Agent does not belong to the ticket's resolver team
+TKT-021371,R04,Agent does not belong to the ticket's resolver team
+TKT-021697,R04,Agent does not belong to the ticket's resolver team
+TKT-022218,R04,Agent does not belong to the ticket's resolver team
+TKT-000008,R05,Resolved/closed ticket with no agent recorded
+TKT-000034,R05,Resolved/closed ticket with no agent recorded
+TKT-000112,R05,Resolved/closed ticket with no agent recorded
+TKT-000153,R05,Resolved/closed ticket with no agent recorded
+TKT-000176,R05,Resolved/closed ticket with no agent recorded
+TKT-000249,R05,Resolved/closed ticket with no agent recorded
+TKT-000322,R05,Resolved/closed ticket with no agent recorded
+TKT-000397,R05,Resolved/closed ticket with no agent recorded
+TKT-000423,R05,Resolved/closed ticket with no agent recorded
+TKT-000555,R05,Resolved/closed ticket with no agent recorded
+TKT-000811,R05,Resolved/closed ticket with no agent recorded
+TKT-000872,R05,Resolved/closed ticket with no agent recorded
+TKT-001097,R05,Resolved/closed ticket with no agent recorded
+TKT-001189,R05,Resolved/closed ticket with no agent recorded
+TKT-001253,R05,Resolved/closed ticket with no agent recorded
+TKT-001569,R05,Resolved/closed ticket with no agent recorded
+TKT-001686,R05,Resolved/closed ticket with no agent recorded
+TKT-001947,R05,Resolved/closed ticket with no agent recorded
+TKT-002315,R05,Resolved/closed ticket with no agent recorded
+TKT-002599,R05,Resolved/closed ticket with no agent recorded
+TKT-002726,R05,Resolved/closed ticket with no agent recorded
+TKT-002889,R05,Resolved/closed ticket with no agent recorded
+TKT-002929,R05,Resolved/closed ticket with no agent recorded
+TKT-003095,R05,Resolved/closed ticket with no agent recorded
+TKT-003174,R05,Resolved/closed ticket with no agent recorded
+TKT-003216,R05,Resolved/closed ticket with no agent recorded
+TKT-003340,R05,Resolved/closed ticket with no agent recorded
+TKT-003421,R05,Resolved/closed ticket with no agent recorded
+TKT-003817,R05,Resolved/closed ticket with no agent recorded
+TKT-003855,R05,Resolved/closed ticket with no agent recorded
+TKT-004034,R05,Resolved/closed ticket with no agent recorded
+TKT-004118,R05,Resolved/closed ticket with no agent recorded
+TKT-004288,R05,Resolved/closed ticket with no agent recorded
+TKT-004293,R05,Resolved/closed ticket with no agent recorded
+TKT-006445,R05,Resolved/closed ticket with no agent recorded
+TKT-006650,R05,Resolved/closed ticket with no agent recorded
+TKT-006861,R05,Resolved/closed ticket with no agent recorded
+TKT-007087,R05,Resolved/closed ticket with no agent recorded
+TKT-007146,R05,Resolved/closed ticket with no agent recorded
+TKT-007349,R05,Resolved/closed ticket with no agent recorded
+TKT-007416,R05,Resolved/closed ticket with no agent recorded
+TKT-007733,R05,Resolved/closed ticket with no agent recorded
+TKT-007856,R05,Resolved/closed ticket with no agent recorded
+TKT-008029,R05,Resolved/closed ticket with no agent recorded
+TKT-008173,R05,Resolved/closed ticket with no agent recorded
+TKT-008216,R05,Resolved/closed ticket with no agent recorded
+TKT-008282,R05,Resolved/closed ticket with no agent recorded
+TKT-008335,R05,Resolved/closed ticket with no agent recorded
+TKT-008474,R05,Resolved/closed ticket with no agent recorded
+TKT-009041,R05,Resolved/closed ticket with no agent recorded
+TKT-009520,R05,Resolved/closed ticket with no agent recorded
+TKT-009647,R05,Resolved/closed ticket with no agent recorded
+TKT-010284,R05,Resolved/closed ticket with no agent recorded
+TKT-010541,R05,Resolved/closed ticket with no agent recorded
+TKT-010612,R05,Resolved/closed ticket with no agent recorded
+TKT-011268,R05,Resolved/closed ticket with no agent recorded
+TKT-011597,R05,Resolved/closed ticket with no agent recorded
+TKT-012025,R05,Resolved/closed ticket with no agent recorded
+TKT-012165,R05,Resolved/closed ticket with no agent recorded
+TKT-012167,R05,Resolved/closed ticket with no agent recorded
+TKT-012576,R05,Resolved/closed ticket with no agent recorded
+TKT-012759,R05,Resolved/closed ticket with no agent recorded
+TKT-013192,R05,Resolved/closed ticket with no agent recorded
+TKT-014271,R05,Resolved/closed ticket with no agent recorded
+TKT-014493,R05,Resolved/closed ticket with no agent recorded
+TKT-014568,R05,Resolved/closed ticket with no agent recorded
+TKT-014674,R05,Resolved/closed ticket with no agent recorded
+TKT-015024,R05,Resolved/closed ticket with no agent recorded
+TKT-015319,R05,Resolved/closed ticket with no agent recorded
+TKT-015551,R05,Resolved/closed ticket with no agent recorded
+TKT-016145,R05,Resolved/closed ticket with no agent recorded
+TKT-017124,R05,Resolved/closed ticket with no agent recorded
+TKT-017314,R05,Resolved/closed ticket with no agent recorded
+TKT-017663,R05,Resolved/closed ticket with no agent recorded
+TKT-017784,R05,Resolved/closed ticket with no agent recorded
+TKT-018032,R05,Resolved/closed ticket with no agent recorded
+TKT-018296,R05,Resolved/closed ticket with no agent recorded
+TKT-018428,R05,Resolved/closed ticket with no agent recorded
+TKT-018660,R05,Resolved/closed ticket with no agent recorded
+TKT-018775,R05,Resolved/closed ticket with no agent recorded
+TKT-019348,R05,Resolved/closed ticket with no agent recorded
+TKT-019390,R05,Resolved/closed ticket with no agent recorded
+TKT-019827,R05,Resolved/closed ticket with no agent recorded
+TKT-019846,R05,Resolved/closed ticket with no agent recorded
+TKT-019890,R05,Resolved/closed ticket with no agent recorded
+TKT-019901,R05,Resolved/closed ticket with no agent recorded
+TKT-020058,R05,Resolved/closed ticket with no agent recorded
+TKT-020332,R05,Resolved/closed ticket with no agent recorded
+TKT-020549,R05,Resolved/closed ticket with no agent recorded
+TKT-000011,V01,Category label not in controlled list
+TKT-000045,V01,Category label not in controlled list
+TKT-000156,V01,Category label not in controlled list
+TKT-000159,V01,Category label not in controlled list
+TKT-000187,V01,Category label not in controlled list
+TKT-000246,V01,Category label not in controlled list
+TKT-000263,V01,Category label not in controlled list
+TKT-000306,V01,Category label not in controlled list
+TKT-000336,V01,Category label not in controlled list
+TKT-000389,V01,Category label not in controlled list
+TKT-000415,V01,Category label not in controlled list
+TKT-000453,V01,Category label not in controlled list
+TKT-000462,V01,Category label not in controlled list
+TKT-000495,V01,Category label not in controlled list
+TKT-000587,V01,Category label not in controlled list
+TKT-000629,V01,Category label not in controlled list
+TKT-000638,V01,Category label not in controlled list
+TKT-000644,V01,Category label not in controlled list
+TKT-000778,V01,Category label not in controlled list
+TKT-000834,V01,Category label not in controlled list
+TKT-000858,V01,Category label not in controlled list
+TKT-000887,V01,Category label not in controlled list
+TKT-000925,V01,Category label not in controlled list
+TKT-000944,V01,Category label not in controlled list
+TKT-000946,V01,Category label not in controlled list
+TKT-001082,V01,Category label not in controlled list
+TKT-001248,V01,Category label not in controlled list
+TKT-001317,V01,Category label not in controlled list
+TKT-001338,V01,Category label not in controlled list
+TKT-001443,V01,Category label not in controlled list
+TKT-001451,V01,Category label not in controlled list
+TKT-001504,V01,Category label not in controlled list
+TKT-001505,V01,Category label not in controlled list
+TKT-001507,V01,Category label not in controlled list
+TKT-001526,V01,Category label not in controlled list
+TKT-001568,V01,Category label not in controlled list
+TKT-001599,V01,Category label not in controlled list
+TKT-001604,V01,Category label not in controlled list
+TKT-001637,V01,Category label not in controlled list
+TKT-001702,V01,Category label not in controlled list
+TKT-001708,V01,Category label not in controlled list
+TKT-001727,V01,Category label not in controlled list
+TKT-001777,V01,Category label not in controlled list
+TKT-001829,V01,Category label not in controlled list
+TKT-001954,V01,Category label not in controlled list
+TKT-001956,V01,Category label not in controlled list
+TKT-001983,V01,Category label not in controlled list
+TKT-001984,V01,Category label not in controlled list
+TKT-002011,V01,Category label not in controlled list
+TKT-002072,V01,Category label not in controlled list
+TKT-002143,V01,Category label not in controlled list
+TKT-002182,V01,Category label not in controlled list
+TKT-002338,V01,Category label not in controlled list
+TKT-002352,V01,Category label not in controlled list
+TKT-002423,V01,Category label not in controlled list
+TKT-002453,V01,Category label not in controlled list
+TKT-002473,V01,Category label not in controlled list
+TKT-002505,V01,Category label not in controlled list
+TKT-002531,V01,Category label not in controlled list
+TKT-002607,V01,Category label not in controlled list
+TKT-002651,V01,Category label not in controlled list
+TKT-002671,V01,Category label not in controlled list
+TKT-002734,V01,Category label not in controlled list
+TKT-002747,V01,Category label not in controlled list
+TKT-002767,V01,Category label not in controlled list
+TKT-002785,V01,Category label not in controlled list
+TKT-002808,V01,Category label not in controlled list
+TKT-002879,V01,Category label not in controlled list
+TKT-002881,V01,Category label not in controlled list
+TKT-002994,V01,Category label not in controlled list
+TKT-003009,V01,Category label not in controlled list
+TKT-003076,V01,Category label not in controlled list
+TKT-003103,V01,Category label not in controlled list
+TKT-003133,V01,Category label not in controlled list
+TKT-003176,V01,Category label not in controlled list
+TKT-003217,V01,Category label not in controlled list
+TKT-003302,V01,Category label not in controlled list
+TKT-003394,V01,Category label not in controlled list
+TKT-003395,V01,Category label not in controlled list
+TKT-003471,V01,Category label not in controlled list
+TKT-003486,V01,Category label not in controlled list
+TKT-003521,V01,Category label not in controlled list
+TKT-003551,V01,Category label not in controlled list
+TKT-003566,V01,Category label not in controlled list
+TKT-003671,V01,Category label not in controlled list
+TKT-003678,V01,Category label not in controlled list
+TKT-003707,V01,Category label not in controlled list
+TKT-003732,V01,Category label not in controlled list
+TKT-003788,V01,Category label not in controlled list
+TKT-003838,V01,Category label not in controlled list
+TKT-003874,V01,Category label not in controlled list
+TKT-003899,V01,Category label not in controlled list
+TKT-003917,V01,Category label not in controlled list
+TKT-003930,V01,Category label not in controlled list
+TKT-003974,V01,Category label not in controlled list
+TKT-004005,V01,Category label not in controlled list
+TKT-004039,V01,Category label not in controlled list
+TKT-004068,V01,Category label not in controlled list
+TKT-004080,V01,Category label not in controlled list
+TKT-004096,V01,Category label not in controlled list
+TKT-004123,V01,Category label not in controlled list
+TKT-004207,V01,Category label not in controlled list
+TKT-004341,V01,Category label not in controlled list
+TKT-004362,V01,Category label not in controlled list
+TKT-004413,V01,Category label not in controlled list
+TKT-004433,V01,Category label not in controlled list
+TKT-004469,V01,Category label not in controlled list
+TKT-004501,V01,Category label not in controlled list
+TKT-004546,V01,Category label not in controlled list
+TKT-004551,V01,Category label not in controlled list
+TKT-004600,V01,Category label not in controlled list
+TKT-004610,V01,Category label not in controlled list
+TKT-004689,V01,Category label not in controlled list
+TKT-004694,V01,Category label not in controlled list
+TKT-004703,V01,Category label not in controlled list
+TKT-004709,V01,Category label not in controlled list
+TKT-004733,V01,Category label not in controlled list
+TKT-004883,V01,Category label not in controlled list
+TKT-004887,V01,Category label not in controlled list
+TKT-004944,V01,Category label not in controlled list
+TKT-005021,V01,Category label not in controlled list
+TKT-005069,V01,Category label not in controlled list
+TKT-005092,V01,Category label not in controlled list
+TKT-005115,V01,Category label not in controlled list
+TKT-005308,V01,Category label not in controlled list
+TKT-005351,V01,Category label not in controlled list
+TKT-005353,V01,Category label not in controlled list
+TKT-005400,V01,Category label not in controlled list
+TKT-005412,V01,Category label not in controlled list
+TKT-005460,V01,Category label not in controlled list
+TKT-005556,V01,Category label not in controlled list
+TKT-005638,V01,Category label not in controlled list
+TKT-005691,V01,Category label not in controlled list
+TKT-005741,V01,Category label not in controlled list
+TKT-005793,V01,Category label not in controlled list
+TKT-005810,V01,Category label not in controlled list
+TKT-005838,V01,Category label not in controlled list
+TKT-005849,V01,Category label not in controlled list
+TKT-005861,V01,Category label not in controlled list
+TKT-005864,V01,Category label not in controlled list
+TKT-005909,V01,Category label not in controlled list
+TKT-005991,V01,Category label not in controlled list
+TKT-006026,V01,Category label not in controlled list
+TKT-006028,V01,Category label not in controlled list
+TKT-006162,V01,Category label not in controlled list
+TKT-006210,V01,Category label not in controlled list
+TKT-006220,V01,Category label not in controlled list
+TKT-006243,V01,Category label not in controlled list
+TKT-006253,V01,Category label not in controlled list
+TKT-006256,V01,Category label not in controlled list
+TKT-006258,V01,Category label not in controlled list
+TKT-006262,V01,Category label not in controlled list
+TKT-006265,V01,Category label not in controlled list
+TKT-006374,V01,Category label not in controlled list
+TKT-006413,V01,Category label not in controlled list
+TKT-006453,V01,Category label not in controlled list
+TKT-006504,V01,Category label not in controlled list
+TKT-006505,V01,Category label not in controlled list
+TKT-006507,V01,Category label not in controlled list
+TKT-006509,V01,Category label not in controlled list
+TKT-006570,V01,Category label not in controlled list
+TKT-006582,V01,Category label not in controlled list
+TKT-006598,V01,Category label not in controlled list
+TKT-006609,V01,Category label not in controlled list
+TKT-006635,V01,Category label not in controlled list
+TKT-006673,V01,Category label not in controlled list
+TKT-006681,V01,Category label not in controlled list
+TKT-006701,V01,Category label not in controlled list
+TKT-006730,V01,Category label not in controlled list
+TKT-006764,V01,Category label not in controlled list
+TKT-006779,V01,Category label not in controlled list
+TKT-006794,V01,Category label not in controlled list
+TKT-006820,V01,Category label not in controlled list
+TKT-006847,V01,Category label not in controlled list
+TKT-006879,V01,Category label not in controlled list
+TKT-006891,V01,Category label not in controlled list
+TKT-006932,V01,Category label not in controlled list
+TKT-006994,V01,Category label not in controlled list
+TKT-007093,V01,Category label not in controlled list
+TKT-007106,V01,Category label not in controlled list
+TKT-007181,V01,Category label not in controlled list
+TKT-007185,V01,Category label not in controlled list
+TKT-007254,V01,Category label not in controlled list
+TKT-007293,V01,Category label not in controlled list
+TKT-007388,V01,Category label not in controlled list
+TKT-007512,V01,Category label not in controlled list
+TKT-007531,V01,Category label not in controlled list
+TKT-007538,V01,Category label not in controlled list
+TKT-007648,V01,Category label not in controlled list
+TKT-007708,V01,Category label not in controlled list
+TKT-007733,V01,Category label not in controlled list
+TKT-007779,V01,Category label not in controlled list
+TKT-007801,V01,Category label not in controlled list
+TKT-007897,V01,Category label not in controlled list
+TKT-007950,V01,Category label not in controlled list
+TKT-007991,V01,Category label not in controlled list
+TKT-007995,V01,Category label not in controlled list
+TKT-008030,V01,Category label not in controlled list
+TKT-008055,V01,Category label not in controlled list
+TKT-008081,V01,Category label not in controlled list
+TKT-008135,V01,Category label not in controlled list
+TKT-008172,V01,Category label not in controlled list
+TKT-008311,V01,Category label not in controlled list
+TKT-008313,V01,Category label not in controlled list
+TKT-008335,V01,Category label not in controlled list
+TKT-008388,V01,Category label not in controlled list
+TKT-008517,V01,Category label not in controlled list
+TKT-008542,V01,Category label not in controlled list
+TKT-008643,V01,Category label not in controlled list
+TKT-008646,V01,Category label not in controlled list
+TKT-008657,V01,Category label not in controlled list
+TKT-008666,V01,Category label not in controlled list
+TKT-008731,V01,Category label not in controlled list
+TKT-008749,V01,Category label not in controlled list
+TKT-008866,V01,Category label not in controlled list
+TKT-008875,V01,Category label not in controlled list
+TKT-008893,V01,Category label not in controlled list
+TKT-008921,V01,Category label not in controlled list
+TKT-008936,V01,Category label not in controlled list
+TKT-008942,V01,Category label not in controlled list
+TKT-008959,V01,Category label not in controlled list
+TKT-009063,V01,Category label not in controlled list
+TKT-009079,V01,Category label not in controlled list
+TKT-009421,V01,Category label not in controlled list
+TKT-009435,V01,Category label not in controlled list
+TKT-009440,V01,Category label not in controlled list
+TKT-009446,V01,Category label not in controlled list
+TKT-009472,V01,Category label not in controlled list
+TKT-009482,V01,Category label not in controlled list
+TKT-009490,V01,Category label not in controlled list
+TKT-009506,V01,Category label not in controlled list
+TKT-009557,V01,Category label not in controlled list
+TKT-009578,V01,Category label not in controlled list
+TKT-009593,V01,Category label not in controlled list
+TKT-009612,V01,Category label not in controlled list
+TKT-009638,V01,Category label not in controlled list
+TKT-009711,V01,Category label not in controlled list
+TKT-009762,V01,Category label not in controlled list
+TKT-009772,V01,Category label not in controlled list
+TKT-009809,V01,Category label not in controlled list
+TKT-009897,V01,Category label not in controlled list
+TKT-009918,V01,Category label not in controlled list
+TKT-009955,V01,Category label not in controlled list
+TKT-009986,V01,Category label not in controlled list
+TKT-009991,V01,Category label not in controlled list
+TKT-009995,V01,Category label not in controlled list
+TKT-010012,V01,Category label not in controlled list
+TKT-010142,V01,Category label not in controlled list
+TKT-010170,V01,Category label not in controlled list
+TKT-010192,V01,Category label not in controlled list
+TKT-010206,V01,Category label not in controlled list
+TKT-010211,V01,Category label not in controlled list
+TKT-010226,V01,Category label not in controlled list
+TKT-010262,V01,Category label not in controlled list
+TKT-010298,V01,Category label not in controlled list
+TKT-010300,V01,Category label not in controlled list
+TKT-010325,V01,Category label not in controlled list
+TKT-010392,V01,Category label not in controlled list
+TKT-010405,V01,Category label not in controlled list
+TKT-010445,V01,Category label not in controlled list
+TKT-010505,V01,Category label not in controlled list
+TKT-010585,V01,Category label not in controlled list
+TKT-010639,V01,Category label not in controlled list
+TKT-010659,V01,Category label not in controlled list
+TKT-010783,V01,Category label not in controlled list
+TKT-010786,V01,Category label not in controlled list
+TKT-010822,V01,Category label not in controlled list
+TKT-010844,V01,Category label not in controlled list
+TKT-010871,V01,Category label not in controlled list
+TKT-010873,V01,Category label not in controlled list
+TKT-010911,V01,Category label not in controlled list
+TKT-010970,V01,Category label not in controlled list
+TKT-010977,V01,Category label not in controlled list
+TKT-011004,V01,Category label not in controlled list
+TKT-011036,V01,Category label not in controlled list
+TKT-011059,V01,Category label not in controlled list
+TKT-011105,V01,Category label not in controlled list
+TKT-011110,V01,Category label not in controlled list
+TKT-011261,V01,Category label not in controlled list
+TKT-011264,V01,Category label not in controlled list
+TKT-011304,V01,Category label not in controlled list
+TKT-011308,V01,Category label not in controlled list
+TKT-011321,V01,Category label not in controlled list
+TKT-011325,V01,Category label not in controlled list
+TKT-011379,V01,Category label not in controlled list
+TKT-011382,V01,Category label not in controlled list
+TKT-011427,V01,Category label not in controlled list
+TKT-011512,V01,Category label not in controlled list
+TKT-011555,V01,Category label not in controlled list
+TKT-011578,V01,Category label not in controlled list
+TKT-011592,V01,Category label not in controlled list
+TKT-011612,V01,Category label not in controlled list
+TKT-011679,V01,Category label not in controlled list
+TKT-011703,V01,Category label not in controlled list
+TKT-011708,V01,Category label not in controlled list
+TKT-011793,V01,Category label not in controlled list
+TKT-011831,V01,Category label not in controlled list
+TKT-011917,V01,Category label not in controlled list
+TKT-011923,V01,Category label not in controlled list
+TKT-012095,V01,Category label not in controlled list
+TKT-012108,V01,Category label not in controlled list
+TKT-012140,V01,Category label not in controlled list
+TKT-012228,V01,Category label not in controlled list
+TKT-012278,V01,Category label not in controlled list
+TKT-012310,V01,Category label not in controlled list
+TKT-012321,V01,Category label not in controlled list
+TKT-012323,V01,Category label not in controlled list
+TKT-012325,V01,Category label not in controlled list
+TKT-012332,V01,Category label not in controlled list
+TKT-012386,V01,Category label not in controlled list
+TKT-012461,V01,Category label not in controlled list
+TKT-012476,V01,Category label not in controlled list
+TKT-012532,V01,Category label not in controlled list
+TKT-012555,V01,Category label not in controlled list
+TKT-012577,V01,Category label not in controlled list
+TKT-012652,V01,Category label not in controlled list
+TKT-012670,V01,Category label not in controlled list
+TKT-012700,V01,Category label not in controlled list
+TKT-012707,V01,Category label not in controlled list
+TKT-012806,V01,Category label not in controlled list
+TKT-012881,V01,Category label not in controlled list
+TKT-012884,V01,Category label not in controlled list
+TKT-012891,V01,Category label not in controlled list
+TKT-012944,V01,Category label not in controlled list
+TKT-012992,V01,Category label not in controlled list
+TKT-013020,V01,Category label not in controlled list
+TKT-013072,V01,Category label not in controlled list
+TKT-013089,V01,Category label not in controlled list
+TKT-013134,V01,Category label not in controlled list
+TKT-013181,V01,Category label not in controlled list
+TKT-013203,V01,Category label not in controlled list
+TKT-013239,V01,Category label not in controlled list
+TKT-013249,V01,Category label not in controlled list
+TKT-013326,V01,Category label not in controlled list
+TKT-013444,V01,Category label not in controlled list
+TKT-013564,V01,Category label not in controlled list
+TKT-013703,V01,Category label not in controlled list
+TKT-013746,V01,Category label not in controlled list
+TKT-013753,V01,Category label not in controlled list
+TKT-013828,V01,Category label not in controlled list
+TKT-013898,V01,Category label not in controlled list
+TKT-013965,V01,Category label not in controlled list
+TKT-014030,V01,Category label not in controlled list
+TKT-014041,V01,Category label not in controlled list
+TKT-014127,V01,Category label not in controlled list
+TKT-014162,V01,Category label not in controlled list
+TKT-014206,V01,Category label not in controlled list
+TKT-014258,V01,Category label not in controlled list
+TKT-014260,V01,Category label not in controlled list
+TKT-014341,V01,Category label not in controlled list
+TKT-014347,V01,Category label not in controlled list
+TKT-014621,V01,Category label not in controlled list
+TKT-014637,V01,Category label not in controlled list
+TKT-014688,V01,Category label not in controlled list
+TKT-014741,V01,Category label not in controlled list
+TKT-014742,V01,Category label not in controlled list
+TKT-014750,V01,Category label not in controlled list
+TKT-014785,V01,Category label not in controlled list
+TKT-014820,V01,Category label not in controlled list
+TKT-014860,V01,Category label not in controlled list
+TKT-014943,V01,Category label not in controlled list
+TKT-014968,V01,Category label not in controlled list
+TKT-015015,V01,Category label not in controlled list
+TKT-015031,V01,Category label not in controlled list
+TKT-015075,V01,Category label not in controlled list
+TKT-015101,V01,Category label not in controlled list
+TKT-015136,V01,Category label not in controlled list
+TKT-015219,V01,Category label not in controlled list
+TKT-015225,V01,Category label not in controlled list
+TKT-015302,V01,Category label not in controlled list
+TKT-015305,V01,Category label not in controlled list
+TKT-015408,V01,Category label not in controlled list
+TKT-015426,V01,Category label not in controlled list
+TKT-015460,V01,Category label not in controlled list
+TKT-015478,V01,Category label not in controlled list
+TKT-015523,V01,Category label not in controlled list
+TKT-015630,V01,Category label not in controlled list
+TKT-015642,V01,Category label not in controlled list
+TKT-015746,V01,Category label not in controlled list
+TKT-015768,V01,Category label not in controlled list
+TKT-015921,V01,Category label not in controlled list
+TKT-015924,V01,Category label not in controlled list
+TKT-015994,V01,Category label not in controlled list
+TKT-016010,V01,Category label not in controlled list
+TKT-016028,V01,Category label not in controlled list
+TKT-016043,V01,Category label not in controlled list
+TKT-016084,V01,Category label not in controlled list
+TKT-016099,V01,Category label not in controlled list
+TKT-016118,V01,Category label not in controlled list
+TKT-016252,V01,Category label not in controlled list
+TKT-016341,V01,Category label not in controlled list
+TKT-016367,V01,Category label not in controlled list
+TKT-016410,V01,Category label not in controlled list
+TKT-016458,V01,Category label not in controlled list
+TKT-016522,V01,Category label not in controlled list
+TKT-016534,V01,Category label not in controlled list
+TKT-016589,V01,Category label not in controlled list
+TKT-016600,V01,Category label not in controlled list
+TKT-016606,V01,Category label not in controlled list
+TKT-016616,V01,Category label not in controlled list
+TKT-016644,V01,Category label not in controlled list
+TKT-016648,V01,Category label not in controlled list
+TKT-016663,V01,Category label not in controlled list
+TKT-016711,V01,Category label not in controlled list
+TKT-016777,V01,Category label not in controlled list
+TKT-016779,V01,Category label not in controlled list
+TKT-016870,V01,Category label not in controlled list
+TKT-016875,V01,Category label not in controlled list
+TKT-016880,V01,Category label not in controlled list
+TKT-016886,V01,Category label not in controlled list
+TKT-016902,V01,Category label not in controlled list
+TKT-016969,V01,Category label not in controlled list
+TKT-016988,V01,Category label not in controlled list
+TKT-017059,V01,Category label not in controlled list
+TKT-017071,V01,Category label not in controlled list
+TKT-017074,V01,Category label not in controlled list
+TKT-017077,V01,Category label not in controlled list
+TKT-017106,V01,Category label not in controlled list
+TKT-017128,V01,Category label not in controlled list
+TKT-017178,V01,Category label not in controlled list
+TKT-017282,V01,Category label not in controlled list
+TKT-017283,V01,Category label not in controlled list
+TKT-017294,V01,Category label not in controlled list
+TKT-017329,V01,Category label not in controlled list
+TKT-017422,V01,Category label not in controlled list
+TKT-017514,V01,Category label not in controlled list
+TKT-017515,V01,Category label not in controlled list
+TKT-017578,V01,Category label not in controlled list
+TKT-017708,V01,Category label not in controlled list
+TKT-017763,V01,Category label not in controlled list
+TKT-017796,V01,Category label not in controlled list
+TKT-017807,V01,Category label not in controlled list
+TKT-017836,V01,Category label not in controlled list
+TKT-017873,V01,Category label not in controlled list
+TKT-017885,V01,Category label not in controlled list
+TKT-017888,V01,Category label not in controlled list
+TKT-017969,V01,Category label not in controlled list
+TKT-017974,V01,Category label not in controlled list
+TKT-017981,V01,Category label not in controlled list
+TKT-018008,V01,Category label not in controlled list
+TKT-018021,V01,Category label not in controlled list
+TKT-018027,V01,Category label not in controlled list
+TKT-018047,V01,Category label not in controlled list
+TKT-018059,V01,Category label not in controlled list
+TKT-018065,V01,Category label not in controlled list
+TKT-018093,V01,Category label not in controlled list
+TKT-018195,V01,Category label not in controlled list
+TKT-018209,V01,Category label not in controlled list
+TKT-018227,V01,Category label not in controlled list
+TKT-018229,V01,Category label not in controlled list
+TKT-018336,V01,Category label not in controlled list
+TKT-018483,V01,Category label not in controlled list
+TKT-018508,V01,Category label not in controlled list
+TKT-018510,V01,Category label not in controlled list
+TKT-018513,V01,Category label not in controlled list
+TKT-018651,V01,Category label not in controlled list
+TKT-018696,V01,Category label not in controlled list
+TKT-018713,V01,Category label not in controlled list
+TKT-018731,V01,Category label not in controlled list
+TKT-018844,V01,Category label not in controlled list
+TKT-018845,V01,Category label not in controlled list
+TKT-018847,V01,Category label not in controlled list
+TKT-018865,V01,Category label not in controlled list
+TKT-018875,V01,Category label not in controlled list
+TKT-018937,V01,Category label not in controlled list
+TKT-018968,V01,Category label not in controlled list
+TKT-018979,V01,Category label not in controlled list
+TKT-019024,V01,Category label not in controlled list
+TKT-019035,V01,Category label not in controlled list
+TKT-019039,V01,Category label not in controlled list
+TKT-019044,V01,Category label not in controlled list
+TKT-019096,V01,Category label not in controlled list
+TKT-019130,V01,Category label not in controlled list
+TKT-019151,V01,Category label not in controlled list
+TKT-019158,V01,Category label not in controlled list
+TKT-019232,V01,Category label not in controlled list
+TKT-019240,V01,Category label not in controlled list
+TKT-019282,V01,Category label not in controlled list
+TKT-019360,V01,Category label not in controlled list
+TKT-019372,V01,Category label not in controlled list
+TKT-019374,V01,Category label not in controlled list
+TKT-019397,V01,Category label not in controlled list
+TKT-019414,V01,Category label not in controlled list
+TKT-019433,V01,Category label not in controlled list
+TKT-019441,V01,Category label not in controlled list
+TKT-019539,V01,Category label not in controlled list
+TKT-019596,V01,Category label not in controlled list
+TKT-019639,V01,Category label not in controlled list
+TKT-019641,V01,Category label not in controlled list
+TKT-019691,V01,Category label not in controlled list
+TKT-019697,V01,Category label not in controlled list
+TKT-019765,V01,Category label not in controlled list
+TKT-019920,V01,Category label not in controlled list
+TKT-019926,V01,Category label not in controlled list
+TKT-020005,V01,Category label not in controlled list
+TKT-020030,V01,Category label not in controlled list
+TKT-020127,V01,Category label not in controlled list
+TKT-020240,V01,Category label not in controlled list
+TKT-020311,V01,Category label not in controlled list
+TKT-020377,V01,Category label not in controlled list
+TKT-020408,V01,Category label not in controlled list
+TKT-020468,V01,Category label not in controlled list
+TKT-020469,V01,Category label not in controlled list
+TKT-020510,V01,Category label not in controlled list
+TKT-020521,V01,Category label not in controlled list
+TKT-020525,V01,Category label not in controlled list
+TKT-020581,V01,Category label not in controlled list
+TKT-020612,V01,Category label not in controlled list
+TKT-020613,V01,Category label not in controlled list
+TKT-020645,V01,Category label not in controlled list
+TKT-020665,V01,Category label not in controlled list
+TKT-020674,V01,Category label not in controlled list
+TKT-020786,V01,Category label not in controlled list
+TKT-020817,V01,Category label not in controlled list
+TKT-020822,V01,Category label not in controlled list
+TKT-020869,V01,Category label not in controlled list
+TKT-020897,V01,Category label not in controlled list
+TKT-020956,V01,Category label not in controlled list
+TKT-020997,V01,Category label not in controlled list
+TKT-021007,V01,Category label not in controlled list
+TKT-021029,V01,Category label not in controlled list
+TKT-021075,V01,Category label not in controlled list
+TKT-021078,V01,Category label not in controlled list
+TKT-021102,V01,Category label not in controlled list
+TKT-021105,V01,Category label not in controlled list
+TKT-021109,V01,Category label not in controlled list
+TKT-021125,V01,Category label not in controlled list
+TKT-021170,V01,Category label not in controlled list
+TKT-021194,V01,Category label not in controlled list
+TKT-021240,V01,Category label not in controlled list
+TKT-021252,V01,Category label not in controlled list
+TKT-021286,V01,Category label not in controlled list
+TKT-021338,V01,Category label not in controlled list
+TKT-021481,V01,Category label not in controlled list
+TKT-021567,V01,Category label not in controlled list
+TKT-021571,V01,Category label not in controlled list
+TKT-021665,V01,Category label not in controlled list
+TKT-021688,V01,Category label not in controlled list
+TKT-021690,V01,Category label not in controlled list
+TKT-021709,V01,Category label not in controlled list
+TKT-021737,V01,Category label not in controlled list
+TKT-021745,V01,Category label not in controlled list
+TKT-021793,V01,Category label not in controlled list
+TKT-021796,V01,Category label not in controlled list
+TKT-021802,V01,Category label not in controlled list
+TKT-021840,V01,Category label not in controlled list
+TKT-021865,V01,Category label not in controlled list
+TKT-021967,V01,Category label not in controlled list
+TKT-022059,V01,Category label not in controlled list
+TKT-022069,V01,Category label not in controlled list
+TKT-022096,V01,Category label not in controlled list
+TKT-022110,V01,Category label not in controlled list
+TKT-022117,V01,Category label not in controlled list
+TKT-022180,V01,Category label not in controlled list
+TKT-022195,V01,Category label not in controlled list
+TKT-000044,V04,Region label not in standard list
+TKT-000386,V04,Region label not in standard list
+TKT-000625,V04,Region label not in standard list
+TKT-000664,V04,Region label not in standard list
+TKT-001029,V04,Region label not in standard list
+TKT-001262,V04,Region label not in standard list
+TKT-001300,V04,Region label not in standard list
+TKT-001301,V04,Region label not in standard list
+TKT-001561,V04,Region label not in standard list
+TKT-002156,V04,Region label not in standard list
+TKT-002696,V04,Region label not in standard list
+TKT-003177,V04,Region label not in standard list
+TKT-003239,V04,Region label not in standard list
+TKT-003329,V04,Region label not in standard list
+TKT-003380,V04,Region label not in standard list
+TKT-003488,V04,Region label not in standard list
+TKT-004107,V04,Region label not in standard list
+TKT-004476,V04,Region label not in standard list
+TKT-004618,V04,Region label not in standard list
+TKT-005372,V04,Region label not in standard list
+TKT-005545,V04,Region label not in standard list
+TKT-005940,V04,Region label not in standard list
+TKT-006327,V04,Region label not in standard list
+TKT-006392,V04,Region label not in standard list
+TKT-006520,V04,Region label not in standard list
+TKT-006649,V04,Region label not in standard list
+TKT-006687,V04,Region label not in standard list
+TKT-006835,V04,Region label not in standard list
+TKT-007673,V04,Region label not in standard list
+TKT-007848,V04,Region label not in standard list
+TKT-007872,V04,Region label not in standard list
+TKT-007918,V04,Region label not in standard list
+TKT-008355,V04,Region label not in standard list
+TKT-008909,V04,Region label not in standard list
+TKT-008960,V04,Region label not in standard list
+TKT-008966,V04,Region label not in standard list
+TKT-009096,V04,Region label not in standard list
+TKT-009117,V04,Region label not in standard list
+TKT-009561,V04,Region label not in standard list
+TKT-009696,V04,Region label not in standard list
+TKT-009768,V04,Region label not in standard list
+TKT-010006,V04,Region label not in standard list
+TKT-010470,V04,Region label not in standard list
+TKT-010542,V04,Region label not in standard list
+TKT-010772,V04,Region label not in standard list
+TKT-010920,V04,Region label not in standard list
+TKT-011040,V04,Region label not in standard list
+TKT-011198,V04,Region label not in standard list
+TKT-011772,V04,Region label not in standard list
+TKT-012315,V04,Region label not in standard list
+TKT-012556,V04,Region label not in standard list
+TKT-012717,V04,Region label not in standard list
+TKT-013014,V04,Region label not in standard list
+TKT-013219,V04,Region label not in standard list
+TKT-013231,V04,Region label not in standard list
+TKT-013379,V04,Region label not in standard list
+TKT-013494,V04,Region label not in standard list
+TKT-013876,V04,Region label not in standard list
+TKT-014518,V04,Region label not in standard list
+TKT-014607,V04,Region label not in standard list
+TKT-014867,V04,Region label not in standard list
+TKT-015191,V04,Region label not in standard list
+TKT-015310,V04,Region label not in standard list
+TKT-015783,V04,Region label not in standard list
+TKT-016229,V04,Region label not in standard list
+TKT-016284,V04,Region label not in standard list
+TKT-016350,V04,Region label not in standard list
+TKT-016614,V04,Region label not in standard list
+TKT-016913,V04,Region label not in standard list
+TKT-017099,V04,Region label not in standard list
+TKT-017561,V04,Region label not in standard list
+TKT-017568,V04,Region label not in standard list
+TKT-017706,V04,Region label not in standard list
+TKT-017995,V04,Region label not in standard list
+TKT-018131,V04,Region label not in standard list
+TKT-018364,V04,Region label not in standard list
+TKT-018399,V04,Region label not in standard list
+TKT-018967,V04,Region label not in standard list
+TKT-019142,V04,Region label not in standard list
+TKT-019287,V04,Region label not in standard list
+TKT-019396,V04,Region label not in standard list
+TKT-019955,V04,Region label not in standard list
+TKT-020018,V04,Region label not in standard list
+TKT-020688,V04,Region label not in standard list
+TKT-020927,V04,Region label not in standard list
+TKT-021071,V04,Region label not in standard list
+TKT-021122,V04,Region label not in standard list
+TKT-021582,V04,Region label not in standard list
+TKT-000018,M02,Resolved/closed ticket missing root_cause
+TKT-000028,M02,Resolved/closed ticket missing root_cause
+TKT-000058,M02,Resolved/closed ticket missing root_cause
+TKT-000122,M02,Resolved/closed ticket missing root_cause
+TKT-000178,M02,Resolved/closed ticket missing root_cause
+TKT-000216,M02,Resolved/closed ticket missing root_cause
+TKT-000231,M02,Resolved/closed ticket missing root_cause
+TKT-000243,M02,Resolved/closed ticket missing root_cause
+TKT-000269,M02,Resolved/closed ticket missing root_cause
+TKT-000344,M02,Resolved/closed ticket missing root_cause
+TKT-000364,M02,Resolved/closed ticket missing root_cause
+TKT-000382,M02,Resolved/closed ticket missing root_cause
+TKT-000405,M02,Resolved/closed ticket missing root_cause
+TKT-000412,M02,Resolved/closed ticket missing root_cause
+TKT-000424,M02,Resolved/closed ticket missing root_cause
+TKT-000447,M02,Resolved/closed ticket missing root_cause
+TKT-000487,M02,Resolved/closed ticket missing root_cause
+TKT-000508,M02,Resolved/closed ticket missing root_cause
+TKT-000514,M02,Resolved/closed ticket missing root_cause
+TKT-000517,M02,Resolved/closed ticket missing root_cause
+TKT-000566,M02,Resolved/closed ticket missing root_cause
+TKT-000567,M02,Resolved/closed ticket missing root_cause
+TKT-000578,M02,Resolved/closed ticket missing root_cause
+TKT-000589,M02,Resolved/closed ticket missing root_cause
+TKT-000594,M02,Resolved/closed ticket missing root_cause
+TKT-000596,M02,Resolved/closed ticket missing root_cause
+TKT-000620,M02,Resolved/closed ticket missing root_cause
+TKT-000622,M02,Resolved/closed ticket missing root_cause
+TKT-000631,M02,Resolved/closed ticket missing root_cause
+TKT-000663,M02,Resolved/closed ticket missing root_cause
+TKT-000687,M02,Resolved/closed ticket missing root_cause
+TKT-000743,M02,Resolved/closed ticket missing root_cause
+TKT-000771,M02,Resolved/closed ticket missing root_cause
+TKT-000781,M02,Resolved/closed ticket missing root_cause
+TKT-000843,M02,Resolved/closed ticket missing root_cause
+TKT-000859,M02,Resolved/closed ticket missing root_cause
+TKT-000909,M02,Resolved/closed ticket missing root_cause
+TKT-000963,M02,Resolved/closed ticket missing root_cause
+TKT-000966,M02,Resolved/closed ticket missing root_cause
+TKT-000968,M02,Resolved/closed ticket missing root_cause
+TKT-000998,M02,Resolved/closed ticket missing root_cause
+TKT-001004,M02,Resolved/closed ticket missing root_cause
+TKT-001026,M02,Resolved/closed ticket missing root_cause
+TKT-001028,M02,Resolved/closed ticket missing root_cause
+TKT-001054,M02,Resolved/closed ticket missing root_cause
+TKT-001056,M02,Resolved/closed ticket missing root_cause
+TKT-001067,M02,Resolved/closed ticket missing root_cause
+TKT-001094,M02,Resolved/closed ticket missing root_cause
+TKT-001114,M02,Resolved/closed ticket missing root_cause
+TKT-001127,M02,Resolved/closed ticket missing root_cause
+TKT-001134,M02,Resolved/closed ticket missing root_cause
+TKT-001150,M02,Resolved/closed ticket missing root_cause
+TKT-001157,M02,Resolved/closed ticket missing root_cause
+TKT-001186,M02,Resolved/closed ticket missing root_cause
+TKT-001209,M02,Resolved/closed ticket missing root_cause
+TKT-001245,M02,Resolved/closed ticket missing root_cause
+TKT-001246,M02,Resolved/closed ticket missing root_cause
+TKT-001293,M02,Resolved/closed ticket missing root_cause
+TKT-001294,M02,Resolved/closed ticket missing root_cause
+TKT-001296,M02,Resolved/closed ticket missing root_cause
+TKT-001299,M02,Resolved/closed ticket missing root_cause
+TKT-001320,M02,Resolved/closed ticket missing root_cause
+TKT-001344,M02,Resolved/closed ticket missing root_cause
+TKT-001361,M02,Resolved/closed ticket missing root_cause
+TKT-001368,M02,Resolved/closed ticket missing root_cause
+TKT-001393,M02,Resolved/closed ticket missing root_cause
+TKT-001515,M02,Resolved/closed ticket missing root_cause
+TKT-001535,M02,Resolved/closed ticket missing root_cause
+TKT-001543,M02,Resolved/closed ticket missing root_cause
+TKT-001579,M02,Resolved/closed ticket missing root_cause
+TKT-001605,M02,Resolved/closed ticket missing root_cause
+TKT-001633,M02,Resolved/closed ticket missing root_cause
+TKT-001643,M02,Resolved/closed ticket missing root_cause
+TKT-001712,M02,Resolved/closed ticket missing root_cause
+TKT-001726,M02,Resolved/closed ticket missing root_cause
+TKT-001739,M02,Resolved/closed ticket missing root_cause
+TKT-001763,M02,Resolved/closed ticket missing root_cause
+TKT-001793,M02,Resolved/closed ticket missing root_cause
+TKT-001822,M02,Resolved/closed ticket missing root_cause
+TKT-001853,M02,Resolved/closed ticket missing root_cause
+TKT-001866,M02,Resolved/closed ticket missing root_cause
+TKT-001881,M02,Resolved/closed ticket missing root_cause
+TKT-001908,M02,Resolved/closed ticket missing root_cause
+TKT-001940,M02,Resolved/closed ticket missing root_cause
+TKT-001983,M02,Resolved/closed ticket missing root_cause
+TKT-001994,M02,Resolved/closed ticket missing root_cause
+TKT-002004,M02,Resolved/closed ticket missing root_cause
+TKT-002012,M02,Resolved/closed ticket missing root_cause
+TKT-002017,M02,Resolved/closed ticket missing root_cause
+TKT-002028,M02,Resolved/closed ticket missing root_cause
+TKT-002051,M02,Resolved/closed ticket missing root_cause
+TKT-002074,M02,Resolved/closed ticket missing root_cause
+TKT-002144,M02,Resolved/closed ticket missing root_cause
+TKT-002154,M02,Resolved/closed ticket missing root_cause
+TKT-002164,M02,Resolved/closed ticket missing root_cause
+TKT-002165,M02,Resolved/closed ticket missing root_cause
+TKT-002189,M02,Resolved/closed ticket missing root_cause
+TKT-002196,M02,Resolved/closed ticket missing root_cause
+TKT-002240,M02,Resolved/closed ticket missing root_cause
+TKT-002248,M02,Resolved/closed ticket missing root_cause
+TKT-002267,M02,Resolved/closed ticket missing root_cause
+TKT-002280,M02,Resolved/closed ticket missing root_cause
+TKT-002290,M02,Resolved/closed ticket missing root_cause
+TKT-002306,M02,Resolved/closed ticket missing root_cause
+TKT-002307,M02,Resolved/closed ticket missing root_cause
+TKT-002371,M02,Resolved/closed ticket missing root_cause
+TKT-002379,M02,Resolved/closed ticket missing root_cause
+TKT-002395,M02,Resolved/closed ticket missing root_cause
+TKT-002508,M02,Resolved/closed ticket missing root_cause
+TKT-002514,M02,Resolved/closed ticket missing root_cause
+TKT-002541,M02,Resolved/closed ticket missing root_cause
+TKT-002550,M02,Resolved/closed ticket missing root_cause
+TKT-002563,M02,Resolved/closed ticket missing root_cause
+TKT-002575,M02,Resolved/closed ticket missing root_cause
+TKT-002587,M02,Resolved/closed ticket missing root_cause
+TKT-002645,M02,Resolved/closed ticket missing root_cause
+TKT-002676,M02,Resolved/closed ticket missing root_cause
+TKT-002743,M02,Resolved/closed ticket missing root_cause
+TKT-002749,M02,Resolved/closed ticket missing root_cause
+TKT-002779,M02,Resolved/closed ticket missing root_cause
+TKT-002795,M02,Resolved/closed ticket missing root_cause
+TKT-002816,M02,Resolved/closed ticket missing root_cause
+TKT-002819,M02,Resolved/closed ticket missing root_cause
+TKT-002882,M02,Resolved/closed ticket missing root_cause
+TKT-002884,M02,Resolved/closed ticket missing root_cause
+TKT-002925,M02,Resolved/closed ticket missing root_cause
+TKT-002929,M02,Resolved/closed ticket missing root_cause
+TKT-002953,M02,Resolved/closed ticket missing root_cause
+TKT-002964,M02,Resolved/closed ticket missing root_cause
+TKT-002978,M02,Resolved/closed ticket missing root_cause
+TKT-003012,M02,Resolved/closed ticket missing root_cause
+TKT-003028,M02,Resolved/closed ticket missing root_cause
+TKT-003036,M02,Resolved/closed ticket missing root_cause
+TKT-003047,M02,Resolved/closed ticket missing root_cause
+TKT-003103,M02,Resolved/closed ticket missing root_cause
+TKT-003135,M02,Resolved/closed ticket missing root_cause
+TKT-003150,M02,Resolved/closed ticket missing root_cause
+TKT-003179,M02,Resolved/closed ticket missing root_cause
+TKT-003181,M02,Resolved/closed ticket missing root_cause
+TKT-003195,M02,Resolved/closed ticket missing root_cause
+TKT-003197,M02,Resolved/closed ticket missing root_cause
+TKT-003198,M02,Resolved/closed ticket missing root_cause
+TKT-003224,M02,Resolved/closed ticket missing root_cause
+TKT-003265,M02,Resolved/closed ticket missing root_cause
+TKT-003276,M02,Resolved/closed ticket missing root_cause
+TKT-003289,M02,Resolved/closed ticket missing root_cause
+TKT-003330,M02,Resolved/closed ticket missing root_cause
+TKT-003336,M02,Resolved/closed ticket missing root_cause
+TKT-003359,M02,Resolved/closed ticket missing root_cause
+TKT-003372,M02,Resolved/closed ticket missing root_cause
+TKT-003431,M02,Resolved/closed ticket missing root_cause
+TKT-003517,M02,Resolved/closed ticket missing root_cause
+TKT-003529,M02,Resolved/closed ticket missing root_cause
+TKT-003552,M02,Resolved/closed ticket missing root_cause
+TKT-003559,M02,Resolved/closed ticket missing root_cause
+TKT-003573,M02,Resolved/closed ticket missing root_cause
+TKT-003586,M02,Resolved/closed ticket missing root_cause
+TKT-003597,M02,Resolved/closed ticket missing root_cause
+TKT-003604,M02,Resolved/closed ticket missing root_cause
+TKT-003613,M02,Resolved/closed ticket missing root_cause
+TKT-003621,M02,Resolved/closed ticket missing root_cause
+TKT-003630,M02,Resolved/closed ticket missing root_cause
+TKT-003662,M02,Resolved/closed ticket missing root_cause
+TKT-003671,M02,Resolved/closed ticket missing root_cause
+TKT-003676,M02,Resolved/closed ticket missing root_cause
+TKT-003684,M02,Resolved/closed ticket missing root_cause
+TKT-003696,M02,Resolved/closed ticket missing root_cause
+TKT-003735,M02,Resolved/closed ticket missing root_cause
+TKT-003754,M02,Resolved/closed ticket missing root_cause
+TKT-003762,M02,Resolved/closed ticket missing root_cause
+TKT-003850,M02,Resolved/closed ticket missing root_cause
+TKT-003882,M02,Resolved/closed ticket missing root_cause
+TKT-003911,M02,Resolved/closed ticket missing root_cause
+TKT-003921,M02,Resolved/closed ticket missing root_cause
+TKT-003946,M02,Resolved/closed ticket missing root_cause
+TKT-003980,M02,Resolved/closed ticket missing root_cause
+TKT-003981,M02,Resolved/closed ticket missing root_cause
+TKT-004027,M02,Resolved/closed ticket missing root_cause
+TKT-004058,M02,Resolved/closed ticket missing root_cause
+TKT-004091,M02,Resolved/closed ticket missing root_cause
+TKT-004134,M02,Resolved/closed ticket missing root_cause
+TKT-004151,M02,Resolved/closed ticket missing root_cause
+TKT-004220,M02,Resolved/closed ticket missing root_cause
+TKT-004232,M02,Resolved/closed ticket missing root_cause
+TKT-004255,M02,Resolved/closed ticket missing root_cause
+TKT-004284,M02,Resolved/closed ticket missing root_cause
+TKT-004285,M02,Resolved/closed ticket missing root_cause
+TKT-004286,M02,Resolved/closed ticket missing root_cause
+TKT-004315,M02,Resolved/closed ticket missing root_cause
+TKT-004399,M02,Resolved/closed ticket missing root_cause
+TKT-004400,M02,Resolved/closed ticket missing root_cause
+TKT-004417,M02,Resolved/closed ticket missing root_cause
+TKT-004451,M02,Resolved/closed ticket missing root_cause
+TKT-004488,M02,Resolved/closed ticket missing root_cause
+TKT-004493,M02,Resolved/closed ticket missing root_cause
+TKT-004494,M02,Resolved/closed ticket missing root_cause
+TKT-004511,M02,Resolved/closed ticket missing root_cause
+TKT-004529,M02,Resolved/closed ticket missing root_cause
+TKT-004583,M02,Resolved/closed ticket missing root_cause
+TKT-004607,M02,Resolved/closed ticket missing root_cause
+TKT-004658,M02,Resolved/closed ticket missing root_cause
+TKT-004664,M02,Resolved/closed ticket missing root_cause
+TKT-004665,M02,Resolved/closed ticket missing root_cause
+TKT-004675,M02,Resolved/closed ticket missing root_cause
+TKT-004679,M02,Resolved/closed ticket missing root_cause
+TKT-004687,M02,Resolved/closed ticket missing root_cause
+TKT-004703,M02,Resolved/closed ticket missing root_cause
+TKT-004728,M02,Resolved/closed ticket missing root_cause
+TKT-004752,M02,Resolved/closed ticket missing root_cause
+TKT-004757,M02,Resolved/closed ticket missing root_cause
+TKT-004777,M02,Resolved/closed ticket missing root_cause
+TKT-004781,M02,Resolved/closed ticket missing root_cause
+TKT-004785,M02,Resolved/closed ticket missing root_cause
+TKT-004790,M02,Resolved/closed ticket missing root_cause
+TKT-004795,M02,Resolved/closed ticket missing root_cause
+TKT-004812,M02,Resolved/closed ticket missing root_cause
+TKT-004833,M02,Resolved/closed ticket missing root_cause
+TKT-004834,M02,Resolved/closed ticket missing root_cause
+TKT-004891,M02,Resolved/closed ticket missing root_cause
+TKT-004926,M02,Resolved/closed ticket missing root_cause
+TKT-004950,M02,Resolved/closed ticket missing root_cause
+TKT-005038,M02,Resolved/closed ticket missing root_cause
+TKT-005056,M02,Resolved/closed ticket missing root_cause
+TKT-005063,M02,Resolved/closed ticket missing root_cause
+TKT-005134,M02,Resolved/closed ticket missing root_cause
+TKT-005146,M02,Resolved/closed ticket missing root_cause
+TKT-005154,M02,Resolved/closed ticket missing root_cause
+TKT-005181,M02,Resolved/closed ticket missing root_cause
+TKT-005273,M02,Resolved/closed ticket missing root_cause
+TKT-005277,M02,Resolved/closed ticket missing root_cause
+TKT-005315,M02,Resolved/closed ticket missing root_cause
+TKT-005343,M02,Resolved/closed ticket missing root_cause
+TKT-005355,M02,Resolved/closed ticket missing root_cause
+TKT-005362,M02,Resolved/closed ticket missing root_cause
+TKT-005388,M02,Resolved/closed ticket missing root_cause
+TKT-005411,M02,Resolved/closed ticket missing root_cause
+TKT-005434,M02,Resolved/closed ticket missing root_cause
+TKT-005478,M02,Resolved/closed ticket missing root_cause
+TKT-005483,M02,Resolved/closed ticket missing root_cause
+TKT-005523,M02,Resolved/closed ticket missing root_cause
+TKT-005542,M02,Resolved/closed ticket missing root_cause
+TKT-005543,M02,Resolved/closed ticket missing root_cause
+TKT-005545,M02,Resolved/closed ticket missing root_cause
+TKT-005564,M02,Resolved/closed ticket missing root_cause
+TKT-005568,M02,Resolved/closed ticket missing root_cause
+TKT-005595,M02,Resolved/closed ticket missing root_cause
+TKT-005601,M02,Resolved/closed ticket missing root_cause
+TKT-005641,M02,Resolved/closed ticket missing root_cause
+TKT-005669,M02,Resolved/closed ticket missing root_cause
+TKT-005709,M02,Resolved/closed ticket missing root_cause
+TKT-005808,M02,Resolved/closed ticket missing root_cause
+TKT-005830,M02,Resolved/closed ticket missing root_cause
+TKT-005832,M02,Resolved/closed ticket missing root_cause
+TKT-005855,M02,Resolved/closed ticket missing root_cause
+TKT-005856,M02,Resolved/closed ticket missing root_cause
+TKT-005933,M02,Resolved/closed ticket missing root_cause
+TKT-005949,M02,Resolved/closed ticket missing root_cause
+TKT-005951,M02,Resolved/closed ticket missing root_cause
+TKT-005964,M02,Resolved/closed ticket missing root_cause
+TKT-005966,M02,Resolved/closed ticket missing root_cause
+TKT-005986,M02,Resolved/closed ticket missing root_cause
+TKT-006018,M02,Resolved/closed ticket missing root_cause
+TKT-006057,M02,Resolved/closed ticket missing root_cause
+TKT-006076,M02,Resolved/closed ticket missing root_cause
+TKT-006090,M02,Resolved/closed ticket missing root_cause
+TKT-006103,M02,Resolved/closed ticket missing root_cause
+TKT-006160,M02,Resolved/closed ticket missing root_cause
+TKT-006225,M02,Resolved/closed ticket missing root_cause
+TKT-006236,M02,Resolved/closed ticket missing root_cause
+TKT-006267,M02,Resolved/closed ticket missing root_cause
+TKT-006296,M02,Resolved/closed ticket missing root_cause
+TKT-006328,M02,Resolved/closed ticket missing root_cause
+TKT-006332,M02,Resolved/closed ticket missing root_cause
+TKT-006381,M02,Resolved/closed ticket missing root_cause
+TKT-006402,M02,Resolved/closed ticket missing root_cause
+TKT-006471,M02,Resolved/closed ticket missing root_cause
+TKT-006476,M02,Resolved/closed ticket missing root_cause
+TKT-006477,M02,Resolved/closed ticket missing root_cause
+TKT-006480,M02,Resolved/closed ticket missing root_cause
+TKT-006490,M02,Resolved/closed ticket missing root_cause
+TKT-006532,M02,Resolved/closed ticket missing root_cause
+TKT-006533,M02,Resolved/closed ticket missing root_cause
+TKT-006592,M02,Resolved/closed ticket missing root_cause
+TKT-006601,M02,Resolved/closed ticket missing root_cause
+TKT-006617,M02,Resolved/closed ticket missing root_cause
+TKT-006620,M02,Resolved/closed ticket missing root_cause
+TKT-006629,M02,Resolved/closed ticket missing root_cause
+TKT-006678,M02,Resolved/closed ticket missing root_cause
+TKT-006692,M02,Resolved/closed ticket missing root_cause
+TKT-006700,M02,Resolved/closed ticket missing root_cause
+TKT-006763,M02,Resolved/closed ticket missing root_cause
+TKT-006785,M02,Resolved/closed ticket missing root_cause
+TKT-006787,M02,Resolved/closed ticket missing root_cause
+TKT-006800,M02,Resolved/closed ticket missing root_cause
+TKT-006841,M02,Resolved/closed ticket missing root_cause
+TKT-006857,M02,Resolved/closed ticket missing root_cause
+TKT-006873,M02,Resolved/closed ticket missing root_cause
+TKT-006874,M02,Resolved/closed ticket missing root_cause
+TKT-006929,M02,Resolved/closed ticket missing root_cause
+TKT-006936,M02,Resolved/closed ticket missing root_cause
+TKT-006938,M02,Resolved/closed ticket missing root_cause
+TKT-006989,M02,Resolved/closed ticket missing root_cause
+TKT-006990,M02,Resolved/closed ticket missing root_cause
+TKT-006991,M02,Resolved/closed ticket missing root_cause
+TKT-007074,M02,Resolved/closed ticket missing root_cause
+TKT-007125,M02,Resolved/closed ticket missing root_cause
+TKT-007172,M02,Resolved/closed ticket missing root_cause
+TKT-007173,M02,Resolved/closed ticket missing root_cause
+TKT-007175,M02,Resolved/closed ticket missing root_cause
+TKT-007214,M02,Resolved/closed ticket missing root_cause
+TKT-007243,M02,Resolved/closed ticket missing root_cause
+TKT-007244,M02,Resolved/closed ticket missing root_cause
+TKT-007248,M02,Resolved/closed ticket missing root_cause
+TKT-007288,M02,Resolved/closed ticket missing root_cause
+TKT-007297,M02,Resolved/closed ticket missing root_cause
+TKT-007349,M02,Resolved/closed ticket missing root_cause
+TKT-007444,M02,Resolved/closed ticket missing root_cause
+TKT-007471,M02,Resolved/closed ticket missing root_cause
+TKT-007496,M02,Resolved/closed ticket missing root_cause
+TKT-007522,M02,Resolved/closed ticket missing root_cause
+TKT-007540,M02,Resolved/closed ticket missing root_cause
+TKT-007566,M02,Resolved/closed ticket missing root_cause
+TKT-007586,M02,Resolved/closed ticket missing root_cause
+TKT-007599,M02,Resolved/closed ticket missing root_cause
+TKT-007619,M02,Resolved/closed ticket missing root_cause
+TKT-007624,M02,Resolved/closed ticket missing root_cause
+TKT-007627,M02,Resolved/closed ticket missing root_cause
+TKT-007643,M02,Resolved/closed ticket missing root_cause
+TKT-007649,M02,Resolved/closed ticket missing root_cause
+TKT-007655,M02,Resolved/closed ticket missing root_cause
+TKT-007742,M02,Resolved/closed ticket missing root_cause
+TKT-007749,M02,Resolved/closed ticket missing root_cause
+TKT-007769,M02,Resolved/closed ticket missing root_cause
+TKT-007780,M02,Resolved/closed ticket missing root_cause
+TKT-007789,M02,Resolved/closed ticket missing root_cause
+TKT-007829,M02,Resolved/closed ticket missing root_cause
+TKT-007860,M02,Resolved/closed ticket missing root_cause
+TKT-007876,M02,Resolved/closed ticket missing root_cause
+TKT-007919,M02,Resolved/closed ticket missing root_cause
+TKT-007925,M02,Resolved/closed ticket missing root_cause
+TKT-007959,M02,Resolved/closed ticket missing root_cause
+TKT-007980,M02,Resolved/closed ticket missing root_cause
+TKT-008079,M02,Resolved/closed ticket missing root_cause
+TKT-008109,M02,Resolved/closed ticket missing root_cause
+TKT-008120,M02,Resolved/closed ticket missing root_cause
+TKT-008128,M02,Resolved/closed ticket missing root_cause
+TKT-008139,M02,Resolved/closed ticket missing root_cause
+TKT-008140,M02,Resolved/closed ticket missing root_cause
+TKT-008141,M02,Resolved/closed ticket missing root_cause
+TKT-008142,M02,Resolved/closed ticket missing root_cause
+TKT-008143,M02,Resolved/closed ticket missing root_cause
+TKT-008203,M02,Resolved/closed ticket missing root_cause
+TKT-008205,M02,Resolved/closed ticket missing root_cause
+TKT-008222,M02,Resolved/closed ticket missing root_cause
+TKT-008225,M02,Resolved/closed ticket missing root_cause
+TKT-008278,M02,Resolved/closed ticket missing root_cause
+TKT-008295,M02,Resolved/closed ticket missing root_cause
+TKT-008338,M02,Resolved/closed ticket missing root_cause
+TKT-008417,M02,Resolved/closed ticket missing root_cause
+TKT-008419,M02,Resolved/closed ticket missing root_cause
+TKT-008429,M02,Resolved/closed ticket missing root_cause
+TKT-008497,M02,Resolved/closed ticket missing root_cause
+TKT-008643,M02,Resolved/closed ticket missing root_cause
+TKT-008740,M02,Resolved/closed ticket missing root_cause
+TKT-008799,M02,Resolved/closed ticket missing root_cause
+TKT-008817,M02,Resolved/closed ticket missing root_cause
+TKT-008862,M02,Resolved/closed ticket missing root_cause
+TKT-008935,M02,Resolved/closed ticket missing root_cause
+TKT-008987,M02,Resolved/closed ticket missing root_cause
+TKT-009022,M02,Resolved/closed ticket missing root_cause
+TKT-009031,M02,Resolved/closed ticket missing root_cause
+TKT-009047,M02,Resolved/closed ticket missing root_cause
+TKT-009060,M02,Resolved/closed ticket missing root_cause
+TKT-009102,M02,Resolved/closed ticket missing root_cause
+TKT-009153,M02,Resolved/closed ticket missing root_cause
+TKT-009167,M02,Resolved/closed ticket missing root_cause
+TKT-009177,M02,Resolved/closed ticket missing root_cause
+TKT-009185,M02,Resolved/closed ticket missing root_cause
+TKT-009229,M02,Resolved/closed ticket missing root_cause
+TKT-009274,M02,Resolved/closed ticket missing root_cause
+TKT-009283,M02,Resolved/closed ticket missing root_cause
+TKT-009314,M02,Resolved/closed ticket missing root_cause
+TKT-009353,M02,Resolved/closed ticket missing root_cause
+TKT-009396,M02,Resolved/closed ticket missing root_cause
+TKT-009397,M02,Resolved/closed ticket missing root_cause
+TKT-009417,M02,Resolved/closed ticket missing root_cause
+TKT-009419,M02,Resolved/closed ticket missing root_cause
+TKT-009467,M02,Resolved/closed ticket missing root_cause
+TKT-009474,M02,Resolved/closed ticket missing root_cause
+TKT-009493,M02,Resolved/closed ticket missing root_cause
+TKT-009515,M02,Resolved/closed ticket missing root_cause
+TKT-009552,M02,Resolved/closed ticket missing root_cause
+TKT-009585,M02,Resolved/closed ticket missing root_cause
+TKT-009610,M02,Resolved/closed ticket missing root_cause
+TKT-009616,M02,Resolved/closed ticket missing root_cause
+TKT-009618,M02,Resolved/closed ticket missing root_cause
+TKT-009623,M02,Resolved/closed ticket missing root_cause
+TKT-009640,M02,Resolved/closed ticket missing root_cause
+TKT-009664,M02,Resolved/closed ticket missing root_cause
+TKT-009680,M02,Resolved/closed ticket missing root_cause
+TKT-009706,M02,Resolved/closed ticket missing root_cause
+TKT-009718,M02,Resolved/closed ticket missing root_cause
+TKT-009757,M02,Resolved/closed ticket missing root_cause
+TKT-009769,M02,Resolved/closed ticket missing root_cause
+TKT-009774,M02,Resolved/closed ticket missing root_cause
+TKT-009797,M02,Resolved/closed ticket missing root_cause
+TKT-009846,M02,Resolved/closed ticket missing root_cause
+TKT-009884,M02,Resolved/closed ticket missing root_cause
+TKT-009913,M02,Resolved/closed ticket missing root_cause
+TKT-009917,M02,Resolved/closed ticket missing root_cause
+TKT-009928,M02,Resolved/closed ticket missing root_cause
+TKT-009982,M02,Resolved/closed ticket missing root_cause
+TKT-010014,M02,Resolved/closed ticket missing root_cause
+TKT-010053,M02,Resolved/closed ticket missing root_cause
+TKT-010057,M02,Resolved/closed ticket missing root_cause
+TKT-010070,M02,Resolved/closed ticket missing root_cause
+TKT-010079,M02,Resolved/closed ticket missing root_cause
+TKT-010119,M02,Resolved/closed ticket missing root_cause
+TKT-010122,M02,Resolved/closed ticket missing root_cause
+TKT-010151,M02,Resolved/closed ticket missing root_cause
+TKT-010189,M02,Resolved/closed ticket missing root_cause
+TKT-010193,M02,Resolved/closed ticket missing root_cause
+TKT-010217,M02,Resolved/closed ticket missing root_cause
+TKT-010229,M02,Resolved/closed ticket missing root_cause
+TKT-010230,M02,Resolved/closed ticket missing root_cause
+TKT-010252,M02,Resolved/closed ticket missing root_cause
+TKT-010306,M02,Resolved/closed ticket missing root_cause
+TKT-010345,M02,Resolved/closed ticket missing root_cause
+TKT-010380,M02,Resolved/closed ticket missing root_cause
+TKT-010412,M02,Resolved/closed ticket missing root_cause
+TKT-010436,M02,Resolved/closed ticket missing root_cause
+TKT-010444,M02,Resolved/closed ticket missing root_cause
+TKT-010463,M02,Resolved/closed ticket missing root_cause
+TKT-010465,M02,Resolved/closed ticket missing root_cause
+TKT-010500,M02,Resolved/closed ticket missing root_cause
+TKT-010529,M02,Resolved/closed ticket missing root_cause
+TKT-010569,M02,Resolved/closed ticket missing root_cause
+TKT-010632,M02,Resolved/closed ticket missing root_cause
+TKT-010652,M02,Resolved/closed ticket missing root_cause
+TKT-010658,M02,Resolved/closed ticket missing root_cause
+TKT-010663,M02,Resolved/closed ticket missing root_cause
+TKT-010728,M02,Resolved/closed ticket missing root_cause
+TKT-010735,M02,Resolved/closed ticket missing root_cause
+TKT-010742,M02,Resolved/closed ticket missing root_cause
+TKT-010759,M02,Resolved/closed ticket missing root_cause
+TKT-010797,M02,Resolved/closed ticket missing root_cause
+TKT-010802,M02,Resolved/closed ticket missing root_cause
+TKT-010804,M02,Resolved/closed ticket missing root_cause
+TKT-010814,M02,Resolved/closed ticket missing root_cause
+TKT-010866,M02,Resolved/closed ticket missing root_cause
+TKT-010890,M02,Resolved/closed ticket missing root_cause
+TKT-010951,M02,Resolved/closed ticket missing root_cause
+TKT-010965,M02,Resolved/closed ticket missing root_cause
+TKT-010977,M02,Resolved/closed ticket missing root_cause
+TKT-011068,M02,Resolved/closed ticket missing root_cause
+TKT-011088,M02,Resolved/closed ticket missing root_cause
+TKT-011098,M02,Resolved/closed ticket missing root_cause
+TKT-011108,M02,Resolved/closed ticket missing root_cause
+TKT-011145,M02,Resolved/closed ticket missing root_cause
+TKT-011167,M02,Resolved/closed ticket missing root_cause
+TKT-011177,M02,Resolved/closed ticket missing root_cause
+TKT-011188,M02,Resolved/closed ticket missing root_cause
+TKT-011189,M02,Resolved/closed ticket missing root_cause
+TKT-011248,M02,Resolved/closed ticket missing root_cause
+TKT-011285,M02,Resolved/closed ticket missing root_cause
+TKT-011307,M02,Resolved/closed ticket missing root_cause
+TKT-011313,M02,Resolved/closed ticket missing root_cause
+TKT-011367,M02,Resolved/closed ticket missing root_cause
+TKT-011376,M02,Resolved/closed ticket missing root_cause
+TKT-011404,M02,Resolved/closed ticket missing root_cause
+TKT-011509,M02,Resolved/closed ticket missing root_cause
+TKT-011510,M02,Resolved/closed ticket missing root_cause
+TKT-011515,M02,Resolved/closed ticket missing root_cause
+TKT-011530,M02,Resolved/closed ticket missing root_cause
+TKT-011556,M02,Resolved/closed ticket missing root_cause
+TKT-011584,M02,Resolved/closed ticket missing root_cause
+TKT-011590,M02,Resolved/closed ticket missing root_cause
+TKT-011612,M02,Resolved/closed ticket missing root_cause
+TKT-011614,M02,Resolved/closed ticket missing root_cause
+TKT-011637,M02,Resolved/closed ticket missing root_cause
+TKT-011657,M02,Resolved/closed ticket missing root_cause
+TKT-011666,M02,Resolved/closed ticket missing root_cause
+TKT-011689,M02,Resolved/closed ticket missing root_cause
+TKT-011722,M02,Resolved/closed ticket missing root_cause
+TKT-011732,M02,Resolved/closed ticket missing root_cause
+TKT-011738,M02,Resolved/closed ticket missing root_cause
+TKT-011752,M02,Resolved/closed ticket missing root_cause
+TKT-011768,M02,Resolved/closed ticket missing root_cause
+TKT-011790,M02,Resolved/closed ticket missing root_cause
+TKT-011815,M02,Resolved/closed ticket missing root_cause
+TKT-011826,M02,Resolved/closed ticket missing root_cause
+TKT-011829,M02,Resolved/closed ticket missing root_cause
+TKT-011832,M02,Resolved/closed ticket missing root_cause
+TKT-011925,M02,Resolved/closed ticket missing root_cause
+TKT-011932,M02,Resolved/closed ticket missing root_cause
+TKT-011952,M02,Resolved/closed ticket missing root_cause
+TKT-012000,M02,Resolved/closed ticket missing root_cause
+TKT-012065,M02,Resolved/closed ticket missing root_cause
+TKT-012124,M02,Resolved/closed ticket missing root_cause
+TKT-012129,M02,Resolved/closed ticket missing root_cause
+TKT-012173,M02,Resolved/closed ticket missing root_cause
+TKT-012179,M02,Resolved/closed ticket missing root_cause
+TKT-012210,M02,Resolved/closed ticket missing root_cause
+TKT-012228,M02,Resolved/closed ticket missing root_cause
+TKT-012256,M02,Resolved/closed ticket missing root_cause
+TKT-012314,M02,Resolved/closed ticket missing root_cause
+TKT-012333,M02,Resolved/closed ticket missing root_cause
+TKT-012366,M02,Resolved/closed ticket missing root_cause
+TKT-012380,M02,Resolved/closed ticket missing root_cause
+TKT-012381,M02,Resolved/closed ticket missing root_cause
+TKT-012389,M02,Resolved/closed ticket missing root_cause
+TKT-012407,M02,Resolved/closed ticket missing root_cause
+TKT-012425,M02,Resolved/closed ticket missing root_cause
+TKT-012439,M02,Resolved/closed ticket missing root_cause
+TKT-012555,M02,Resolved/closed ticket missing root_cause
+TKT-012563,M02,Resolved/closed ticket missing root_cause
+TKT-012574,M02,Resolved/closed ticket missing root_cause
+TKT-012596,M02,Resolved/closed ticket missing root_cause
+TKT-012602,M02,Resolved/closed ticket missing root_cause
+TKT-012621,M02,Resolved/closed ticket missing root_cause
+TKT-012654,M02,Resolved/closed ticket missing root_cause
+TKT-012669,M02,Resolved/closed ticket missing root_cause
+TKT-012711,M02,Resolved/closed ticket missing root_cause
+TKT-012768,M02,Resolved/closed ticket missing root_cause
+TKT-012783,M02,Resolved/closed ticket missing root_cause
+TKT-012833,M02,Resolved/closed ticket missing root_cause
+TKT-012844,M02,Resolved/closed ticket missing root_cause
+TKT-012892,M02,Resolved/closed ticket missing root_cause
+TKT-012898,M02,Resolved/closed ticket missing root_cause
+TKT-012899,M02,Resolved/closed ticket missing root_cause
+TKT-012905,M02,Resolved/closed ticket missing root_cause
+TKT-012910,M02,Resolved/closed ticket missing root_cause
+TKT-012915,M02,Resolved/closed ticket missing root_cause
+TKT-012925,M02,Resolved/closed ticket missing root_cause
+TKT-012965,M02,Resolved/closed ticket missing root_cause
+TKT-012973,M02,Resolved/closed ticket missing root_cause
+TKT-013007,M02,Resolved/closed ticket missing root_cause
+TKT-013011,M02,Resolved/closed ticket missing root_cause
+TKT-013023,M02,Resolved/closed ticket missing root_cause
+TKT-013033,M02,Resolved/closed ticket missing root_cause
+TKT-013047,M02,Resolved/closed ticket missing root_cause
+TKT-013127,M02,Resolved/closed ticket missing root_cause
+TKT-013131,M02,Resolved/closed ticket missing root_cause
+TKT-013169,M02,Resolved/closed ticket missing root_cause
+TKT-013172,M02,Resolved/closed ticket missing root_cause
+TKT-013256,M02,Resolved/closed ticket missing root_cause
+TKT-013258,M02,Resolved/closed ticket missing root_cause
+TKT-013278,M02,Resolved/closed ticket missing root_cause
+TKT-013334,M02,Resolved/closed ticket missing root_cause
+TKT-013362,M02,Resolved/closed ticket missing root_cause
+TKT-013387,M02,Resolved/closed ticket missing root_cause
+TKT-013422,M02,Resolved/closed ticket missing root_cause
+TKT-013480,M02,Resolved/closed ticket missing root_cause
+TKT-013554,M02,Resolved/closed ticket missing root_cause
+TKT-013564,M02,Resolved/closed ticket missing root_cause
+TKT-013566,M02,Resolved/closed ticket missing root_cause
+TKT-013582,M02,Resolved/closed ticket missing root_cause
+TKT-013585,M02,Resolved/closed ticket missing root_cause
+TKT-013596,M02,Resolved/closed ticket missing root_cause
+TKT-013614,M02,Resolved/closed ticket missing root_cause
+TKT-013660,M02,Resolved/closed ticket missing root_cause
+TKT-013680,M02,Resolved/closed ticket missing root_cause
+TKT-013719,M02,Resolved/closed ticket missing root_cause
+TKT-013826,M02,Resolved/closed ticket missing root_cause
+TKT-013831,M02,Resolved/closed ticket missing root_cause
+TKT-013844,M02,Resolved/closed ticket missing root_cause
+TKT-013855,M02,Resolved/closed ticket missing root_cause
+TKT-013881,M02,Resolved/closed ticket missing root_cause
+TKT-013939,M02,Resolved/closed ticket missing root_cause
+TKT-013972,M02,Resolved/closed ticket missing root_cause
+TKT-013976,M02,Resolved/closed ticket missing root_cause
+TKT-014031,M02,Resolved/closed ticket missing root_cause
+TKT-014039,M02,Resolved/closed ticket missing root_cause
+TKT-014054,M02,Resolved/closed ticket missing root_cause
+TKT-014114,M02,Resolved/closed ticket missing root_cause
+TKT-014169,M02,Resolved/closed ticket missing root_cause
+TKT-014185,M02,Resolved/closed ticket missing root_cause
+TKT-014256,M02,Resolved/closed ticket missing root_cause
+TKT-014282,M02,Resolved/closed ticket missing root_cause
+TKT-014366,M02,Resolved/closed ticket missing root_cause
+TKT-014385,M02,Resolved/closed ticket missing root_cause
+TKT-014430,M02,Resolved/closed ticket missing root_cause
+TKT-014452,M02,Resolved/closed ticket missing root_cause
+TKT-014459,M02,Resolved/closed ticket missing root_cause
+TKT-014490,M02,Resolved/closed ticket missing root_cause
+TKT-014493,M02,Resolved/closed ticket missing root_cause
+TKT-014497,M02,Resolved/closed ticket missing root_cause
+TKT-014532,M02,Resolved/closed ticket missing root_cause
+TKT-014537,M02,Resolved/closed ticket missing root_cause
+TKT-014564,M02,Resolved/closed ticket missing root_cause
+TKT-014580,M02,Resolved/closed ticket missing root_cause
+TKT-014628,M02,Resolved/closed ticket missing root_cause
+TKT-014634,M02,Resolved/closed ticket missing root_cause
+TKT-014651,M02,Resolved/closed ticket missing root_cause
+TKT-014679,M02,Resolved/closed ticket missing root_cause
+TKT-014733,M02,Resolved/closed ticket missing root_cause
+TKT-014780,M02,Resolved/closed ticket missing root_cause
+TKT-014802,M02,Resolved/closed ticket missing root_cause
+TKT-014812,M02,Resolved/closed ticket missing root_cause
+TKT-014879,M02,Resolved/closed ticket missing root_cause
+TKT-014887,M02,Resolved/closed ticket missing root_cause
+TKT-014891,M02,Resolved/closed ticket missing root_cause
+TKT-014923,M02,Resolved/closed ticket missing root_cause
+TKT-015016,M02,Resolved/closed ticket missing root_cause
+TKT-015052,M02,Resolved/closed ticket missing root_cause
+TKT-015103,M02,Resolved/closed ticket missing root_cause
+TKT-015124,M02,Resolved/closed ticket missing root_cause
+TKT-015126,M02,Resolved/closed ticket missing root_cause
+TKT-015146,M02,Resolved/closed ticket missing root_cause
+TKT-015151,M02,Resolved/closed ticket missing root_cause
+TKT-015168,M02,Resolved/closed ticket missing root_cause
+TKT-015187,M02,Resolved/closed ticket missing root_cause
+TKT-015229,M02,Resolved/closed ticket missing root_cause
+TKT-015252,M02,Resolved/closed ticket missing root_cause
+TKT-015266,M02,Resolved/closed ticket missing root_cause
+TKT-015268,M02,Resolved/closed ticket missing root_cause
+TKT-015269,M02,Resolved/closed ticket missing root_cause
+TKT-015309,M02,Resolved/closed ticket missing root_cause
+TKT-015352,M02,Resolved/closed ticket missing root_cause
+TKT-015356,M02,Resolved/closed ticket missing root_cause
+TKT-015397,M02,Resolved/closed ticket missing root_cause
+TKT-015398,M02,Resolved/closed ticket missing root_cause
+TKT-015451,M02,Resolved/closed ticket missing root_cause
+TKT-015453,M02,Resolved/closed ticket missing root_cause
+TKT-015456,M02,Resolved/closed ticket missing root_cause
+TKT-015503,M02,Resolved/closed ticket missing root_cause
+TKT-015535,M02,Resolved/closed ticket missing root_cause
+TKT-015554,M02,Resolved/closed ticket missing root_cause
+TKT-015582,M02,Resolved/closed ticket missing root_cause
+TKT-015591,M02,Resolved/closed ticket missing root_cause
+TKT-015606,M02,Resolved/closed ticket missing root_cause
+TKT-015637,M02,Resolved/closed ticket missing root_cause
+TKT-015650,M02,Resolved/closed ticket missing root_cause
+TKT-015685,M02,Resolved/closed ticket missing root_cause
+TKT-015692,M02,Resolved/closed ticket missing root_cause
+TKT-015697,M02,Resolved/closed ticket missing root_cause
+TKT-015731,M02,Resolved/closed ticket missing root_cause
+TKT-015791,M02,Resolved/closed ticket missing root_cause
+TKT-015799,M02,Resolved/closed ticket missing root_cause
+TKT-015828,M02,Resolved/closed ticket missing root_cause
+TKT-015896,M02,Resolved/closed ticket missing root_cause
+TKT-015897,M02,Resolved/closed ticket missing root_cause
+TKT-015907,M02,Resolved/closed ticket missing root_cause
+TKT-015936,M02,Resolved/closed ticket missing root_cause
+TKT-015974,M02,Resolved/closed ticket missing root_cause
+TKT-015992,M02,Resolved/closed ticket missing root_cause
+TKT-016019,M02,Resolved/closed ticket missing root_cause
+TKT-016023,M02,Resolved/closed ticket missing root_cause
+TKT-016046,M02,Resolved/closed ticket missing root_cause
+TKT-016071,M02,Resolved/closed ticket missing root_cause
+TKT-016100,M02,Resolved/closed ticket missing root_cause
+TKT-016124,M02,Resolved/closed ticket missing root_cause
+TKT-016127,M02,Resolved/closed ticket missing root_cause
+TKT-016138,M02,Resolved/closed ticket missing root_cause
+TKT-016193,M02,Resolved/closed ticket missing root_cause
+TKT-016196,M02,Resolved/closed ticket missing root_cause
+TKT-016220,M02,Resolved/closed ticket missing root_cause
+TKT-016322,M02,Resolved/closed ticket missing root_cause
+TKT-016330,M02,Resolved/closed ticket missing root_cause
+TKT-016342,M02,Resolved/closed ticket missing root_cause
+TKT-016399,M02,Resolved/closed ticket missing root_cause
+TKT-016401,M02,Resolved/closed ticket missing root_cause
+TKT-016462,M02,Resolved/closed ticket missing root_cause
+TKT-016465,M02,Resolved/closed ticket missing root_cause
+TKT-016501,M02,Resolved/closed ticket missing root_cause
+TKT-016598,M02,Resolved/closed ticket missing root_cause
+TKT-016620,M02,Resolved/closed ticket missing root_cause
+TKT-016628,M02,Resolved/closed ticket missing root_cause
+TKT-016646,M02,Resolved/closed ticket missing root_cause
+TKT-016657,M02,Resolved/closed ticket missing root_cause
+TKT-016679,M02,Resolved/closed ticket missing root_cause
+TKT-016755,M02,Resolved/closed ticket missing root_cause
+TKT-016764,M02,Resolved/closed ticket missing root_cause
+TKT-016832,M02,Resolved/closed ticket missing root_cause
+TKT-016834,M02,Resolved/closed ticket missing root_cause
+TKT-016846,M02,Resolved/closed ticket missing root_cause
+TKT-016899,M02,Resolved/closed ticket missing root_cause
+TKT-016962,M02,Resolved/closed ticket missing root_cause
+TKT-017006,M02,Resolved/closed ticket missing root_cause
+TKT-017010,M02,Resolved/closed ticket missing root_cause
+TKT-017013,M02,Resolved/closed ticket missing root_cause
+TKT-017045,M02,Resolved/closed ticket missing root_cause
+TKT-017084,M02,Resolved/closed ticket missing root_cause
+TKT-017087,M02,Resolved/closed ticket missing root_cause
+TKT-017106,M02,Resolved/closed ticket missing root_cause
+TKT-017142,M02,Resolved/closed ticket missing root_cause
+TKT-017263,M02,Resolved/closed ticket missing root_cause
+TKT-017275,M02,Resolved/closed ticket missing root_cause
+TKT-017288,M02,Resolved/closed ticket missing root_cause
+TKT-017318,M02,Resolved/closed ticket missing root_cause
+TKT-017381,M02,Resolved/closed ticket missing root_cause
+TKT-017397,M02,Resolved/closed ticket missing root_cause
+TKT-017419,M02,Resolved/closed ticket missing root_cause
+TKT-017435,M02,Resolved/closed ticket missing root_cause
+TKT-017456,M02,Resolved/closed ticket missing root_cause
+TKT-017468,M02,Resolved/closed ticket missing root_cause
+TKT-017479,M02,Resolved/closed ticket missing root_cause
+TKT-017495,M02,Resolved/closed ticket missing root_cause
+TKT-017497,M02,Resolved/closed ticket missing root_cause
+TKT-017531,M02,Resolved/closed ticket missing root_cause
+TKT-017536,M02,Resolved/closed ticket missing root_cause
+TKT-017537,M02,Resolved/closed ticket missing root_cause
+TKT-017541,M02,Resolved/closed ticket missing root_cause
+TKT-017550,M02,Resolved/closed ticket missing root_cause
+TKT-017578,M02,Resolved/closed ticket missing root_cause
+TKT-017580,M02,Resolved/closed ticket missing root_cause
+TKT-017615,M02,Resolved/closed ticket missing root_cause
+TKT-017628,M02,Resolved/closed ticket missing root_cause
+TKT-017683,M02,Resolved/closed ticket missing root_cause
+TKT-017689,M02,Resolved/closed ticket missing root_cause
+TKT-017695,M02,Resolved/closed ticket missing root_cause
+TKT-017756,M02,Resolved/closed ticket missing root_cause
+TKT-017790,M02,Resolved/closed ticket missing root_cause
+TKT-017796,M02,Resolved/closed ticket missing root_cause
+TKT-017840,M02,Resolved/closed ticket missing root_cause
+TKT-017865,M02,Resolved/closed ticket missing root_cause
+TKT-017893,M02,Resolved/closed ticket missing root_cause
+TKT-017907,M02,Resolved/closed ticket missing root_cause
+TKT-017909,M02,Resolved/closed ticket missing root_cause
+TKT-017924,M02,Resolved/closed ticket missing root_cause
+TKT-017936,M02,Resolved/closed ticket missing root_cause
+TKT-017940,M02,Resolved/closed ticket missing root_cause
+TKT-017990,M02,Resolved/closed ticket missing root_cause
+TKT-017994,M02,Resolved/closed ticket missing root_cause
+TKT-018023,M02,Resolved/closed ticket missing root_cause
+TKT-018034,M02,Resolved/closed ticket missing root_cause
+TKT-018038,M02,Resolved/closed ticket missing root_cause
+TKT-018098,M02,Resolved/closed ticket missing root_cause
+TKT-018129,M02,Resolved/closed ticket missing root_cause
+TKT-018192,M02,Resolved/closed ticket missing root_cause
+TKT-018199,M02,Resolved/closed ticket missing root_cause
+TKT-018210,M02,Resolved/closed ticket missing root_cause
+TKT-018235,M02,Resolved/closed ticket missing root_cause
+TKT-018247,M02,Resolved/closed ticket missing root_cause
+TKT-018264,M02,Resolved/closed ticket missing root_cause
+TKT-018305,M02,Resolved/closed ticket missing root_cause
+TKT-018311,M02,Resolved/closed ticket missing root_cause
+TKT-018343,M02,Resolved/closed ticket missing root_cause
+TKT-018358,M02,Resolved/closed ticket missing root_cause
+TKT-018428,M02,Resolved/closed ticket missing root_cause
+TKT-018453,M02,Resolved/closed ticket missing root_cause
+TKT-018587,M02,Resolved/closed ticket missing root_cause
+TKT-018588,M02,Resolved/closed ticket missing root_cause
+TKT-018593,M02,Resolved/closed ticket missing root_cause
+TKT-018594,M02,Resolved/closed ticket missing root_cause
+TKT-018609,M02,Resolved/closed ticket missing root_cause
+TKT-018645,M02,Resolved/closed ticket missing root_cause
+TKT-018662,M02,Resolved/closed ticket missing root_cause
+TKT-018664,M02,Resolved/closed ticket missing root_cause
+TKT-018685,M02,Resolved/closed ticket missing root_cause
+TKT-018689,M02,Resolved/closed ticket missing root_cause
+TKT-018690,M02,Resolved/closed ticket missing root_cause
+TKT-018713,M02,Resolved/closed ticket missing root_cause
+TKT-018727,M02,Resolved/closed ticket missing root_cause
+TKT-018745,M02,Resolved/closed ticket missing root_cause
+TKT-018751,M02,Resolved/closed ticket missing root_cause
+TKT-018780,M02,Resolved/closed ticket missing root_cause
+TKT-018783,M02,Resolved/closed ticket missing root_cause
+TKT-018835,M02,Resolved/closed ticket missing root_cause
+TKT-018879,M02,Resolved/closed ticket missing root_cause
+TKT-018882,M02,Resolved/closed ticket missing root_cause
+TKT-018898,M02,Resolved/closed ticket missing root_cause
+TKT-018923,M02,Resolved/closed ticket missing root_cause
+TKT-019007,M02,Resolved/closed ticket missing root_cause
+TKT-019018,M02,Resolved/closed ticket missing root_cause
+TKT-019020,M02,Resolved/closed ticket missing root_cause
+TKT-019093,M02,Resolved/closed ticket missing root_cause
+TKT-019115,M02,Resolved/closed ticket missing root_cause
+TKT-019121,M02,Resolved/closed ticket missing root_cause
+TKT-019126,M02,Resolved/closed ticket missing root_cause
+TKT-019143,M02,Resolved/closed ticket missing root_cause
+TKT-019144,M02,Resolved/closed ticket missing root_cause
+TKT-019156,M02,Resolved/closed ticket missing root_cause
+TKT-019157,M02,Resolved/closed ticket missing root_cause
+TKT-019198,M02,Resolved/closed ticket missing root_cause
+TKT-019238,M02,Resolved/closed ticket missing root_cause
+TKT-019263,M02,Resolved/closed ticket missing root_cause
+TKT-019305,M02,Resolved/closed ticket missing root_cause
+TKT-019336,M02,Resolved/closed ticket missing root_cause
+TKT-019339,M02,Resolved/closed ticket missing root_cause
+TKT-019378,M02,Resolved/closed ticket missing root_cause
+TKT-019410,M02,Resolved/closed ticket missing root_cause
+TKT-019411,M02,Resolved/closed ticket missing root_cause
+TKT-019453,M02,Resolved/closed ticket missing root_cause
+TKT-019459,M02,Resolved/closed ticket missing root_cause
+TKT-019474,M02,Resolved/closed ticket missing root_cause
+TKT-019503,M02,Resolved/closed ticket missing root_cause
+TKT-019519,M02,Resolved/closed ticket missing root_cause
+TKT-019523,M02,Resolved/closed ticket missing root_cause
+TKT-019568,M02,Resolved/closed ticket missing root_cause
+TKT-019577,M02,Resolved/closed ticket missing root_cause
+TKT-019578,M02,Resolved/closed ticket missing root_cause
+TKT-019589,M02,Resolved/closed ticket missing root_cause
+TKT-019655,M02,Resolved/closed ticket missing root_cause
+TKT-019675,M02,Resolved/closed ticket missing root_cause
+TKT-019688,M02,Resolved/closed ticket missing root_cause
+TKT-019700,M02,Resolved/closed ticket missing root_cause
+TKT-019703,M02,Resolved/closed ticket missing root_cause
+TKT-019704,M02,Resolved/closed ticket missing root_cause
+TKT-019708,M02,Resolved/closed ticket missing root_cause
+TKT-019794,M02,Resolved/closed ticket missing root_cause
+TKT-019828,M02,Resolved/closed ticket missing root_cause
+TKT-019833,M02,Resolved/closed ticket missing root_cause
+TKT-019859,M02,Resolved/closed ticket missing root_cause
+TKT-019870,M02,Resolved/closed ticket missing root_cause
+TKT-019876,M02,Resolved/closed ticket missing root_cause
+TKT-019882,M02,Resolved/closed ticket missing root_cause
+TKT-019896,M02,Resolved/closed ticket missing root_cause
+TKT-019898,M02,Resolved/closed ticket missing root_cause
+TKT-019926,M02,Resolved/closed ticket missing root_cause
+TKT-019973,M02,Resolved/closed ticket missing root_cause
+TKT-019974,M02,Resolved/closed ticket missing root_cause
+TKT-019986,M02,Resolved/closed ticket missing root_cause
+TKT-020019,M02,Resolved/closed ticket missing root_cause
+TKT-020027,M02,Resolved/closed ticket missing root_cause
+TKT-020055,M02,Resolved/closed ticket missing root_cause
+TKT-020061,M02,Resolved/closed ticket missing root_cause
+TKT-020089,M02,Resolved/closed ticket missing root_cause
+TKT-020114,M02,Resolved/closed ticket missing root_cause
+TKT-020143,M02,Resolved/closed ticket missing root_cause
+TKT-020157,M02,Resolved/closed ticket missing root_cause
+TKT-020163,M02,Resolved/closed ticket missing root_cause
+TKT-020167,M02,Resolved/closed ticket missing root_cause
+TKT-020187,M02,Resolved/closed ticket missing root_cause
+TKT-020190,M02,Resolved/closed ticket missing root_cause
+TKT-020213,M02,Resolved/closed ticket missing root_cause
+TKT-020222,M02,Resolved/closed ticket missing root_cause
+TKT-020232,M02,Resolved/closed ticket missing root_cause
+TKT-020302,M02,Resolved/closed ticket missing root_cause
+TKT-020317,M02,Resolved/closed ticket missing root_cause
+TKT-020319,M02,Resolved/closed ticket missing root_cause
+TKT-020322,M02,Resolved/closed ticket missing root_cause
+TKT-020384,M02,Resolved/closed ticket missing root_cause
+TKT-020563,M02,Resolved/closed ticket missing root_cause
+TKT-020644,M02,Resolved/closed ticket missing root_cause
+TKT-020652,M02,Resolved/closed ticket missing root_cause
+TKT-020659,M02,Resolved/closed ticket missing root_cause
+TKT-020663,M02,Resolved/closed ticket missing root_cause
+TKT-020664,M02,Resolved/closed ticket missing root_cause
+TKT-020749,M02,Resolved/closed ticket missing root_cause
+TKT-020771,M02,Resolved/closed ticket missing root_cause
+TKT-020773,M02,Resolved/closed ticket missing root_cause
+TKT-020798,M02,Resolved/closed ticket missing root_cause
+TKT-020837,M02,Resolved/closed ticket missing root_cause
+TKT-020866,M02,Resolved/closed ticket missing root_cause
+TKT-020930,M02,Resolved/closed ticket missing root_cause
+TKT-020944,M02,Resolved/closed ticket missing root_cause
+TKT-020975,M02,Resolved/closed ticket missing root_cause
+TKT-020986,M02,Resolved/closed ticket missing root_cause
+TKT-021016,M02,Resolved/closed ticket missing root_cause
+TKT-021029,M02,Resolved/closed ticket missing root_cause
+TKT-021046,M02,Resolved/closed ticket missing root_cause
+TKT-021049,M02,Resolved/closed ticket missing root_cause
+TKT-021050,M02,Resolved/closed ticket missing root_cause
+TKT-021063,M02,Resolved/closed ticket missing root_cause
+TKT-021093,M02,Resolved/closed ticket missing root_cause
+TKT-021105,M02,Resolved/closed ticket missing root_cause
+TKT-021126,M02,Resolved/closed ticket missing root_cause
+TKT-021197,M02,Resolved/closed ticket missing root_cause
+TKT-021205,M02,Resolved/closed ticket missing root_cause
+TKT-021209,M02,Resolved/closed ticket missing root_cause
+TKT-021250,M02,Resolved/closed ticket missing root_cause
+TKT-021331,M02,Resolved/closed ticket missing root_cause
+TKT-021362,M02,Resolved/closed ticket missing root_cause
+TKT-021375,M02,Resolved/closed ticket missing root_cause
+TKT-021426,M02,Resolved/closed ticket missing root_cause
+TKT-021478,M02,Resolved/closed ticket missing root_cause
+TKT-021480,M02,Resolved/closed ticket missing root_cause
+TKT-021501,M02,Resolved/closed ticket missing root_cause
+TKT-021516,M02,Resolved/closed ticket missing root_cause
+TKT-021580,M02,Resolved/closed ticket missing root_cause
+TKT-021616,M02,Resolved/closed ticket missing root_cause
+TKT-021660,M02,Resolved/closed ticket missing root_cause
+TKT-021674,M02,Resolved/closed ticket missing root_cause
+TKT-021688,M02,Resolved/closed ticket missing root_cause
+TKT-021714,M02,Resolved/closed ticket missing root_cause
+TKT-021747,M02,Resolved/closed ticket missing root_cause
+TKT-021760,M02,Resolved/closed ticket missing root_cause
+TKT-021786,M02,Resolved/closed ticket missing root_cause
+TKT-021809,M02,Resolved/closed ticket missing root_cause
+TKT-021858,M02,Resolved/closed ticket missing root_cause
+TKT-021871,M02,Resolved/closed ticket missing root_cause
+TKT-021929,M02,Resolved/closed ticket missing root_cause
+TKT-021949,M02,Resolved/closed ticket missing root_cause
+TKT-021965,M02,Resolved/closed ticket missing root_cause
+TKT-022053,M02,Resolved/closed ticket missing root_cause
+TKT-022062,M02,Resolved/closed ticket missing root_cause
+TKT-022070,M02,Resolved/closed ticket missing root_cause
+TKT-022117,M02,Resolved/closed ticket missing root_cause
+TKT-022120,M02,Resolved/closed ticket missing root_cause
+TKT-022143,M02,Resolved/closed ticket missing root_cause
+TKT-000011,M03,knowledge_base_used not recorded
+TKT-000062,M03,knowledge_base_used not recorded
+TKT-000092,M03,knowledge_base_used not recorded
+TKT-000157,M03,knowledge_base_used not recorded
+TKT-000171,M03,knowledge_base_used not recorded
+TKT-000192,M03,knowledge_base_used not recorded
+TKT-000195,M03,knowledge_base_used not recorded
+TKT-000206,M03,knowledge_base_used not recorded
+TKT-000225,M03,knowledge_base_used not recorded
+TKT-000290,M03,knowledge_base_used not recorded
+TKT-000293,M03,knowledge_base_used not recorded
+TKT-000299,M03,knowledge_base_used not recorded
+TKT-000324,M03,knowledge_base_used not recorded
+TKT-000347,M03,knowledge_base_used not recorded
+TKT-000365,M03,knowledge_base_used not recorded
+TKT-000464,M03,knowledge_base_used not recorded
+TKT-000497,M03,knowledge_base_used not recorded
+TKT-000518,M03,knowledge_base_used not recorded
+TKT-000526,M03,knowledge_base_used not recorded
+TKT-000540,M03,knowledge_base_used not recorded
+TKT-000595,M03,knowledge_base_used not recorded
+TKT-000665,M03,knowledge_base_used not recorded
+TKT-000706,M03,knowledge_base_used not recorded
+TKT-000716,M03,knowledge_base_used not recorded
+TKT-000759,M03,knowledge_base_used not recorded
+TKT-000788,M03,knowledge_base_used not recorded
+TKT-000833,M03,knowledge_base_used not recorded
+TKT-000861,M03,knowledge_base_used not recorded
+TKT-000864,M03,knowledge_base_used not recorded
+TKT-000904,M03,knowledge_base_used not recorded
+TKT-000914,M03,knowledge_base_used not recorded
+TKT-000967,M03,knowledge_base_used not recorded
+TKT-001021,M03,knowledge_base_used not recorded
+TKT-001054,M03,knowledge_base_used not recorded
+TKT-001061,M03,knowledge_base_used not recorded
+TKT-001069,M03,knowledge_base_used not recorded
+TKT-001168,M03,knowledge_base_used not recorded
+TKT-001171,M03,knowledge_base_used not recorded
+TKT-001181,M03,knowledge_base_used not recorded
+TKT-001232,M03,knowledge_base_used not recorded
+TKT-001247,M03,knowledge_base_used not recorded
+TKT-001271,M03,knowledge_base_used not recorded
+TKT-001331,M03,knowledge_base_used not recorded
+TKT-001373,M03,knowledge_base_used not recorded
+TKT-001386,M03,knowledge_base_used not recorded
+TKT-001411,M03,knowledge_base_used not recorded
+TKT-001475,M03,knowledge_base_used not recorded
+TKT-001478,M03,knowledge_base_used not recorded
+TKT-001487,M03,knowledge_base_used not recorded
+TKT-001501,M03,knowledge_base_used not recorded
+TKT-001555,M03,knowledge_base_used not recorded
+TKT-001583,M03,knowledge_base_used not recorded
+TKT-001602,M03,knowledge_base_used not recorded
+TKT-001679,M03,knowledge_base_used not recorded
+TKT-001714,M03,knowledge_base_used not recorded
+TKT-001716,M03,knowledge_base_used not recorded
+TKT-001730,M03,knowledge_base_used not recorded
+TKT-001745,M03,knowledge_base_used not recorded
+TKT-001752,M03,knowledge_base_used not recorded
+TKT-001768,M03,knowledge_base_used not recorded
+TKT-001788,M03,knowledge_base_used not recorded
+TKT-001801,M03,knowledge_base_used not recorded
+TKT-001819,M03,knowledge_base_used not recorded
+TKT-001889,M03,knowledge_base_used not recorded
+TKT-001923,M03,knowledge_base_used not recorded
+TKT-001924,M03,knowledge_base_used not recorded
+TKT-001930,M03,knowledge_base_used not recorded
+TKT-001955,M03,knowledge_base_used not recorded
+TKT-002047,M03,knowledge_base_used not recorded
+TKT-002146,M03,knowledge_base_used not recorded
+TKT-002154,M03,knowledge_base_used not recorded
+TKT-002232,M03,knowledge_base_used not recorded
+TKT-002275,M03,knowledge_base_used not recorded
+TKT-002346,M03,knowledge_base_used not recorded
+TKT-002383,M03,knowledge_base_used not recorded
+TKT-002385,M03,knowledge_base_used not recorded
+TKT-002395,M03,knowledge_base_used not recorded
+TKT-002398,M03,knowledge_base_used not recorded
+TKT-002441,M03,knowledge_base_used not recorded
+TKT-002449,M03,knowledge_base_used not recorded
+TKT-002519,M03,knowledge_base_used not recorded
+TKT-002567,M03,knowledge_base_used not recorded
+TKT-002589,M03,knowledge_base_used not recorded
+TKT-002632,M03,knowledge_base_used not recorded
+TKT-002637,M03,knowledge_base_used not recorded
+TKT-002685,M03,knowledge_base_used not recorded
+TKT-002695,M03,knowledge_base_used not recorded
+TKT-002710,M03,knowledge_base_used not recorded
+TKT-002715,M03,knowledge_base_used not recorded
+TKT-002772,M03,knowledge_base_used not recorded
+TKT-002829,M03,knowledge_base_used not recorded
+TKT-002834,M03,knowledge_base_used not recorded
+TKT-002904,M03,knowledge_base_used not recorded
+TKT-002906,M03,knowledge_base_used not recorded
+TKT-002907,M03,knowledge_base_used not recorded
+TKT-002915,M03,knowledge_base_used not recorded
+TKT-002939,M03,knowledge_base_used not recorded
+TKT-002977,M03,knowledge_base_used not recorded
+TKT-003059,M03,knowledge_base_used not recorded
+TKT-003060,M03,knowledge_base_used not recorded
+TKT-003141,M03,knowledge_base_used not recorded
+TKT-003150,M03,knowledge_base_used not recorded
+TKT-003179,M03,knowledge_base_used not recorded
+TKT-003180,M03,knowledge_base_used not recorded
+TKT-003228,M03,knowledge_base_used not recorded
+TKT-003315,M03,knowledge_base_used not recorded
+TKT-003316,M03,knowledge_base_used not recorded
+TKT-003318,M03,knowledge_base_used not recorded
+TKT-003360,M03,knowledge_base_used not recorded
+TKT-003369,M03,knowledge_base_used not recorded
+TKT-003380,M03,knowledge_base_used not recorded
+TKT-003447,M03,knowledge_base_used not recorded
+TKT-003463,M03,knowledge_base_used not recorded
+TKT-003473,M03,knowledge_base_used not recorded
+TKT-003499,M03,knowledge_base_used not recorded
+TKT-003514,M03,knowledge_base_used not recorded
+TKT-003529,M03,knowledge_base_used not recorded
+TKT-003554,M03,knowledge_base_used not recorded
+TKT-003672,M03,knowledge_base_used not recorded
+TKT-003687,M03,knowledge_base_used not recorded
+TKT-003723,M03,knowledge_base_used not recorded
+TKT-003741,M03,knowledge_base_used not recorded
+TKT-003755,M03,knowledge_base_used not recorded
+TKT-003782,M03,knowledge_base_used not recorded
+TKT-003787,M03,knowledge_base_used not recorded
+TKT-003863,M03,knowledge_base_used not recorded
+TKT-003888,M03,knowledge_base_used not recorded
+TKT-003898,M03,knowledge_base_used not recorded
+TKT-003905,M03,knowledge_base_used not recorded
+TKT-003942,M03,knowledge_base_used not recorded
+TKT-003979,M03,knowledge_base_used not recorded
+TKT-003988,M03,knowledge_base_used not recorded
+TKT-004001,M03,knowledge_base_used not recorded
+TKT-004046,M03,knowledge_base_used not recorded
+TKT-004054,M03,knowledge_base_used not recorded
+TKT-004085,M03,knowledge_base_used not recorded
+TKT-004138,M03,knowledge_base_used not recorded
+TKT-004147,M03,knowledge_base_used not recorded
+TKT-004201,M03,knowledge_base_used not recorded
+TKT-004216,M03,knowledge_base_used not recorded
+TKT-004235,M03,knowledge_base_used not recorded
+TKT-004244,M03,knowledge_base_used not recorded
+TKT-004274,M03,knowledge_base_used not recorded
+TKT-004316,M03,knowledge_base_used not recorded
+TKT-004319,M03,knowledge_base_used not recorded
+TKT-004324,M03,knowledge_base_used not recorded
+TKT-004326,M03,knowledge_base_used not recorded
+TKT-004337,M03,knowledge_base_used not recorded
+TKT-004370,M03,knowledge_base_used not recorded
+TKT-004389,M03,knowledge_base_used not recorded
+TKT-004442,M03,knowledge_base_used not recorded
+TKT-004460,M03,knowledge_base_used not recorded
+TKT-004532,M03,knowledge_base_used not recorded
+TKT-004537,M03,knowledge_base_used not recorded
+TKT-004551,M03,knowledge_base_used not recorded
+TKT-004599,M03,knowledge_base_used not recorded
+TKT-004633,M03,knowledge_base_used not recorded
+TKT-004639,M03,knowledge_base_used not recorded
+TKT-004675,M03,knowledge_base_used not recorded
+TKT-004696,M03,knowledge_base_used not recorded
+TKT-004956,M03,knowledge_base_used not recorded
+TKT-005022,M03,knowledge_base_used not recorded
+TKT-005059,M03,knowledge_base_used not recorded
+TKT-005066,M03,knowledge_base_used not recorded
+TKT-005076,M03,knowledge_base_used not recorded
+TKT-005078,M03,knowledge_base_used not recorded
+TKT-005128,M03,knowledge_base_used not recorded
+TKT-005196,M03,knowledge_base_used not recorded
+TKT-005214,M03,knowledge_base_used not recorded
+TKT-005299,M03,knowledge_base_used not recorded
+TKT-005311,M03,knowledge_base_used not recorded
+TKT-005320,M03,knowledge_base_used not recorded
+TKT-005352,M03,knowledge_base_used not recorded
+TKT-005358,M03,knowledge_base_used not recorded
+TKT-005361,M03,knowledge_base_used not recorded
+TKT-005370,M03,knowledge_base_used not recorded
+TKT-005454,M03,knowledge_base_used not recorded
+TKT-005488,M03,knowledge_base_used not recorded
+TKT-005496,M03,knowledge_base_used not recorded
+TKT-005504,M03,knowledge_base_used not recorded
+TKT-005585,M03,knowledge_base_used not recorded
+TKT-005601,M03,knowledge_base_used not recorded
+TKT-005655,M03,knowledge_base_used not recorded
+TKT-005674,M03,knowledge_base_used not recorded
+TKT-005739,M03,knowledge_base_used not recorded
+TKT-005905,M03,knowledge_base_used not recorded
+TKT-006078,M03,knowledge_base_used not recorded
+TKT-006113,M03,knowledge_base_used not recorded
+TKT-006142,M03,knowledge_base_used not recorded
+TKT-006156,M03,knowledge_base_used not recorded
+TKT-006187,M03,knowledge_base_used not recorded
+TKT-006235,M03,knowledge_base_used not recorded
+TKT-006243,M03,knowledge_base_used not recorded
+TKT-006262,M03,knowledge_base_used not recorded
+TKT-006311,M03,knowledge_base_used not recorded
+TKT-006312,M03,knowledge_base_used not recorded
+TKT-006377,M03,knowledge_base_used not recorded
+TKT-006405,M03,knowledge_base_used not recorded
+TKT-006483,M03,knowledge_base_used not recorded
+TKT-006506,M03,knowledge_base_used not recorded
+TKT-006556,M03,knowledge_base_used not recorded
+TKT-006594,M03,knowledge_base_used not recorded
+TKT-006655,M03,knowledge_base_used not recorded
+TKT-006667,M03,knowledge_base_used not recorded
+TKT-006789,M03,knowledge_base_used not recorded
+TKT-006818,M03,knowledge_base_used not recorded
+TKT-006879,M03,knowledge_base_used not recorded
+TKT-006991,M03,knowledge_base_used not recorded
+TKT-007038,M03,knowledge_base_used not recorded
+TKT-007041,M03,knowledge_base_used not recorded
+TKT-007057,M03,knowledge_base_used not recorded
+TKT-007064,M03,knowledge_base_used not recorded
+TKT-007113,M03,knowledge_base_used not recorded
+TKT-007144,M03,knowledge_base_used not recorded
+TKT-007148,M03,knowledge_base_used not recorded
+TKT-007191,M03,knowledge_base_used not recorded
+TKT-007221,M03,knowledge_base_used not recorded
+TKT-007239,M03,knowledge_base_used not recorded
+TKT-007255,M03,knowledge_base_used not recorded
+TKT-007263,M03,knowledge_base_used not recorded
+TKT-007294,M03,knowledge_base_used not recorded
+TKT-007409,M03,knowledge_base_used not recorded
+TKT-007446,M03,knowledge_base_used not recorded
+TKT-007459,M03,knowledge_base_used not recorded
+TKT-007474,M03,knowledge_base_used not recorded
+TKT-007550,M03,knowledge_base_used not recorded
+TKT-007564,M03,knowledge_base_used not recorded
+TKT-007580,M03,knowledge_base_used not recorded
+TKT-007623,M03,knowledge_base_used not recorded
+TKT-007662,M03,knowledge_base_used not recorded
+TKT-007666,M03,knowledge_base_used not recorded
+TKT-007676,M03,knowledge_base_used not recorded
+TKT-007728,M03,knowledge_base_used not recorded
+TKT-007751,M03,knowledge_base_used not recorded
+TKT-007783,M03,knowledge_base_used not recorded
+TKT-007865,M03,knowledge_base_used not recorded
+TKT-007881,M03,knowledge_base_used not recorded
+TKT-007932,M03,knowledge_base_used not recorded
+TKT-007993,M03,knowledge_base_used not recorded
+TKT-008014,M03,knowledge_base_used not recorded
+TKT-008020,M03,knowledge_base_used not recorded
+TKT-008073,M03,knowledge_base_used not recorded
+TKT-008078,M03,knowledge_base_used not recorded
+TKT-008094,M03,knowledge_base_used not recorded
+TKT-008152,M03,knowledge_base_used not recorded
+TKT-008362,M03,knowledge_base_used not recorded
+TKT-008373,M03,knowledge_base_used not recorded
+TKT-008389,M03,knowledge_base_used not recorded
+TKT-008396,M03,knowledge_base_used not recorded
+TKT-008413,M03,knowledge_base_used not recorded
+TKT-008445,M03,knowledge_base_used not recorded
+TKT-008635,M03,knowledge_base_used not recorded
+TKT-008692,M03,knowledge_base_used not recorded
+TKT-008826,M03,knowledge_base_used not recorded
+TKT-008865,M03,knowledge_base_used not recorded
+TKT-008866,M03,knowledge_base_used not recorded
+TKT-008936,M03,knowledge_base_used not recorded
+TKT-008950,M03,knowledge_base_used not recorded
+TKT-008958,M03,knowledge_base_used not recorded
+TKT-008976,M03,knowledge_base_used not recorded
+TKT-008982,M03,knowledge_base_used not recorded
+TKT-008997,M03,knowledge_base_used not recorded
+TKT-009069,M03,knowledge_base_used not recorded
+TKT-009096,M03,knowledge_base_used not recorded
+TKT-009143,M03,knowledge_base_used not recorded
+TKT-009325,M03,knowledge_base_used not recorded
+TKT-009344,M03,knowledge_base_used not recorded
+TKT-009352,M03,knowledge_base_used not recorded
+TKT-009387,M03,knowledge_base_used not recorded
+TKT-009397,M03,knowledge_base_used not recorded
+TKT-009479,M03,knowledge_base_used not recorded
+TKT-009494,M03,knowledge_base_used not recorded
+TKT-009523,M03,knowledge_base_used not recorded
+TKT-009525,M03,knowledge_base_used not recorded
+TKT-009589,M03,knowledge_base_used not recorded
+TKT-009639,M03,knowledge_base_used not recorded
+TKT-009649,M03,knowledge_base_used not recorded
+TKT-009654,M03,knowledge_base_used not recorded
+TKT-009656,M03,knowledge_base_used not recorded
+TKT-009660,M03,knowledge_base_used not recorded
+TKT-009680,M03,knowledge_base_used not recorded
+TKT-009741,M03,knowledge_base_used not recorded
+TKT-009779,M03,knowledge_base_used not recorded
+TKT-009840,M03,knowledge_base_used not recorded
+TKT-009850,M03,knowledge_base_used not recorded
+TKT-009900,M03,knowledge_base_used not recorded
+TKT-009904,M03,knowledge_base_used not recorded
+TKT-009937,M03,knowledge_base_used not recorded
+TKT-009958,M03,knowledge_base_used not recorded
+TKT-009982,M03,knowledge_base_used not recorded
+TKT-009985,M03,knowledge_base_used not recorded
+TKT-009992,M03,knowledge_base_used not recorded
+TKT-010036,M03,knowledge_base_used not recorded
+TKT-010081,M03,knowledge_base_used not recorded
+TKT-010090,M03,knowledge_base_used not recorded
+TKT-010106,M03,knowledge_base_used not recorded
+TKT-010157,M03,knowledge_base_used not recorded
+TKT-010158,M03,knowledge_base_used not recorded
+TKT-010204,M03,knowledge_base_used not recorded
+TKT-010232,M03,knowledge_base_used not recorded
+TKT-010258,M03,knowledge_base_used not recorded
+TKT-010275,M03,knowledge_base_used not recorded
+TKT-010286,M03,knowledge_base_used not recorded
+TKT-010359,M03,knowledge_base_used not recorded
+TKT-010366,M03,knowledge_base_used not recorded
+TKT-010406,M03,knowledge_base_used not recorded
+TKT-010410,M03,knowledge_base_used not recorded
+TKT-010423,M03,knowledge_base_used not recorded
+TKT-010425,M03,knowledge_base_used not recorded
+TKT-010438,M03,knowledge_base_used not recorded
+TKT-010440,M03,knowledge_base_used not recorded
+TKT-010466,M03,knowledge_base_used not recorded
+TKT-010470,M03,knowledge_base_used not recorded
+TKT-010586,M03,knowledge_base_used not recorded
+TKT-010607,M03,knowledge_base_used not recorded
+TKT-010635,M03,knowledge_base_used not recorded
+TKT-010662,M03,knowledge_base_used not recorded
+TKT-010678,M03,knowledge_base_used not recorded
+TKT-010729,M03,knowledge_base_used not recorded
+TKT-010736,M03,knowledge_base_used not recorded
+TKT-010783,M03,knowledge_base_used not recorded
+TKT-010833,M03,knowledge_base_used not recorded
+TKT-010977,M03,knowledge_base_used not recorded
+TKT-010980,M03,knowledge_base_used not recorded
+TKT-011073,M03,knowledge_base_used not recorded
+TKT-011160,M03,knowledge_base_used not recorded
+TKT-011252,M03,knowledge_base_used not recorded
+TKT-011274,M03,knowledge_base_used not recorded
+TKT-011286,M03,knowledge_base_used not recorded
+TKT-011303,M03,knowledge_base_used not recorded
+TKT-011313,M03,knowledge_base_used not recorded
+TKT-011339,M03,knowledge_base_used not recorded
+TKT-011358,M03,knowledge_base_used not recorded
+TKT-011359,M03,knowledge_base_used not recorded
+TKT-011388,M03,knowledge_base_used not recorded
+TKT-011405,M03,knowledge_base_used not recorded
+TKT-011461,M03,knowledge_base_used not recorded
+TKT-011482,M03,knowledge_base_used not recorded
+TKT-011483,M03,knowledge_base_used not recorded
+TKT-011597,M03,knowledge_base_used not recorded
+TKT-011634,M03,knowledge_base_used not recorded
+TKT-011646,M03,knowledge_base_used not recorded
+TKT-011772,M03,knowledge_base_used not recorded
+TKT-011785,M03,knowledge_base_used not recorded
+TKT-011788,M03,knowledge_base_used not recorded
+TKT-011845,M03,knowledge_base_used not recorded
+TKT-011882,M03,knowledge_base_used not recorded
+TKT-011897,M03,knowledge_base_used not recorded
+TKT-011903,M03,knowledge_base_used not recorded
+TKT-011950,M03,knowledge_base_used not recorded
+TKT-011999,M03,knowledge_base_used not recorded
+TKT-012116,M03,knowledge_base_used not recorded
+TKT-012161,M03,knowledge_base_used not recorded
+TKT-012187,M03,knowledge_base_used not recorded
+TKT-012266,M03,knowledge_base_used not recorded
+TKT-012270,M03,knowledge_base_used not recorded
+TKT-012281,M03,knowledge_base_used not recorded
+TKT-012331,M03,knowledge_base_used not recorded
+TKT-012359,M03,knowledge_base_used not recorded
+TKT-012390,M03,knowledge_base_used not recorded
+TKT-012436,M03,knowledge_base_used not recorded
+TKT-012453,M03,knowledge_base_used not recorded
+TKT-012540,M03,knowledge_base_used not recorded
+TKT-012581,M03,knowledge_base_used not recorded
+TKT-012591,M03,knowledge_base_used not recorded
+TKT-012608,M03,knowledge_base_used not recorded
+TKT-012669,M03,knowledge_base_used not recorded
+TKT-012692,M03,knowledge_base_used not recorded
+TKT-012816,M03,knowledge_base_used not recorded
+TKT-012817,M03,knowledge_base_used not recorded
+TKT-012891,M03,knowledge_base_used not recorded
+TKT-012913,M03,knowledge_base_used not recorded
+TKT-012957,M03,knowledge_base_used not recorded
+TKT-012983,M03,knowledge_base_used not recorded
+TKT-012994,M03,knowledge_base_used not recorded
+TKT-013012,M03,knowledge_base_used not recorded
+TKT-013042,M03,knowledge_base_used not recorded
+TKT-013046,M03,knowledge_base_used not recorded
+TKT-013055,M03,knowledge_base_used not recorded
+TKT-013063,M03,knowledge_base_used not recorded
+TKT-013100,M03,knowledge_base_used not recorded
+TKT-013102,M03,knowledge_base_used not recorded
+TKT-013109,M03,knowledge_base_used not recorded
+TKT-013137,M03,knowledge_base_used not recorded
+TKT-013164,M03,knowledge_base_used not recorded
+TKT-013197,M03,knowledge_base_used not recorded
+TKT-013211,M03,knowledge_base_used not recorded
+TKT-013214,M03,knowledge_base_used not recorded
+TKT-013219,M03,knowledge_base_used not recorded
+TKT-013266,M03,knowledge_base_used not recorded
+TKT-013273,M03,knowledge_base_used not recorded
+TKT-013275,M03,knowledge_base_used not recorded
+TKT-013345,M03,knowledge_base_used not recorded
+TKT-013354,M03,knowledge_base_used not recorded
+TKT-013393,M03,knowledge_base_used not recorded
+TKT-013394,M03,knowledge_base_used not recorded
+TKT-013412,M03,knowledge_base_used not recorded
+TKT-013528,M03,knowledge_base_used not recorded
+TKT-013539,M03,knowledge_base_used not recorded
+TKT-013573,M03,knowledge_base_used not recorded
+TKT-013617,M03,knowledge_base_used not recorded
+TKT-013632,M03,knowledge_base_used not recorded
+TKT-013673,M03,knowledge_base_used not recorded
+TKT-013797,M03,knowledge_base_used not recorded
+TKT-013815,M03,knowledge_base_used not recorded
+TKT-013817,M03,knowledge_base_used not recorded
+TKT-013845,M03,knowledge_base_used not recorded
+TKT-013915,M03,knowledge_base_used not recorded
+TKT-014067,M03,knowledge_base_used not recorded
+TKT-014070,M03,knowledge_base_used not recorded
+TKT-014087,M03,knowledge_base_used not recorded
+TKT-014099,M03,knowledge_base_used not recorded
+TKT-014112,M03,knowledge_base_used not recorded
+TKT-014159,M03,knowledge_base_used not recorded
+TKT-014190,M03,knowledge_base_used not recorded
+TKT-014214,M03,knowledge_base_used not recorded
+TKT-014233,M03,knowledge_base_used not recorded
+TKT-014244,M03,knowledge_base_used not recorded
+TKT-014269,M03,knowledge_base_used not recorded
+TKT-014321,M03,knowledge_base_used not recorded
+TKT-014346,M03,knowledge_base_used not recorded
+TKT-014356,M03,knowledge_base_used not recorded
+TKT-014360,M03,knowledge_base_used not recorded
+TKT-014377,M03,knowledge_base_used not recorded
+TKT-014458,M03,knowledge_base_used not recorded
+TKT-014499,M03,knowledge_base_used not recorded
+TKT-014504,M03,knowledge_base_used not recorded
+TKT-014532,M03,knowledge_base_used not recorded
+TKT-014565,M03,knowledge_base_used not recorded
+TKT-014570,M03,knowledge_base_used not recorded
+TKT-014623,M03,knowledge_base_used not recorded
+TKT-014695,M03,knowledge_base_used not recorded
+TKT-014722,M03,knowledge_base_used not recorded
+TKT-014730,M03,knowledge_base_used not recorded
+TKT-014771,M03,knowledge_base_used not recorded
+TKT-014780,M03,knowledge_base_used not recorded
+TKT-014810,M03,knowledge_base_used not recorded
+TKT-014893,M03,knowledge_base_used not recorded
+TKT-014952,M03,knowledge_base_used not recorded
+TKT-014971,M03,knowledge_base_used not recorded
+TKT-015008,M03,knowledge_base_used not recorded
+TKT-015071,M03,knowledge_base_used not recorded
+TKT-015096,M03,knowledge_base_used not recorded
+TKT-015139,M03,knowledge_base_used not recorded
+TKT-015186,M03,knowledge_base_used not recorded
+TKT-015200,M03,knowledge_base_used not recorded
+TKT-015215,M03,knowledge_base_used not recorded
+TKT-015250,M03,knowledge_base_used not recorded
+TKT-015261,M03,knowledge_base_used not recorded
+TKT-015264,M03,knowledge_base_used not recorded
+TKT-015278,M03,knowledge_base_used not recorded
+TKT-015282,M03,knowledge_base_used not recorded
+TKT-015322,M03,knowledge_base_used not recorded
+TKT-015323,M03,knowledge_base_used not recorded
+TKT-015347,M03,knowledge_base_used not recorded
+TKT-015349,M03,knowledge_base_used not recorded
+TKT-015372,M03,knowledge_base_used not recorded
+TKT-015403,M03,knowledge_base_used not recorded
+TKT-015423,M03,knowledge_base_used not recorded
+TKT-015440,M03,knowledge_base_used not recorded
+TKT-015467,M03,knowledge_base_used not recorded
+TKT-015550,M03,knowledge_base_used not recorded
+TKT-015573,M03,knowledge_base_used not recorded
+TKT-015658,M03,knowledge_base_used not recorded
+TKT-015667,M03,knowledge_base_used not recorded
+TKT-015671,M03,knowledge_base_used not recorded
+TKT-015696,M03,knowledge_base_used not recorded
+TKT-015712,M03,knowledge_base_used not recorded
+TKT-015761,M03,knowledge_base_used not recorded
+TKT-015802,M03,knowledge_base_used not recorded
+TKT-016001,M03,knowledge_base_used not recorded
+TKT-016049,M03,knowledge_base_used not recorded
+TKT-016065,M03,knowledge_base_used not recorded
+TKT-016075,M03,knowledge_base_used not recorded
+TKT-016125,M03,knowledge_base_used not recorded
+TKT-016128,M03,knowledge_base_used not recorded
+TKT-016151,M03,knowledge_base_used not recorded
+TKT-016172,M03,knowledge_base_used not recorded
+TKT-016207,M03,knowledge_base_used not recorded
+TKT-016242,M03,knowledge_base_used not recorded
+TKT-016268,M03,knowledge_base_used not recorded
+TKT-016271,M03,knowledge_base_used not recorded
+TKT-016300,M03,knowledge_base_used not recorded
+TKT-016319,M03,knowledge_base_used not recorded
+TKT-016348,M03,knowledge_base_used not recorded
+TKT-016356,M03,knowledge_base_used not recorded
+TKT-016375,M03,knowledge_base_used not recorded
+TKT-016400,M03,knowledge_base_used not recorded
+TKT-016448,M03,knowledge_base_used not recorded
+TKT-016453,M03,knowledge_base_used not recorded
+TKT-016454,M03,knowledge_base_used not recorded
+TKT-016534,M03,knowledge_base_used not recorded
+TKT-016582,M03,knowledge_base_used not recorded
+TKT-016626,M03,knowledge_base_used not recorded
+TKT-016636,M03,knowledge_base_used not recorded
+TKT-016736,M03,knowledge_base_used not recorded
+TKT-016795,M03,knowledge_base_used not recorded
+TKT-016820,M03,knowledge_base_used not recorded
+TKT-016835,M03,knowledge_base_used not recorded
+TKT-016859,M03,knowledge_base_used not recorded
+TKT-016964,M03,knowledge_base_used not recorded
+TKT-016986,M03,knowledge_base_used not recorded
+TKT-017062,M03,knowledge_base_used not recorded
+TKT-017067,M03,knowledge_base_used not recorded
+TKT-017130,M03,knowledge_base_used not recorded
+TKT-017143,M03,knowledge_base_used not recorded
+TKT-017149,M03,knowledge_base_used not recorded
+TKT-017162,M03,knowledge_base_used not recorded
+TKT-017166,M03,knowledge_base_used not recorded
+TKT-017188,M03,knowledge_base_used not recorded
+TKT-017221,M03,knowledge_base_used not recorded
+TKT-017222,M03,knowledge_base_used not recorded
+TKT-017269,M03,knowledge_base_used not recorded
+TKT-017301,M03,knowledge_base_used not recorded
+TKT-017381,M03,knowledge_base_used not recorded
+TKT-017400,M03,knowledge_base_used not recorded
+TKT-017420,M03,knowledge_base_used not recorded
+TKT-017450,M03,knowledge_base_used not recorded
+TKT-017468,M03,knowledge_base_used not recorded
+TKT-017495,M03,knowledge_base_used not recorded
+TKT-017514,M03,knowledge_base_used not recorded
+TKT-017535,M03,knowledge_base_used not recorded
+TKT-017560,M03,knowledge_base_used not recorded
+TKT-017572,M03,knowledge_base_used not recorded
+TKT-017585,M03,knowledge_base_used not recorded
+TKT-017605,M03,knowledge_base_used not recorded
+TKT-017644,M03,knowledge_base_used not recorded
+TKT-017655,M03,knowledge_base_used not recorded
+TKT-017656,M03,knowledge_base_used not recorded
+TKT-017663,M03,knowledge_base_used not recorded
+TKT-017671,M03,knowledge_base_used not recorded
+TKT-017675,M03,knowledge_base_used not recorded
+TKT-017693,M03,knowledge_base_used not recorded
+TKT-017765,M03,knowledge_base_used not recorded
+TKT-017792,M03,knowledge_base_used not recorded
+TKT-017813,M03,knowledge_base_used not recorded
+TKT-017833,M03,knowledge_base_used not recorded
+TKT-017861,M03,knowledge_base_used not recorded
+TKT-017877,M03,knowledge_base_used not recorded
+TKT-017957,M03,knowledge_base_used not recorded
+TKT-017981,M03,knowledge_base_used not recorded
+TKT-017998,M03,knowledge_base_used not recorded
+TKT-018003,M03,knowledge_base_used not recorded
+TKT-018017,M03,knowledge_base_used not recorded
+TKT-018054,M03,knowledge_base_used not recorded
+TKT-018092,M03,knowledge_base_used not recorded
+TKT-018128,M03,knowledge_base_used not recorded
+TKT-018139,M03,knowledge_base_used not recorded
+TKT-018243,M03,knowledge_base_used not recorded
+TKT-018256,M03,knowledge_base_used not recorded
+TKT-018282,M03,knowledge_base_used not recorded
+TKT-018288,M03,knowledge_base_used not recorded
+TKT-018343,M03,knowledge_base_used not recorded
+TKT-018359,M03,knowledge_base_used not recorded
+TKT-018377,M03,knowledge_base_used not recorded
+TKT-018393,M03,knowledge_base_used not recorded
+TKT-018458,M03,knowledge_base_used not recorded
+TKT-018464,M03,knowledge_base_used not recorded
+TKT-018545,M03,knowledge_base_used not recorded
+TKT-018546,M03,knowledge_base_used not recorded
+TKT-018557,M03,knowledge_base_used not recorded
+TKT-018558,M03,knowledge_base_used not recorded
+TKT-018616,M03,knowledge_base_used not recorded
+TKT-018662,M03,knowledge_base_used not recorded
+TKT-018676,M03,knowledge_base_used not recorded
+TKT-018688,M03,knowledge_base_used not recorded
+TKT-018707,M03,knowledge_base_used not recorded
+TKT-018760,M03,knowledge_base_used not recorded
+TKT-018799,M03,knowledge_base_used not recorded
+TKT-018821,M03,knowledge_base_used not recorded
+TKT-018839,M03,knowledge_base_used not recorded
+TKT-018849,M03,knowledge_base_used not recorded
+TKT-018867,M03,knowledge_base_used not recorded
+TKT-018890,M03,knowledge_base_used not recorded
+TKT-018917,M03,knowledge_base_used not recorded
+TKT-018966,M03,knowledge_base_used not recorded
+TKT-019014,M03,knowledge_base_used not recorded
+TKT-019046,M03,knowledge_base_used not recorded
+TKT-019057,M03,knowledge_base_used not recorded
+TKT-019063,M03,knowledge_base_used not recorded
+TKT-019078,M03,knowledge_base_used not recorded
+TKT-019185,M03,knowledge_base_used not recorded
+TKT-019347,M03,knowledge_base_used not recorded
+TKT-019368,M03,knowledge_base_used not recorded
+TKT-019421,M03,knowledge_base_used not recorded
+TKT-019445,M03,knowledge_base_used not recorded
+TKT-019469,M03,knowledge_base_used not recorded
+TKT-019484,M03,knowledge_base_used not recorded
+TKT-019486,M03,knowledge_base_used not recorded
+TKT-019561,M03,knowledge_base_used not recorded
+TKT-019584,M03,knowledge_base_used not recorded
+TKT-019601,M03,knowledge_base_used not recorded
+TKT-019603,M03,knowledge_base_used not recorded
+TKT-019604,M03,knowledge_base_used not recorded
+TKT-019613,M03,knowledge_base_used not recorded
+TKT-019666,M03,knowledge_base_used not recorded
+TKT-019708,M03,knowledge_base_used not recorded
+TKT-019724,M03,knowledge_base_used not recorded
+TKT-019729,M03,knowledge_base_used not recorded
+TKT-019742,M03,knowledge_base_used not recorded
+TKT-019788,M03,knowledge_base_used not recorded
+TKT-019842,M03,knowledge_base_used not recorded
+TKT-019893,M03,knowledge_base_used not recorded
+TKT-019898,M03,knowledge_base_used not recorded
+TKT-019928,M03,knowledge_base_used not recorded
+TKT-019960,M03,knowledge_base_used not recorded
+TKT-019963,M03,knowledge_base_used not recorded
+TKT-019980,M03,knowledge_base_used not recorded
+TKT-020064,M03,knowledge_base_used not recorded
+TKT-020083,M03,knowledge_base_used not recorded
+TKT-020118,M03,knowledge_base_used not recorded
+TKT-020192,M03,knowledge_base_used not recorded
+TKT-020223,M03,knowledge_base_used not recorded
+TKT-020292,M03,knowledge_base_used not recorded
+TKT-020323,M03,knowledge_base_used not recorded
+TKT-020402,M03,knowledge_base_used not recorded
+TKT-020421,M03,knowledge_base_used not recorded
+TKT-020423,M03,knowledge_base_used not recorded
+TKT-020463,M03,knowledge_base_used not recorded
+TKT-020488,M03,knowledge_base_used not recorded
+TKT-020540,M03,knowledge_base_used not recorded
+TKT-020567,M03,knowledge_base_used not recorded
+TKT-020575,M03,knowledge_base_used not recorded
+TKT-020595,M03,knowledge_base_used not recorded
+TKT-020619,M03,knowledge_base_used not recorded
+TKT-020665,M03,knowledge_base_used not recorded
+TKT-020669,M03,knowledge_base_used not recorded
+TKT-020731,M03,knowledge_base_used not recorded
+TKT-020747,M03,knowledge_base_used not recorded
+TKT-020763,M03,knowledge_base_used not recorded
+TKT-020764,M03,knowledge_base_used not recorded
+TKT-020770,M03,knowledge_base_used not recorded
+TKT-020835,M03,knowledge_base_used not recorded
+TKT-020926,M03,knowledge_base_used not recorded
+TKT-020941,M03,knowledge_base_used not recorded
+TKT-020961,M03,knowledge_base_used not recorded
+TKT-020966,M03,knowledge_base_used not recorded
+TKT-020988,M03,knowledge_base_used not recorded
+TKT-021018,M03,knowledge_base_used not recorded
+TKT-021129,M03,knowledge_base_used not recorded
+TKT-021195,M03,knowledge_base_used not recorded
+TKT-021254,M03,knowledge_base_used not recorded
+TKT-021271,M03,knowledge_base_used not recorded
+TKT-021397,M03,knowledge_base_used not recorded
+TKT-021447,M03,knowledge_base_used not recorded
+TKT-021468,M03,knowledge_base_used not recorded
+TKT-021472,M03,knowledge_base_used not recorded
+TKT-021486,M03,knowledge_base_used not recorded
+TKT-021505,M03,knowledge_base_used not recorded
+TKT-021527,M03,knowledge_base_used not recorded
+TKT-021547,M03,knowledge_base_used not recorded
+TKT-021638,M03,knowledge_base_used not recorded
+TKT-021700,M03,knowledge_base_used not recorded
+TKT-021729,M03,knowledge_base_used not recorded
+TKT-021730,M03,knowledge_base_used not recorded
+TKT-021772,M03,knowledge_base_used not recorded
+TKT-021790,M03,knowledge_base_used not recorded
+TKT-021801,M03,knowledge_base_used not recorded
+TKT-021812,M03,knowledge_base_used not recorded
+TKT-021846,M03,knowledge_base_used not recorded
+TKT-021895,M03,knowledge_base_used not recorded
+TKT-021931,M03,knowledge_base_used not recorded
+TKT-021932,M03,knowledge_base_used not recorded
+TKT-021940,M03,knowledge_base_used not recorded
+TKT-022085,M03,knowledge_base_used not recorded
+TKT-022141,M03,knowledge_base_used not recorded
+TKT-022142,M03,knowledge_base_used not recorded
+TKT-022161,M03,knowledge_base_used not recorded
+TKT-022180,M03,knowledge_base_used not recorded
+TKT-000091,M04,channel missing
+TKT-000370,M04,channel missing
+TKT-000380,M04,channel missing
+TKT-000791,M04,channel missing
+TKT-000874,M04,channel missing
+TKT-001245,M04,channel missing
+TKT-001478,M04,channel missing
+TKT-001601,M04,channel missing
+TKT-001765,M04,channel missing
+TKT-001862,M04,channel missing
+TKT-001933,M04,channel missing
+TKT-002048,M04,channel missing
+TKT-002361,M04,channel missing
+TKT-002404,M04,channel missing
+TKT-003253,M04,channel missing
+TKT-003284,M04,channel missing
+TKT-003288,M04,channel missing
+TKT-003546,M04,channel missing
+TKT-003569,M04,channel missing
+TKT-003614,M04,channel missing
+TKT-003708,M04,channel missing
+TKT-003761,M04,channel missing
+TKT-003774,M04,channel missing
+TKT-004313,M04,channel missing
+TKT-004362,M04,channel missing
+TKT-004526,M04,channel missing
+TKT-004608,M04,channel missing
+TKT-005146,M04,channel missing
+TKT-005761,M04,channel missing
+TKT-005966,M04,channel missing
+TKT-006077,M04,channel missing
+TKT-006109,M04,channel missing
+TKT-006176,M04,channel missing
+TKT-006181,M04,channel missing
+TKT-006273,M04,channel missing
+TKT-006342,M04,channel missing
+TKT-006530,M04,channel missing
+TKT-006569,M04,channel missing
+TKT-006812,M04,channel missing
+TKT-006988,M04,channel missing
+TKT-007692,M04,channel missing
+TKT-007714,M04,channel missing
+TKT-007833,M04,channel missing
+TKT-007950,M04,channel missing
+TKT-008006,M04,channel missing
+TKT-008078,M04,channel missing
+TKT-008249,M04,channel missing
+TKT-008273,M04,channel missing
+TKT-008305,M04,channel missing
+TKT-008309,M04,channel missing
+TKT-008479,M04,channel missing
+TKT-008710,M04,channel missing
+TKT-008984,M04,channel missing
+TKT-009046,M04,channel missing
+TKT-009320,M04,channel missing
+TKT-009480,M04,channel missing
+TKT-009713,M04,channel missing
+TKT-009781,M04,channel missing
+TKT-009817,M04,channel missing
+TKT-010280,M04,channel missing
+TKT-010735,M04,channel missing
+TKT-010755,M04,channel missing
+TKT-011007,M04,channel missing
+TKT-011293,M04,channel missing
+TKT-011510,M04,channel missing
+TKT-012076,M04,channel missing
+TKT-012371,M04,channel missing
+TKT-012464,M04,channel missing
+TKT-012527,M04,channel missing
+TKT-012529,M04,channel missing
+TKT-012582,M04,channel missing
+TKT-012611,M04,channel missing
+TKT-012629,M04,channel missing
+TKT-012843,M04,channel missing
+TKT-012883,M04,channel missing
+TKT-012912,M04,channel missing
+TKT-012974,M04,channel missing
+TKT-013267,M04,channel missing
+TKT-013286,M04,channel missing
+TKT-013891,M04,channel missing
+TKT-014133,M04,channel missing
+TKT-014251,M04,channel missing
+TKT-014348,M04,channel missing
+TKT-014885,M04,channel missing
+TKT-015132,M04,channel missing
+TKT-015430,M04,channel missing
+TKT-015454,M04,channel missing
+TKT-015474,M04,channel missing
+TKT-015585,M04,channel missing
+TKT-015599,M04,channel missing
+TKT-015674,M04,channel missing
+TKT-015770,M04,channel missing
+TKT-016154,M04,channel missing
+TKT-016455,M04,channel missing
+TKT-017403,M04,channel missing
+TKT-017408,M04,channel missing
+TKT-017439,M04,channel missing
+TKT-017568,M04,channel missing
+TKT-017643,M04,channel missing
+TKT-017897,M04,channel missing
+TKT-017932,M04,channel missing
+TKT-018120,M04,channel missing
+TKT-018460,M04,channel missing
+TKT-018484,M04,channel missing
+TKT-018607,M04,channel missing
+TKT-018795,M04,channel missing
+TKT-019049,M04,channel missing
+TKT-019106,M04,channel missing
+TKT-019413,M04,channel missing
+TKT-019969,M04,channel missing
+TKT-019993,M04,channel missing
+TKT-020009,M04,channel missing
+TKT-020014,M04,channel missing
+TKT-020083,M04,channel missing
+TKT-020118,M04,channel missing
+TKT-020268,M04,channel missing
+TKT-020287,M04,channel missing
+TKT-020384,M04,channel missing
+TKT-020420,M04,channel missing
+TKT-020461,M04,channel missing
+TKT-020620,M04,channel missing
+TKT-021053,M04,channel missing
+TKT-021394,M04,channel missing
+TKT-021463,M04,channel missing
+TKT-021573,M04,channel missing
+TKT-021741,M04,channel missing
+TKT-021772,M04,channel missing
+TKT-021879,M04,channel missing
+TKT-021959,M04,channel missing
+TKT-022155,M04,channel missing
+TKT-022184,M04,channel missing
+TKT-022200,M04,channel missing
+TKT-000135,M05,subcategory missing
+TKT-000179,M05,subcategory missing
+TKT-000218,M05,subcategory missing
+TKT-000229,M05,subcategory missing
+TKT-000237,M05,subcategory missing
+TKT-000482,M05,subcategory missing
+TKT-000494,M05,subcategory missing
+TKT-000516,M05,subcategory missing
+TKT-000518,M05,subcategory missing
+TKT-000519,M05,subcategory missing
+TKT-000566,M05,subcategory missing
+TKT-000961,M05,subcategory missing
+TKT-001020,M05,subcategory missing
+TKT-001183,M05,subcategory missing
+TKT-001301,M05,subcategory missing
+TKT-001507,M05,subcategory missing
+TKT-001580,M05,subcategory missing
+TKT-001613,M05,subcategory missing
+TKT-001644,M05,subcategory missing
+TKT-001979,M05,subcategory missing
+TKT-002128,M05,subcategory missing
+TKT-002146,M05,subcategory missing
+TKT-002202,M05,subcategory missing
+TKT-002294,M05,subcategory missing
+TKT-002336,M05,subcategory missing
+TKT-002351,M05,subcategory missing
+TKT-002536,M05,subcategory missing
+TKT-002567,M05,subcategory missing
+TKT-002926,M05,subcategory missing
+TKT-002933,M05,subcategory missing
+TKT-003073,M05,subcategory missing
+TKT-003283,M05,subcategory missing
+TKT-003386,M05,subcategory missing
+TKT-003524,M05,subcategory missing
+TKT-003549,M05,subcategory missing
+TKT-003616,M05,subcategory missing
+TKT-003757,M05,subcategory missing
+TKT-004024,M05,subcategory missing
+TKT-004136,M05,subcategory missing
+TKT-004252,M05,subcategory missing
+TKT-004503,M05,subcategory missing
+TKT-004745,M05,subcategory missing
+TKT-004780,M05,subcategory missing
+TKT-004876,M05,subcategory missing
+TKT-004921,M05,subcategory missing
+TKT-005056,M05,subcategory missing
+TKT-005077,M05,subcategory missing
+TKT-005127,M05,subcategory missing
+TKT-005201,M05,subcategory missing
+TKT-005425,M05,subcategory missing
+TKT-005439,M05,subcategory missing
+TKT-005492,M05,subcategory missing
+TKT-005685,M05,subcategory missing
+TKT-005689,M05,subcategory missing
+TKT-005767,M05,subcategory missing
+TKT-005850,M05,subcategory missing
+TKT-005918,M05,subcategory missing
+TKT-005943,M05,subcategory missing
+TKT-006058,M05,subcategory missing
+TKT-006090,M05,subcategory missing
+TKT-006147,M05,subcategory missing
+TKT-006162,M05,subcategory missing
+TKT-006266,M05,subcategory missing
+TKT-006297,M05,subcategory missing
+TKT-006298,M05,subcategory missing
+TKT-006375,M05,subcategory missing
+TKT-006411,M05,subcategory missing
+TKT-006736,M05,subcategory missing
+TKT-006800,M05,subcategory missing
+TKT-006839,M05,subcategory missing
+TKT-006884,M05,subcategory missing
+TKT-006900,M05,subcategory missing
+TKT-006969,M05,subcategory missing
+TKT-007115,M05,subcategory missing
+TKT-007149,M05,subcategory missing
+TKT-007150,M05,subcategory missing
+TKT-007227,M05,subcategory missing
+TKT-007251,M05,subcategory missing
+TKT-007253,M05,subcategory missing
+TKT-007274,M05,subcategory missing
+TKT-007307,M05,subcategory missing
+TKT-007374,M05,subcategory missing
+TKT-007581,M05,subcategory missing
+TKT-007594,M05,subcategory missing
+TKT-007652,M05,subcategory missing
+TKT-007673,M05,subcategory missing
+TKT-007779,M05,subcategory missing
+TKT-007954,M05,subcategory missing
+TKT-008032,M05,subcategory missing
+TKT-008071,M05,subcategory missing
+TKT-008128,M05,subcategory missing
+TKT-008272,M05,subcategory missing
+TKT-008556,M05,subcategory missing
+TKT-008888,M05,subcategory missing
+TKT-008889,M05,subcategory missing
+TKT-009040,M05,subcategory missing
+TKT-009062,M05,subcategory missing
+TKT-009082,M05,subcategory missing
+TKT-009092,M05,subcategory missing
+TKT-009136,M05,subcategory missing
+TKT-009161,M05,subcategory missing
+TKT-009214,M05,subcategory missing
+TKT-009484,M05,subcategory missing
+TKT-009541,M05,subcategory missing
+TKT-009591,M05,subcategory missing
+TKT-009598,M05,subcategory missing
+TKT-009734,M05,subcategory missing
+TKT-009828,M05,subcategory missing
+TKT-010087,M05,subcategory missing
+TKT-010317,M05,subcategory missing
+TKT-010430,M05,subcategory missing
+TKT-010461,M05,subcategory missing
+TKT-010464,M05,subcategory missing
+TKT-010475,M05,subcategory missing
+TKT-010885,M05,subcategory missing
+TKT-010909,M05,subcategory missing
+TKT-011051,M05,subcategory missing
+TKT-011181,M05,subcategory missing
+TKT-011259,M05,subcategory missing
+TKT-011328,M05,subcategory missing
+TKT-011374,M05,subcategory missing
+TKT-011395,M05,subcategory missing
+TKT-011402,M05,subcategory missing
+TKT-011478,M05,subcategory missing
+TKT-011602,M05,subcategory missing
+TKT-011644,M05,subcategory missing
+TKT-011798,M05,subcategory missing
+TKT-011883,M05,subcategory missing
+TKT-011968,M05,subcategory missing
+TKT-012224,M05,subcategory missing
+TKT-012289,M05,subcategory missing
+TKT-012306,M05,subcategory missing
+TKT-012484,M05,subcategory missing
+TKT-012498,M05,subcategory missing
+TKT-012795,M05,subcategory missing
+TKT-013161,M05,subcategory missing
+TKT-013235,M05,subcategory missing
+TKT-013238,M05,subcategory missing
+TKT-013465,M05,subcategory missing
+TKT-013671,M05,subcategory missing
+TKT-013728,M05,subcategory missing
+TKT-013821,M05,subcategory missing
+TKT-013860,M05,subcategory missing
+TKT-013915,M05,subcategory missing
+TKT-013944,M05,subcategory missing
+TKT-013989,M05,subcategory missing
+TKT-014050,M05,subcategory missing
+TKT-014330,M05,subcategory missing
+TKT-014531,M05,subcategory missing
+TKT-014533,M05,subcategory missing
+TKT-014612,M05,subcategory missing
+TKT-014821,M05,subcategory missing
+TKT-015110,M05,subcategory missing
+TKT-015521,M05,subcategory missing
+TKT-015530,M05,subcategory missing
+TKT-015592,M05,subcategory missing
+TKT-015733,M05,subcategory missing
+TKT-015769,M05,subcategory missing
+TKT-015785,M05,subcategory missing
+TKT-015846,M05,subcategory missing
+TKT-015898,M05,subcategory missing
+TKT-015985,M05,subcategory missing
+TKT-016012,M05,subcategory missing
+TKT-016098,M05,subcategory missing
+TKT-016244,M05,subcategory missing
+TKT-016328,M05,subcategory missing
+TKT-016488,M05,subcategory missing
+TKT-016538,M05,subcategory missing
+TKT-016556,M05,subcategory missing
+TKT-016607,M05,subcategory missing
+TKT-016614,M05,subcategory missing
+TKT-017212,M05,subcategory missing
+TKT-017314,M05,subcategory missing
+TKT-017333,M05,subcategory missing
+TKT-017340,M05,subcategory missing
+TKT-017373,M05,subcategory missing
+TKT-017547,M05,subcategory missing
+TKT-017666,M05,subcategory missing
+TKT-017767,M05,subcategory missing
+TKT-017919,M05,subcategory missing
+TKT-018142,M05,subcategory missing
+TKT-018236,M05,subcategory missing
+TKT-018330,M05,subcategory missing
+TKT-018410,M05,subcategory missing
+TKT-018412,M05,subcategory missing
+TKT-018413,M05,subcategory missing
+TKT-018454,M05,subcategory missing
+TKT-018551,M05,subcategory missing
+TKT-018767,M05,subcategory missing
+TKT-018779,M05,subcategory missing
+TKT-018847,M05,subcategory missing
+TKT-019049,M05,subcategory missing
+TKT-019075,M05,subcategory missing
+TKT-019101,M05,subcategory missing
+TKT-019388,M05,subcategory missing
+TKT-019417,M05,subcategory missing
+TKT-019721,M05,subcategory missing
+TKT-020096,M05,subcategory missing
+TKT-020199,M05,subcategory missing
+TKT-020271,M05,subcategory missing
+TKT-020307,M05,subcategory missing
+TKT-020441,M05,subcategory missing
+TKT-020448,M05,subcategory missing
+TKT-020459,M05,subcategory missing
+TKT-020558,M05,subcategory missing
+TKT-020665,M05,subcategory missing
+TKT-020682,M05,subcategory missing
+TKT-020843,M05,subcategory missing
+TKT-020920,M05,subcategory missing
+TKT-020922,M05,subcategory missing
+TKT-021184,M05,subcategory missing
+TKT-021220,M05,subcategory missing
+TKT-021317,M05,subcategory missing
+TKT-021379,M05,subcategory missing
+TKT-021568,M05,subcategory missing
+TKT-021731,M05,subcategory missing
+TKT-021806,M05,subcategory missing
+TKT-021924,M05,subcategory missing
+TKT-021950,M05,subcategory missing
+TKT-021953,M05,subcategory missing
+TKT-021963,M05,subcategory missing
+TKT-022144,M05,subcategory missing
+TKT-000223,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-000569,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-000599,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-000932,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-001085,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-001098,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-001254,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-002003,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-002005,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-002097,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-002166,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-002835,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-004302,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-004744,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-005135,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-005186,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-005439,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-005640,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-005920,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-006130,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-006302,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-006333,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-006499,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-006792,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-007198,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-007402,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-009085,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-009139,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-010021,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-010589,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-010959,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-011653,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-011766,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-012497,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-013192,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-013944,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-014081,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-015012,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-015141,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-015252,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-015855,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-016222,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-016966,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-017138,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-017378,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-018310,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-018337,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-018466,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-018482,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-018492,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-018675,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-018827,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-018905,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-019132,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-019394,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-019694,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-020001,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-020821,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-021040,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-021141,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-021343,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-021586,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-021607,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-022106,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-022134,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-022143,M06,sla_target_hours missing (derivable from SLA rules)
+TKT-000171,T01,Resolved/closed ticket without resolved_at
+TKT-002707,T01,Resolved/closed ticket without resolved_at
+TKT-012370,T01,Resolved/closed ticket without resolved_at
+TKT-012799,T01,Resolved/closed ticket without resolved_at
+TKT-015469,T01,Resolved/closed ticket without resolved_at
+TKT-016382,T01,Resolved/closed ticket without resolved_at
+TKT-017407,T01,Resolved/closed ticket without resolved_at
+TKT-019660,T01,Resolved/closed ticket without resolved_at
+TKT-001314,T03,resolved_at earlier than created_at
+TKT-003099,T03,resolved_at earlier than created_at
+TKT-005891,T03,resolved_at earlier than created_at
+TKT-008329,T03,resolved_at earlier than created_at
+TKT-011062,T03,resolved_at earlier than created_at
+TKT-012138,T03,resolved_at earlier than created_at
+TKT-014981,T03,resolved_at earlier than created_at
+TKT-016243,T03,resolved_at earlier than created_at
+TKT-017726,T03,resolved_at earlier than created_at
+TKT-017900,T03,resolved_at earlier than created_at
+TKT-018275,T03,resolved_at earlier than created_at
+TKT-018800,T03,resolved_at earlier than created_at
+TKT-018852,T03,resolved_at earlier than created_at
+TKT-018887,T03,resolved_at earlier than created_at
+TKT-020300,T03,resolved_at earlier than created_at
+TKT-001484,T04,first_response_at earlier than created_at
+TKT-003178,T04,first_response_at earlier than created_at
+TKT-004998,T04,first_response_at earlier than created_at
+TKT-007043,T04,first_response_at earlier than created_at
+TKT-007310,T04,first_response_at earlier than created_at
+TKT-007837,T04,first_response_at earlier than created_at
+TKT-008722,T04,first_response_at earlier than created_at
+TKT-008904,T04,first_response_at earlier than created_at
+TKT-009616,T04,first_response_at earlier than created_at
+TKT-010288,T04,first_response_at earlier than created_at
+TKT-013636,T04,first_response_at earlier than created_at
+TKT-017996,T04,first_response_at earlier than created_at
+TKT-018311,T04,first_response_at earlier than created_at
+TKT-020827,T04,first_response_at earlier than created_at
+TKT-021718,T04,first_response_at earlier than created_at
+TKT-004623,T05,first_response_at later than resolved_at
+TKT-006461,T05,first_response_at later than resolved_at
+TKT-007006,T05,first_response_at later than resolved_at
+TKT-011755,T05,first_response_at later than resolved_at
+TKT-011984,T05,first_response_at later than resolved_at
+TKT-013772,T05,first_response_at later than resolved_at
+TKT-015481,T05,first_response_at later than resolved_at
+TKT-016483,T05,first_response_at later than resolved_at
+TKT-017182,T05,first_response_at later than resolved_at
+TKT-017281,T05,first_response_at later than resolved_at
+TKT-017457,T05,first_response_at later than resolved_at
+TKT-018023,T05,first_response_at later than resolved_at
+TKT-018532,T05,first_response_at later than resolved_at
+TKT-018797,T05,first_response_at later than resolved_at
+TKT-000022,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-000434,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-000831,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-000888,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-001278,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-001335,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-001756,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-001788,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-002235,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-002371,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-002555,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-003141,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-003365,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-003386,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-003423,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-003529,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-003609,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-004860,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-004891,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-005008,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-005658,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-005873,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-005910,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-006122,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-006415,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-006541,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-006728,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-007394,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-007870,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-008109,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-008478,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-008648,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-008980,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-009653,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-010611,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-011150,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-011401,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-011696,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-011725,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-011832,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-011946,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-012776,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-012819,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-013426,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-013483,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-013590,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-014355,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-014427,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-015423,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-015574,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-015705,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-016392,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-016677,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-016979,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-017135,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-017180,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-017579,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-017635,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-017834,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-018044,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-018183,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-018218,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-018298,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-018377,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-018548,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-018608,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-018613,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-018729,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-019019,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-019021,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-019038,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-019328,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-019484,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-019836,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-019964,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-020139,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-020352,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-020564,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-020774,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-021162,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-021188,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-021647,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-021692,O02,Business-rule outlier: resolution > 30 days or > 10x SLA target (likely not closed on time)
+TKT-000966,C01,Customer satisfaction outside 1-5 scale
+TKT-001131,C01,Customer satisfaction outside 1-5 scale
+TKT-001233,C01,Customer satisfaction outside 1-5 scale
+TKT-002780,C01,Customer satisfaction outside 1-5 scale
+TKT-004092,C01,Customer satisfaction outside 1-5 scale
+TKT-004248,C01,Customer satisfaction outside 1-5 scale
+TKT-004747,C01,Customer satisfaction outside 1-5 scale
+TKT-005922,C01,Customer satisfaction outside 1-5 scale
+TKT-006929,C01,Customer satisfaction outside 1-5 scale
+TKT-007444,C01,Customer satisfaction outside 1-5 scale
+TKT-009416,C01,Customer satisfaction outside 1-5 scale
+TKT-009712,C01,Customer satisfaction outside 1-5 scale
+TKT-009819,C01,Customer satisfaction outside 1-5 scale
+TKT-009831,C01,Customer satisfaction outside 1-5 scale
+TKT-011332,C01,Customer satisfaction outside 1-5 scale
+TKT-011335,C01,Customer satisfaction outside 1-5 scale
+TKT-011641,C01,Customer satisfaction outside 1-5 scale
+TKT-011703,C01,Customer satisfaction outside 1-5 scale
+TKT-012256,C01,Customer satisfaction outside 1-5 scale
+TKT-012934,C01,Customer satisfaction outside 1-5 scale
+TKT-013447,C01,Customer satisfaction outside 1-5 scale
+TKT-013605,C01,Customer satisfaction outside 1-5 scale
+TKT-014789,C01,Customer satisfaction outside 1-5 scale
+TKT-014887,C01,Customer satisfaction outside 1-5 scale
+TKT-015262,C01,Customer satisfaction outside 1-5 scale
+TKT-015515,C01,Customer satisfaction outside 1-5 scale
+TKT-016303,C01,Customer satisfaction outside 1-5 scale
+TKT-016329,C01,Customer satisfaction outside 1-5 scale
+TKT-016586,C01,Customer satisfaction outside 1-5 scale
+TKT-016789,C01,Customer satisfaction outside 1-5 scale
+TKT-017060,C01,Customer satisfaction outside 1-5 scale
+TKT-017579,C01,Customer satisfaction outside 1-5 scale
+TKT-017700,C01,Customer satisfaction outside 1-5 scale
+TKT-017829,C01,Customer satisfaction outside 1-5 scale
+TKT-018081,C01,Customer satisfaction outside 1-5 scale
+TKT-018288,C01,Customer satisfaction outside 1-5 scale
+TKT-019171,C01,Customer satisfaction outside 1-5 scale
+TKT-019625,C01,Customer satisfaction outside 1-5 scale
+TKT-019768,C01,Customer satisfaction outside 1-5 scale
+TKT-019807,C01,Customer satisfaction outside 1-5 scale
+TKT-019991,C01,Customer satisfaction outside 1-5 scale
+TKT-020476,C01,Customer satisfaction outside 1-5 scale
+TKT-020886,C01,Customer satisfaction outside 1-5 scale
+TKT-021110,C01,Customer satisfaction outside 1-5 scale
+TKT-021210,C01,Customer satisfaction outside 1-5 scale
+TKT-000874,F01,FCR = true but ticket was escalated
+TKT-002502,F01,FCR = true but ticket was escalated
+TKT-002533,F01,FCR = true but ticket was escalated
+TKT-002815,F01,FCR = true but ticket was escalated
+TKT-002940,F01,FCR = true but ticket was escalated
+TKT-003511,F01,FCR = true but ticket was escalated
+TKT-003614,F01,FCR = true but ticket was escalated
+TKT-004653,F01,FCR = true but ticket was escalated
+TKT-004844,F01,FCR = true but ticket was escalated
+TKT-005658,F01,FCR = true but ticket was escalated
+TKT-006515,F01,FCR = true but ticket was escalated
+TKT-006663,F01,FCR = true but ticket was escalated
+TKT-007865,F01,FCR = true but ticket was escalated
+TKT-008747,F01,FCR = true but ticket was escalated
+TKT-008969,F01,FCR = true but ticket was escalated
+TKT-009728,F01,FCR = true but ticket was escalated
+TKT-011252,F01,FCR = true but ticket was escalated
+TKT-011366,F01,FCR = true but ticket was escalated
+TKT-011935,F01,FCR = true but ticket was escalated
+TKT-012018,F01,FCR = true but ticket was escalated
+TKT-012828,F01,FCR = true but ticket was escalated
+TKT-012912,F01,FCR = true but ticket was escalated
+TKT-014095,F01,FCR = true but ticket was escalated
+TKT-014165,F01,FCR = true but ticket was escalated
+TKT-014229,F01,FCR = true but ticket was escalated
+TKT-015068,F01,FCR = true but ticket was escalated
+TKT-016168,F01,FCR = true but ticket was escalated
+TKT-016368,F01,FCR = true but ticket was escalated
+TKT-017060,F01,FCR = true but ticket was escalated
+TKT-017908,F01,FCR = true but ticket was escalated
+TKT-019312,F01,FCR = true but ticket was escalated
+TKT-020172,F01,FCR = true but ticket was escalated
+TKT-020272,F01,FCR = true but ticket was escalated
+TKT-000336,F02,FCR = true but ticket was reopened
+TKT-000837,F02,FCR = true but ticket was reopened
+TKT-001191,F02,FCR = true but ticket was reopened
+TKT-001247,F02,FCR = true but ticket was reopened
+TKT-002795,F02,FCR = true but ticket was reopened
+TKT-002997,F02,FCR = true but ticket was reopened
+TKT-003448,F02,FCR = true but ticket was reopened
+TKT-003927,F02,FCR = true but ticket was reopened
+TKT-005801,F02,FCR = true but ticket was reopened
+TKT-006470,F02,FCR = true but ticket was reopened
+TKT-006978,F02,FCR = true but ticket was reopened
+TKT-007187,F02,FCR = true but ticket was reopened
+TKT-007712,F02,FCR = true but ticket was reopened
+TKT-009120,F02,FCR = true but ticket was reopened
+TKT-010511,F02,FCR = true but ticket was reopened
+TKT-010555,F02,FCR = true but ticket was reopened
+TKT-011388,F02,FCR = true but ticket was reopened
+TKT-013644,F02,FCR = true but ticket was reopened
+TKT-014814,F02,FCR = true but ticket was reopened
+TKT-015906,F02,FCR = true but ticket was reopened
+TKT-016067,F02,FCR = true but ticket was reopened
+TKT-016086,F02,FCR = true but ticket was reopened
+TKT-016446,F02,FCR = true but ticket was reopened
+TKT-017083,F02,FCR = true but ticket was reopened
+TKT-017565,F02,FCR = true but ticket was reopened
+TKT-017899,F02,FCR = true but ticket was reopened
+TKT-018448,F02,FCR = true but ticket was reopened
+TKT-018952,F02,FCR = true but ticket was reopened
+TKT-019964,F02,FCR = true but ticket was reopened
+TKT-020318,F02,FCR = true but ticket was reopened
+TKT-020529,F02,FCR = true but ticket was reopened
+TKT-021149,F02,FCR = true but ticket was reopened
+TKT-021608,F02,FCR = true but ticket was reopened
+TKT-003423,F03,P1 priority with Low business impact
+TKT-006252,F03,P1 priority with Low business impact
+TKT-007189,F03,P1 priority with Low business impact
+TKT-010449,F03,P1 priority with Low business impact
+TKT-012667,F03,P1 priority with Low business impact
+TKT-013938,F03,P1 priority with Low business impact
+TKT-014548,F03,P1 priority with Low business impact
+TKT-017042,F03,P1 priority with Low business impact
+TKT-017548,F03,P1 priority with Low business impact
+TKT-018731,F03,P1 priority with Low business impact
+TKT-019351,F03,P1 priority with Low business impact
+TKT-020321,F03,P1 priority with Low business impact

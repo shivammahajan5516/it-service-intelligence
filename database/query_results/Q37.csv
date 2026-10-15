@@ -1,0 +1,9 @@
+region,resolved_in_scope,observed_breach_pct,obs_to_exp_team_priority,obs_to_exp_plus_sla_level,platinum_breach_pct,pct_platinum_tickets
+London,4742,20.4,1.12,1.02,33.7,33.3
+Scotland,2086,19.2,1.09,1.02,32.7,22.7
+South East,4010,18.2,0.98,1.01,34.2,22.5
+Wales,1531,18.1,0.98,0.98,38.9,7.1
+South West,1725,18.0,1.0,1.01,33.8,25.4
+Yorkshire & North East,2346,17.6,0.94,0.97,32.4,30.4
+Midlands,2717,16.5,0.93,0.99,30.7,15.9
+North West,2345,15.3,0.87,0.95,31.6,17.3

@@ -1,0 +1,785 @@
+{
+  "eda": {
+    "rows": 22090,
+    "columns": 53,
+    "period": [
+      "2024-01-01",
+      "2025-12-31"
+    ],
+    "customers": 500,
+    "teams": 8
+  },
+  "cleaning": {
+    "steps": [
+      {
+        "step": "Raw rows loaded",
+        "rule": "-",
+        "rows_affected": 22246
+      },
+      {
+        "step": "Exact duplicate rows collapsed",
+        "rule": "BR-RULE-01",
+        "rows_affected": 25
+      },
+      {
+        "step": "Category labels standardised",
+        "rule": "BR-RULE-12",
+        "rows_affected": 555
+      },
+      {
+        "step": "Region labels standardised",
+        "rule": "V04",
+        "rows_affected": 88
+      },
+      {
+        "step": "Orphan customer_id -> CUST-UNKNOWN",
+        "rule": "BR-RULE-13",
+        "rows_affected": 10
+      },
+      {
+        "step": "Missing SLA target derived from rules",
+        "rule": "BR-RULE-15",
+        "rows_affected": 66
+      },
+      {
+        "step": "Invalid timestamps flagged",
+        "rule": "BR-RULE-06",
+        "rows_affected": 52
+      },
+      {
+        "step": "Resolution outliers flagged",
+        "rule": "BR-RULE-08",
+        "rows_affected": 83
+      },
+      {
+        "step": "Out-of-range CSAT set to missing",
+        "rule": "BR-RULE-07",
+        "rows_affected": 45
+      },
+      {
+        "step": "Contradictory FCR flagged",
+        "rule": "BR-RULE-09",
+        "rows_affected": 66
+      },
+      {
+        "step": "Near-duplicates flagged (excluded from KPIs)",
+        "rule": "BR-RULE-01",
+        "rows_affected": 131
+      },
+      {
+        "step": "Missing root_cause kept as NULL",
+        "rule": "M02",
+        "rows_affected": 891
+      },
+      {
+        "step": "Missing knowledge_base_used kept as NULL",
+        "rule": "M03",
+        "rows_affected": 669
+      },
+      {
+        "step": "Missing channel kept as NULL",
+        "rule": "M04",
+        "rows_affected": 132
+      },
+      {
+        "step": "Missing subcategory kept as NULL",
+        "rule": "M05",
+        "rows_affected": 222
+      }
+    ],
+    "pandas_rows": 22090,
+    "sql_rows": 22090,
+    "identical_ticket_ids": true,
+    "breach_pct_pandas": 18.15,
+    "breach_pct_sql": 18.15
+  },
+  "missing": {
+    "by_column": [
+      {
+        "column": "customer_satisfaction",
+        "pct_missing": 58.99,
+        "explanation": "Survey non-response (by design, MNAR - see section 7)"
+      },
+      {
+        "column": "root_cause",
+        "pct_missing": 6.39,
+        "explanation": "Open/cancelled tickets + 4% not recorded by agents"
+      },
+      {
+        "column": "knowledge_base_used",
+        "pct_missing": 3.01,
+        "explanation": "Not recorded"
+      },
+      {
+        "column": "resolved_at",
+        "pct_missing": 1.17,
+        "explanation": "Open tickets + 8 closed without timestamp"
+      },
+      {
+        "column": "resolution_time_hours",
+        "pct_missing": 1.17,
+        "explanation": "Follows resolved_at"
+      },
+      {
+        "column": "first_contact_resolution",
+        "pct_missing": 1.13,
+        "explanation": "Open tickets"
+      },
+      {
+        "column": "resolution_type",
+        "pct_missing": 1.13,
+        "explanation": "Open tickets"
+      },
+      {
+        "column": "subcategory",
+        "pct_missing": 1.0,
+        "explanation": "Not recorded"
+      },
+      {
+        "column": "channel",
+        "pct_missing": 0.59,
+        "explanation": "Not recorded"
+      },
+      {
+        "column": "agent_id",
+        "pct_missing": 0.4,
+        "explanation": "Unassigned"
+      },
+      {
+        "column": "sla_target_hours",
+        "pct_missing": 0.3,
+        "explanation": "Not exported - derivable"
+      },
+      {
+        "column": "first_response_time_hours",
+        "pct_missing": 0.02,
+        "explanation": "Follows first_response_at"
+      },
+      {
+        "column": "first_response_at",
+        "pct_missing": 0.02,
+        "explanation": "New tickets"
+      }
+    ],
+    "csat_response_rate_met": 39.75,
+    "csat_response_rate_breached": 51.28
+  },
+  "outliers": {
+    "table": [
+      {
+        "priority": "P1",
+        "tickets": 904,
+        "tukey_fence_hours": 44.5,
+        "tukey_outliers": 14,
+        "z_gt_3_outliers": 11,
+        "business_rule_outliers": 11
+      },
+      {
+        "priority": "P2",
+        "tickets": 3188,
+        "tukey_fence_hours": 110.7,
+        "tukey_outliers": 9,
+        "z_gt_3_outliers": 7,
+        "business_rule_outliers": 6
+      },
+      {
+        "priority": "P3",
+        "tickets": 10366,
+        "tukey_fence_hours": 384.0,
+        "tukey_outliers": 35,
+        "z_gt_3_outliers": 34,
+        "business_rule_outliers": 35
+      },
+      {
+        "priority": "P4",
+        "tickets": 7053,
+        "tukey_fence_hours": 842.5,
+        "tukey_outliers": 28,
+        "z_gt_3_outliers": 28,
+        "business_rule_outliers": 31
+      }
+    ],
+    "business_rule_total": 83,
+    "mean_with_outliers": 32.03,
+    "mean_without_outliers": 26.51,
+    "median_with_outliers": 14.94,
+    "median_without_outliers": 14.84,
+    "outliers_breached_pct": 100.0
+  },
+  "descriptive": [
+    {
+      "priority": "P1",
+      "n": 893,
+      "mean_h": 5.785,
+      "median_h": 4.73,
+      "std_h": 6.286,
+      "p90_h": 10.87,
+      "skewness": 4.652,
+      "kurtosis": 36.29,
+      "log_skewness": 0.081
+    },
+    {
+      "priority": "P2",
+      "n": 3182,
+      "mean_h": 11.312,
+      "median_h": 7.57,
+      "std_h": 12.559,
+      "p90_h": 25.061,
+      "skewness": 3.077,
+      "kurtosis": 15.849,
+      "log_skewness": 0.076
+    },
+    {
+      "priority": "P3",
+      "n": 10331,
+      "mean_h": 25.195,
+      "median_h": 16.61,
+      "std_h": 27.286,
+      "p90_h": 59.97,
+      "skewness": 2.337,
+      "kurtosis": 8.586,
+      "log_skewness": -0.237
+    },
+    {
+      "priority": "P4",
+      "n": 7022,
+      "mean_h": 37.968,
+      "median_h": 23.42,
+      "std_h": 47.252,
+      "p90_h": 87.848,
+      "skewness": 3.596,
+      "kurtosis": 24.768,
+      "log_skewness": -0.161
+    }
+  ],
+  "sla": {
+    "overall_breach_pct": 18.15,
+    "team": [
+      {
+        "team": "Service Desk",
+        "n": 4520,
+        "breach_pct": 4.09,
+        "ci_low": 3.55,
+        "ci_high": 4.71
+      },
+      {
+        "team": "Security Operations",
+        "n": 1361,
+        "breach_pct": 5.95,
+        "ci_low": 4.81,
+        "ci_high": 7.34
+      },
+      {
+        "team": "Database Services",
+        "n": 1086,
+        "breach_pct": 10.87,
+        "ci_low": 9.15,
+        "ci_high": 12.86
+      },
+      {
+        "team": "Identity & Access Management",
+        "n": 1808,
+        "breach_pct": 11.45,
+        "ci_low": 10.06,
+        "ci_high": 13.0
+      },
+      {
+        "team": "End User Computing",
+        "n": 3532,
+        "breach_pct": 16.17,
+        "ci_low": 14.99,
+        "ci_high": 17.42
+      },
+      {
+        "team": "Application Support",
+        "n": 2879,
+        "breach_pct": 25.77,
+        "ci_low": 24.21,
+        "ci_high": 27.4
+      },
+      {
+        "team": "Infrastructure & Cloud",
+        "n": 3117,
+        "breach_pct": 27.91,
+        "ci_low": 26.36,
+        "ci_high": 29.51
+      },
+      {
+        "team": "Network Operations",
+        "n": 3208,
+        "breach_pct": 35.22,
+        "ci_low": 33.59,
+        "ci_high": 36.89
+      }
+    ],
+    "chi2_team": 1782.5,
+    "p_team": 0.0,
+    "dof": 7,
+    "cramers_v_team": 0.288,
+    "by_sla_level": {
+      "Bronze": 3.69,
+      "Gold": 22.18,
+      "Platinum": 33.22,
+      "Silver": 7.43
+    }
+  },
+  "correlation": {
+    "spearman": {
+      "resolution_h": {
+        "resolution_h": 1.0,
+        "first_response_h": 0.484,
+        "reopens": 0.242,
+        "escalated": 0.237,
+        "kb_used": -0.244,
+        "breached": 0.426,
+        "csat": -0.44,
+        "team_load": 0.281
+      },
+      "first_response_h": {
+        "resolution_h": 0.484,
+        "first_response_h": 1.0,
+        "reopens": -0.013,
+        "escalated": -0.175,
+        "kb_used": 0.039,
+        "breached": -0.004,
+        "csat": -0.024,
+        "team_load": 0.153
+      },
+      "reopens": {
+        "resolution_h": 0.242,
+        "first_response_h": -0.013,
+        "reopens": 1.0,
+        "escalated": 0.038,
+        "kb_used": -0.046,
+        "breached": 0.191,
+        "csat": -0.262,
+        "team_load": 0.003
+      },
+      "escalated": {
+        "resolution_h": 0.237,
+        "first_response_h": -0.175,
+        "reopens": 0.038,
+        "escalated": 1.0,
+        "kb_used": -0.08,
+        "breached": 0.314,
+        "csat": -0.32,
+        "team_load": 0.024
+      },
+      "kb_used": {
+        "resolution_h": -0.244,
+        "first_response_h": 0.039,
+        "reopens": -0.046,
+        "escalated": -0.08,
+        "kb_used": 1.0,
+        "breached": -0.16,
+        "csat": 0.149,
+        "team_load": -0.036
+      },
+      "breached": {
+        "resolution_h": 0.426,
+        "first_response_h": -0.004,
+        "reopens": 0.191,
+        "escalated": 0.314,
+        "kb_used": -0.16,
+        "breached": 1.0,
+        "csat": -0.595,
+        "team_load": 0.2
+      },
+      "csat": {
+        "resolution_h": -0.44,
+        "first_response_h": -0.024,
+        "reopens": -0.262,
+        "escalated": -0.32,
+        "kb_used": 0.149,
+        "breached": -0.595,
+        "csat": 1.0,
+        "team_load": -0.153
+      },
+      "team_load": {
+        "resolution_h": 0.281,
+        "first_response_h": 0.153,
+        "reopens": 0.003,
+        "escalated": 0.024,
+        "kb_used": -0.036,
+        "breached": 0.2,
+        "csat": -0.153,
+        "team_load": 1.0
+      }
+    },
+    "csat_met_mean": 4.276,
+    "csat_breached_mean": 2.884,
+    "mannwhitney_u": 12476580.5,
+    "p": 0.0,
+    "rank_biserial": 0.781,
+    "n_met": 6999,
+    "n_breached": 2002
+  },
+  "pareto": {
+    "table": [
+      {
+        "root_cause": "Configuration Error",
+        "incidents": 3135,
+        "pct": 19.44,
+        "cumulative_pct": 19.44
+      },
+      {
+        "root_cause": "Change-Related",
+        "incidents": 2859,
+        "pct": 17.73,
+        "cumulative_pct": 37.17
+      },
+      {
+        "root_cause": "User Error",
+        "incidents": 2131,
+        "pct": 13.21,
+        "cumulative_pct": 50.38
+      },
+      {
+        "root_cause": "Hardware Failure",
+        "incidents": 1476,
+        "pct": 9.15,
+        "cumulative_pct": 59.54
+      },
+      {
+        "root_cause": "Third-Party / Vendor",
+        "incidents": 1296,
+        "pct": 8.04,
+        "cumulative_pct": 67.57
+      },
+      {
+        "root_cause": "Software Defect",
+        "incidents": 1152,
+        "pct": 7.14,
+        "cumulative_pct": 74.72
+      },
+      {
+        "root_cause": "Undetermined",
+        "incidents": 1090,
+        "pct": 6.76,
+        "cumulative_pct": 81.48
+      },
+      {
+        "root_cause": "Known Error",
+        "incidents": 913,
+        "pct": 5.66,
+        "cumulative_pct": 87.14
+      },
+      {
+        "root_cause": "Security Threat",
+        "incidents": 855,
+        "pct": 5.3,
+        "cumulative_pct": 92.44
+      },
+      {
+        "root_cause": "Capacity / Performance",
+        "incidents": 779,
+        "pct": 4.83,
+        "cumulative_pct": 97.27
+      },
+      {
+        "root_cause": "Network Connectivity",
+        "incidents": 440,
+        "pct": 2.73,
+        "cumulative_pct": 100.0
+      }
+    ],
+    "causes_to_80pct": 7,
+    "of_causes": 11,
+    "top3_pct": 50.4
+  },
+  "rca": {
+    "table": [
+      {
+        "root_cause": "Third-Party / Vendor",
+        "n": 1293,
+        "breach_pct": 37.82,
+        "ci_low": 35.22,
+        "ci_high": 40.49,
+        "excess_breaches": 214.41,
+        "median_h": 25.35
+      },
+      {
+        "root_cause": "Change-Related",
+        "n": 2851,
+        "breach_pct": 26.8,
+        "ci_low": 25.2,
+        "ci_high": 28.45,
+        "excess_breaches": 158.54,
+        "median_h": 18.31
+      },
+      {
+        "root_cause": "Hardware Failure",
+        "n": 1473,
+        "breach_pct": 26.48,
+        "ci_low": 24.29,
+        "ci_high": 28.79,
+        "excess_breaches": 77.18,
+        "median_h": 23.86
+      },
+      {
+        "root_cause": "Network Connectivity",
+        "n": 440,
+        "breach_pct": 34.77,
+        "ci_low": 30.47,
+        "ci_high": 39.34,
+        "excess_breaches": 59.56,
+        "median_h": 27.38
+      },
+      {
+        "root_cause": "Capacity / Performance",
+        "n": 778,
+        "breach_pct": 25.19,
+        "ci_low": 22.27,
+        "ci_high": 28.36,
+        "excess_breaches": 30.78,
+        "median_h": 22.52
+      },
+      {
+        "root_cause": "Software Defect",
+        "n": 1149,
+        "breach_pct": 23.85,
+        "ci_low": 21.47,
+        "ci_high": 26.4,
+        "excess_breaches": 29.99,
+        "median_h": 19.54
+      },
+      {
+        "root_cause": "Undetermined",
+        "n": 1085,
+        "breach_pct": 20.74,
+        "ci_low": 18.43,
+        "ci_high": 23.25,
+        "excess_breaches": -5.42,
+        "median_h": 15.04
+      },
+      {
+        "root_cause": "Known Error",
+        "n": 912,
+        "breach_pct": 19.19,
+        "ci_low": 16.76,
+        "ci_high": 21.87,
+        "excess_breaches": -18.68,
+        "median_h": 14.02
+      },
+      {
+        "root_cause": "Configuration Error",
+        "n": 3131,
+        "breach_pct": 17.98,
+        "ci_low": 16.68,
+        "ci_high": 19.37,
+        "excess_breaches": -101.92,
+        "median_h": 14.79
+      },
+      {
+        "root_cause": "Security Threat",
+        "n": 852,
+        "breach_pct": 5.52,
+        "ci_low": 4.17,
+        "ci_high": 7.26,
+        "excess_breaches": -133.94,
+        "median_h": 7.87
+      },
+      {
+        "root_cause": "User Error",
+        "n": 2126,
+        "breach_pct": 6.63,
+        "ci_low": 5.65,
+        "ci_high": 7.77,
+        "excess_breaches": -310.49,
+        "median_h": 7.67
+      }
+    ],
+    "escalation_crude_or": 5.17,
+    "escalation_mh_or": 4.35,
+    "escalation_strata": [
+      {
+        "priority": "P1",
+        "odds_ratio": 10.68
+      },
+      {
+        "priority": "P2",
+        "odds_ratio": 5.37
+      },
+      {
+        "priority": "P3",
+        "odds_ratio": 3.36
+      },
+      {
+        "priority": "P4",
+        "odds_ratio": 5.07
+      }
+    ],
+    "change_share_by_quarter": {
+      "2024Q1": 13.61,
+      "2024Q2": 12.87,
+      "2024Q3": 15.15,
+      "2024Q4": 18.11,
+      "2025Q1": 16.86,
+      "2025Q2": 18.42,
+      "2025Q3": 21.32,
+      "2025Q4": 23.44
+    },
+    "change_slope_pp_per_quarter": 1.42,
+    "change_slope_p": 0.00023350188657487886
+  },
+  "teams": {
+    "kruskal_h": 3060.9,
+    "kruskal_p": 0.0,
+    "table": [
+      {
+        "team_id": "T01",
+        "team": "Service Desk",
+        "n": 4520,
+        "observed": 4.093,
+        "expected": 15.785,
+        "oe_ratio": 0.259,
+        "tickets_per_agent_month": 10.759,
+        "fcr_pct": 53.097,
+        "median_h": 6.31
+      },
+      {
+        "team_id": "T02",
+        "team": "End User Computing",
+        "n": 3532,
+        "observed": 16.166,
+        "expected": 16.332,
+        "oe_ratio": 0.99,
+        "tickets_per_agent_month": 15.088,
+        "fcr_pct": 31.738,
+        "median_h": 19.46
+      },
+      {
+        "team_id": "T03",
+        "team": "Network Operations",
+        "n": 3208,
+        "observed": 35.224,
+        "expected": 18.847,
+        "oe_ratio": 1.869,
+        "tickets_per_agent_month": 19.631,
+        "fcr_pct": 10.897,
+        "median_h": 29.72
+      },
+      {
+        "team_id": "T04",
+        "team": "Infrastructure & Cloud",
+        "n": 3117,
+        "observed": 27.911,
+        "expected": 19.53,
+        "oe_ratio": 1.429,
+        "tickets_per_agent_month": 12.087,
+        "fcr_pct": 9.464,
+        "median_h": 21.82
+      },
+      {
+        "team_id": "T05",
+        "team": "Application Support",
+        "n": 2879,
+        "observed": 25.773,
+        "expected": 22.144,
+        "oe_ratio": 1.164,
+        "tickets_per_agent_month": 10.26,
+        "fcr_pct": 7.011,
+        "median_h": 18.27
+      },
+      {
+        "team_id": "T06",
+        "team": "Identity & Access Management",
+        "n": 1808,
+        "observed": 11.449,
+        "expected": 17.752,
+        "oe_ratio": 0.645,
+        "tickets_per_agent_month": 11.077,
+        "fcr_pct": 30.859,
+        "median_h": 12.27
+      },
+      {
+        "team_id": "T07",
+        "team": "Security Operations",
+        "n": 1361,
+        "observed": 5.952,
+        "expected": 18.74,
+        "oe_ratio": 0.318,
+        "tickets_per_agent_month": 7.281,
+        "fcr_pct": 22.263,
+        "median_h": 7.55
+      },
+      {
+        "team_id": "T08",
+        "team": "Database Services",
+        "n": 1086,
+        "observed": 10.866,
+        "expected": 17.264,
+        "oe_ratio": 0.629,
+        "tickets_per_agent_month": 6.655,
+        "fcr_pct": 17.712,
+        "median_h": 12.11
+      }
+    ],
+    "spearman_load_vs_oe": 0.667,
+    "p_load_vs_oe": 0.07098765432098755
+  },
+  "segmentation": {
+    "silhouette": {
+      "2": 0.238,
+      "3": 0.243,
+      "4": 0.228,
+      "5": 0.21,
+      "6": 0.192
+    },
+    "k": 4,
+    "customers_clustered": 453,
+    "profile": [
+      {
+        "segment": "SLA-pressured premium",
+        "customers": 127,
+        "median_tickets": 49.0,
+        "breach_pct": 27.06,
+        "repeat_pct": 6.57,
+        "escalation_pct": 21.67,
+        "avg_csat": 3.71,
+        "pct_platinum": 40.16
+      },
+      {
+        "segment": "Steady core",
+        "customers": 194,
+        "median_tickets": 27.0,
+        "breach_pct": 7.68,
+        "repeat_pct": 4.32,
+        "escalation_pct": 16.45,
+        "avg_csat": 4.21,
+        "pct_platinum": 2.06
+      },
+      {
+        "segment": "Low-touch",
+        "customers": 80,
+        "median_tickets": 16.0,
+        "breach_pct": 10.29,
+        "repeat_pct": 2.95,
+        "escalation_pct": 32.19,
+        "avg_csat": 3.92,
+        "pct_platinum": 1.25
+      },
+      {
+        "segment": "Chronic-problem accounts",
+        "customers": 52,
+        "median_tickets": 120.0,
+        "breach_pct": 20.95,
+        "repeat_pct": 27.96,
+        "escalation_pct": 24.07,
+        "avg_csat": 3.94,
+        "pct_platinum": 23.08
+      }
+    ]
+  },
+  "timeseries": {
+    "breach_slope_pp_per_month": 0.379,
+    "breach_p": 0.00013175463189980458,
+    "breach_r2": 0.493,
+    "volume_slope_per_month": 12.8,
+    "volume_p": 0.00011072634976351696,
+    "csat_slope_per_month": -0.0074,
+    "csat_p": 0.0009365726392573252,
+    "spearman_volume_breach": 0.907,
+    "p_volume_breach": 1.0085009676099373e-09
+  }
+}

@@ -1,0 +1,9 @@
+team_name,kb_usage_pct,fcr_pct_with_kb,fcr_pct_without_kb,median_h_with_kb,median_h_without_kb
+Application Support,29.4,13.7,4.3,14.7,19.9
+Infrastructure & Cloud,30.6,18.8,5.4,16.6,24.0
+Network Operations,31.5,23.7,5.2,19.6,34.7
+Database Services,34.0,32.6,10.3,9.0,14.2
+Security Operations,37.0,34.7,14.5,5.6,8.9
+Identity & Access Management,39.1,48.9,19.3,8.3,15.4
+End User Computing,42.3,45.4,22.0,14.2,24.0
+Service Desk,72.9,59.7,34.9,5.5,9.3

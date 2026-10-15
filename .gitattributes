@@ -1,0 +1,9 @@
+# Keep LF line endings everywhere. This matters: data/raw/manifest.json stores SHA-256
+# hashes of the CSVs, and Git on Windows (core.autocrlf=true) would otherwise convert
+# them to CRLF on checkout, breaking the reproducibility check.
+* text=auto eol=lf
+*.csv text eol=lf
+*.ps1 text eol=crlf
+*.png binary
+*.pbix binary
+*.zip binary

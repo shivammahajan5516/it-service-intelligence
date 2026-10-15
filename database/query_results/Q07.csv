@@ -1,0 +1,6 @@
+experience_level,tickets,median_resolution_hours,escalation_pct,reopen_pct,sla_breach_pct
+Junior,6628,20.3,22.7,9.3,18.4
+Intermediate,9169,15.6,19.2,5.8,18.1
+(unassigned),88,14.1,23.9,6.8,21.6
+Senior,5028,9.9,23.5,5.9,17.1
+Lead,1177,9.3,26.9,8.5,21.3

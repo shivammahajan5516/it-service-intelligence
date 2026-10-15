@@ -1,0 +1,11 @@
+resolution_type,resolved,reopen_pct,csat_not_reopened,csat_reopened
+Workaround,3250,16.4,3.97,2.93
+No Fault Found,914,11.7,4.07,3.05
+Permanent Fix,1817,6.7,3.86,3.15
+Threat Contained,709,5.9,4.25,3.3
+Vendor Fix,1265,5.5,3.82,2.89
+Change Rollback,1516,5.0,3.92,3.0
+Configuration Change,4385,5.0,4.01,3.05
+Hardware Replacement,1201,4.8,3.89,2.92
+User Education,1751,4.7,4.25,3.33
+Request Fulfilled,4755,4.3,4.26,3.45

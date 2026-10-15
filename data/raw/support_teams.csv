@@ -1,0 +1,9 @@
+team_id,team_name,support_tier,primary_location,operating_model,planned_headcount,team_lead_agent_id
+T01,Service Desk,L1,Manchester Hub,24x7,18,AGT-001
+T02,End User Computing,L2,Manchester Hub,Business Hours,10,AGT-019
+T03,Network Operations,L2/L3,London HQ,24x7,7,AGT-029
+T04,Infrastructure & Cloud,L3,London HQ,Business Hours + On-call,11,AGT-036
+T05,Application Support,L2/L3,Bristol Office,Business Hours,12,AGT-047
+T06,Identity & Access Management,L2,Glasgow Hub,Business Hours,7,AGT-059
+T07,Security Operations,L3,London HQ,24x7,8,AGT-066
+T08,Database Services,L3,Bristol Office,Business Hours + On-call,7,AGT-074

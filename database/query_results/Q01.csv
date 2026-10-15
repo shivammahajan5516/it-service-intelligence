@@ -1,0 +1,8 @@
+ticket_status,tickets,pct_of_total
+Closed,21479,97.23
+Cancelled,277,1.25
+In Progress,138,0.62
+Resolved,84,0.38
+Pending Customer,77,0.35
+On Hold,30,0.14
+New,5,0.02

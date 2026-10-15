@@ -1,0 +1,25 @@
+priority,channel,tickets,response_met_pct,median_response_minutes
+P1,(all channels),920,96.1,4
+P1,Email,85,83.5,11
+P1,Portal,148,91.9,11
+P1,Monitoring Alert,226,95.6,7
+P1,Chat,56,100.0,3
+P1,Phone,405,100.0,2
+P2,(all channels),3257,87.2,20
+P2,Email,682,74.5,36
+P2,Portal,1006,80.8,29
+P2,Monitoring Alert,668,94.6,16
+P2,Chat,352,97.4,11
+P2,Phone,549,99.1,7
+P3,(all channels),10535,75.3,109
+P3,Email,2373,62.9,183
+P3,Portal,3477,70.5,152
+P3,Monitoring Alert,1347,79.1,90
+P3,Chat,1397,86.5,53
+P3,Phone,1941,88.3,38
+P4,(all channels),7179,82.9,280
+P4,Email,1600,72.8,503
+P4,Portal,2698,79.5,386
+P4,Monitoring Alert,437,86.5,226
+P4,Phone,1458,92.6,100
+P4,Chat,986,92.7,134

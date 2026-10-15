@@ -1,0 +1,46 @@
+{
+  "seed": 42,
+  "generator": "scripts/generate_dataset.py",
+  "period_start": "2024-01-01",
+  "period_end": "2025-12-31",
+  "snapshot_at": "2025-12-31 23:59:59",
+  "synthetic": true,
+  "files": {
+    "tickets.csv": {
+      "rows": 22246,
+      "columns": 24,
+      "sha256": "5c5d8f55b121299fb9fbf5f2f67e7101d3db5f805993b26605885f8bd25f9070"
+    },
+    "customers.csv": {
+      "rows": 500,
+      "columns": 9,
+      "sha256": "0e594f47cbac0544d27de71c93e7cdf438d2b497af35ffd29e1e59e277c130ab"
+    },
+    "agents.csv": {
+      "rows": 80,
+      "columns": 8,
+      "sha256": "83ca8a8d316ffcb22ea3ea039a25649ff2309f0269d538cb295708e944583363"
+    },
+    "support_teams.csv": {
+      "rows": 8,
+      "columns": 7,
+      "sha256": "916d80f53b1ae1b5b475dbaccbfd3459a7f4094a1ac4e0fb44d44425321f0d87"
+    },
+    "sla_targets.csv": {
+      "rows": 16,
+      "columns": 8,
+      "sha256": "b338c6a424a6099a6151873e8d0d285f1ec0891749017dc82f8c59502e5ac870"
+    },
+    "calendar.csv": {
+      "rows": 731,
+      "columns": 18,
+      "sha256": "3b1f4658575d1ef99289f6214dc6d8bf6fca16347c0343ed639283da17dcb228"
+    },
+    "incident_categories.csv": {
+      "rows": 39,
+      "columns": 7,
+      "sha256": "6543d225ab9e292606844db422f23827319036e2f3f4912d18fddba7dcf8965d"
+    }
+  },
+  "dq_injection_log_rows": 3219
+}

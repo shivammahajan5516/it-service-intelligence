@@ -1,0 +1,31 @@
+industry,rank_in_industry,customer_name,sla_level,tickets,sla_breach_pct
+Education,1,Ullswater Learning,Platinum,118,31.03
+Education,2,Foxley Learning,Platinum,117,27.19
+Education,3,Ashford College,Gold,106,18.87
+Energy & Utilities,1,Granite Renewables plc,Platinum,220,37.33
+Energy & Utilities,2,Exmoor Water Ltd,Silver,88,4.65
+Energy & Utilities,3,Juniper Renewables Group,Platinum,78,29.33
+Financial Services,1,Kingsmere Partners Group,Gold,226,18.92
+Financial Services,2,Ironbridge Bank plc,Gold,221,19.62
+Financial Services,3,Hartwell Bank Group,Silver,132,9.3
+Healthcare,1,Vale Health Ltd,Silver,212,8.61
+Healthcare,2,Clifton Clinics Ltd,Platinum,135,38.76
+Healthcare,3,Portland Care Group plc,Platinum,127,30.16
+Logistics,1,Foxley Logistics Ltd,Platinum,144,33.33
+Logistics,2,Moorland Transport Ltd,Platinum,142,31.43
+Logistics,3,Clifton Logistics plc,Silver,138,6.77
+Manufacturing,1,Osprey Engineering Group,Gold,295,21.33
+Manufacturing,2,Northgate Engineering plc,Platinum,218,31.43
+Manufacturing,3,Dalton Industries Group,Gold,205,20.92
+Professional Services,1,Granite Accountants Group,Platinum,236,32.31
+Professional Services,2,Bramley Legal Ltd,Platinum,141,29.2
+Professional Services,3,Brightwater Advisory plc,Gold,113,27.27
+Public Sector,1,Riverside Authority,Gold,124,21.19
+Public Sector,2,Ironbridge Housing Trust,Gold,120,17.8
+Public Sector,3,Kestrel Services,Gold,114,20.54
+Retail,1,Albion Home Ltd,Gold,175,23.26
+Retail,2,Linden Outlets Ltd,Silver,158,5.84
+Retail,3,Riverside Stores Ltd,Platinum,157,32.47
+Technology,1,Abbey Software Ltd,Gold,219,28.5
+Technology,2,Tamar Technologies Ltd,Silver,215,5.21
+Technology,3,Stanmore Labs Group,Platinum,178,35.43

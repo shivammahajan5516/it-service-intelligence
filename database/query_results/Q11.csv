@@ -1,0 +1,16 @@
+customer_name,industry,csat_responses,avg_csat,industry_avg_csat
+Pennine Industries Group,Manufacturing,14,2.79,4.02
+Foxley Water Ltd,Energy & Utilities,13,3.0,3.81
+Heron Authority,Public Sector,13,3.0,3.96
+Pembroke Outlets plc,Retail,12,3.0,3.98
+Brightwater Advisory plc,Professional Services,44,3.09,3.94
+Granite Power Ltd,Energy & Utilities,12,3.17,3.81
+Clifton Clinics Ltd,Healthcare,57,3.23,3.94
+Larkfield Pharma Ltd,Healthcare,32,3.25,3.94
+Oakridge Academy Trust,Education,31,3.26,3.89
+Cotswold Technologies Ltd,Technology,23,3.26,4.08
+Marlow Insurance plc,Financial Services,19,3.26,3.94
+Ullswater Council,Public Sector,13,3.31,3.96
+Greystone Labs Group,Technology,15,3.33,4.08
+Elmstead Legal Ltd,Professional Services,17,3.35,3.94
+Granite Digital Ltd,Technology,11,3.36,4.08

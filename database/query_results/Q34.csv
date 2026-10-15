@@ -1,0 +1,9 @@
+team_name,tickets,tickets_per_agent_per_month,sla_breach_pct,breach_vs_avg_pp,median_resolution_hours,fcr_pct,fcr_vs_avg_pp,reopen_pct,avg_csat,sla_rank,csat_rank
+Service Desk,4648,10.76,4.09,-13.1,6.31,53.1,30.2,4.92,4.282,1,1
+Security Operations,1398,7.28,5.95,-11.2,7.55,22.26,-0.6,6.22,4.235,2,2
+Database Services,1118,6.65,10.87,-6.3,12.11,17.71,-5.2,7.18,4.091,3,3
+Identity & Access Management,1861,11.08,11.45,-5.7,12.27,30.86,8.0,6.78,4.07,4,4
+End User Computing,3621,15.09,16.17,-1.0,19.46,31.74,8.9,6.81,3.999,5,5
+Application Support,2955,10.26,25.77,8.6,18.27,7.01,-15.9,10.54,3.791,6,7
+Infrastructure & Cloud,3191,12.09,27.91,10.7,21.82,9.46,-13.4,7.21,3.804,7,6
+Network Operations,3298,19.63,35.22,18.0,29.72,10.9,-12.0,7.34,3.64,8,8

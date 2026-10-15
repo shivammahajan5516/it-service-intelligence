@@ -1,0 +1,9 @@
+team_id,team_name,support_tier,resolved_in_scope,breaches,sla_breach_pct
+T03,Network Operations,L2/L3,3208,1130,35.2
+T04,Infrastructure & Cloud,L3,3117,870,27.9
+T05,Application Support,L2/L3,2879,742,25.8
+T02,End User Computing,L2,3532,571,16.2
+T06,Identity & Access Management,L2,1808,207,11.4
+T08,Database Services,L3,1086,118,10.9
+T07,Security Operations,L3,1361,81,6.0
+T01,Service Desk,L1,4520,185,4.1

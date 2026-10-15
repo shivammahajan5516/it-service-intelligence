@@ -1,0 +1,89 @@
+{
+  "note": "Preliminary baseline from a minimal pre-clean of synthetic data; recomputed in Phase 4/5.",
+  "overall": {
+    "tickets_resolved": 21363,
+    "sla_breach_rate_pct": 17.8,
+    "median_resolution_hours": 14.8,
+    "mean_resolution_hours": 26.5,
+    "fcr_rate_pct": 25.4,
+    "reopen_rate_pct": 7.0,
+    "escalation_rate_pct": 21.6,
+    "avg_csat": 3.97,
+    "csat_response_rate_pct": 41.8
+  },
+  "by_half_year": {
+    "2024-H1": {
+      "tickets_resolved": 4741,
+      "sla_breach_rate_pct": 14.2,
+      "median_resolution_hours": 12.6,
+      "mean_resolution_hours": 23.0,
+      "fcr_rate_pct": 27.3,
+      "reopen_rate_pct": 6.4,
+      "escalation_rate_pct": 20.7,
+      "avg_csat": 4.03,
+      "csat_response_rate_pct": 42.0
+    },
+    "2024-H2": {
+      "tickets_resolved": 5064,
+      "sla_breach_rate_pct": 15.8,
+      "median_resolution_hours": 14.0,
+      "mean_resolution_hours": 24.8,
+      "fcr_rate_pct": 25.2,
+      "reopen_rate_pct": 7.1,
+      "escalation_rate_pct": 20.8,
+      "avg_csat": 4.01,
+      "csat_response_rate_pct": 41.3
+    },
+    "2025-H1": {
+      "tickets_resolved": 5735,
+      "sla_breach_rate_pct": 19.3,
+      "median_resolution_hours": 15.6,
+      "mean_resolution_hours": 27.6,
+      "fcr_rate_pct": 25.4,
+      "reopen_rate_pct": 6.9,
+      "escalation_rate_pct": 21.7,
+      "avg_csat": 3.94,
+      "csat_response_rate_pct": 41.7
+    },
+    "2025-H2": {
+      "tickets_resolved": 5823,
+      "sla_breach_rate_pct": 21.1,
+      "median_resolution_hours": 16.8,
+      "mean_resolution_hours": 29.7,
+      "fcr_rate_pct": 24.1,
+      "reopen_rate_pct": 7.5,
+      "escalation_rate_pct": 22.9,
+      "avg_csat": 3.91,
+      "csat_response_rate_pct": 42.3
+    }
+  },
+  "repeat_incident_rate_pct": 12.5,
+  "top30_customers_share_of_repeat_incidents_pct": 53.0,
+  "tickets_per_agent_per_month_2025": {
+    "T01": 11.6,
+    "T02": 16.4,
+    "T03": 21.4,
+    "T04": 13.1,
+    "T05": 10.7,
+    "T06": 11.3,
+    "T07": 7.7,
+    "T08": 7.4
+  },
+  "team_sla_breach_rate_pct": {
+    "T01": 3.8,
+    "T02": 15.9,
+    "T03": 35.0,
+    "T04": 27.6,
+    "T05": 25.5,
+    "T06": 11.1,
+    "T07": 5.1,
+    "T08": 10.3
+  },
+  "root_cause_top3": {
+    "Configuration Error": 0.195,
+    "Change-Related": 0.177,
+    "User Error": 0.132
+  },
+  "root_cause_top3_share_pct": 50.3,
+  "open_backlog_at_snapshot": 250
+}
